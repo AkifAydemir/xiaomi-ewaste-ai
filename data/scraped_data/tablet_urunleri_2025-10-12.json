@@ -1,0 +1,1378 @@
+{
+  "kategoriAnahtari": "tablet",
+  "kategoriAdi": "Tabletler",
+  "cekilmeTarihi": "2025-10-12T21:43:06.878Z",
+  "toplamUrunSayisi": 16,
+  "urunler": [
+    {
+      "productName": "",
+      "productUrl": "https://www.mi.com/tr/product/bundle/3223712980/specs",
+      "category": "tablet",
+      "extractedAt": "2025-10-12T20:32:27.030Z",
+      "features": {
+        "batarya": {
+          "kapasite": "",
+          "sarj_gucu": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "islemci": {
+          "marka": "",
+          "model": ""
+        },
+        "bellek": {
+          "ram": "",
+          "depolama": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "bluetooth": "",
+          "g5": ""
+        },
+        "otherFeatures": []
+      },
+      "extractionQuality": {
+        "toplamAlan": 12,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Poco Pad Cover",
+      "productUrl": "https://www.mi.com/tr/product/poco-pad-cover/specs",
+      "category": "tablet",
+      "extractedAt": "2025-10-12T20:32:53.300Z",
+      "features": {
+        "batarya": {
+          "kapasite": "",
+          "sarj_gucu": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "islemci": {
+          "marka": "",
+          "model": ""
+        },
+        "bellek": {
+          "ram": "",
+          "depolama": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "bluetooth": "",
+          "g5": ""
+        },
+        "otherFeatures": [
+          {
+            "key": "Uyumlu model",
+            "value": "POCO Pad"
+          },
+          {
+            "key": "Renk",
+            "value": "Siyah"
+          },
+          {
+            "key": "Marka",
+            "value": "POCO"
+          }
+        ]
+      },
+      "extractionQuality": {
+        "toplamAlan": 12,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 3
+      }
+    },
+    {
+      "productName": "POCO Pad",
+      "productUrl": "https://www.mi.com/tr/product/poco-pad/specs",
+      "category": "tablet",
+      "extractedAt": "2025-10-12T20:33:19.745Z",
+      "features": {
+        "batarya": {
+          "kapasite": "10.000 mAh (tipik) / 9800 mAh (min)",
+          "sarj_gucu": "33 W"
+        },
+        "ekran": {
+          "boyut": "12,1 inç",
+          "cozunurluk": "2560 x 1600",
+          "panel_tipi": "LCD"
+        },
+        "islemci": {
+          "marka": "Qualcomm",
+          "model": "Snapdragon® 7s Gen 2 Mobil Platformu"
+        },
+        "bellek": {
+          "ram": "8 GB",
+          "depolama": "256 GB"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi 6, Wi-Fi 5, Wi-Fi 4 ve 802.11a/b/g",
+          "bluetooth": "5.2",
+          "g5": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Yükseklik",
+          "value": "280,00 mm"
+        },
+        {
+          "key": "Genişlik",
+          "value": "181,85 mm"
+        },
+        {
+          "key": "Kalınlık",
+          "value": "7,52 mm"
+        },
+        {
+          "key": "Ağırlık",
+          "value": "571 g"
+        },
+        {
+          "key": "Merkezi İşleme Birimi (CPU)",
+          "value": "Sekiz çekirdekli, 2,4 GHz'e kadar"
+        },
+        {
+          "key": "Grafik İşleme Birimi (GPU)",
+          "value": "Qualcomm® Adreno™ GPU"
+        },
+        {
+          "key": "RAM Tipi",
+          "value": "LPDDR4X"
+        },
+        {
+          "key": "Depolama Tipi",
+          "value": "UFS 2.2"
+        },
+        {
+          "key": "Genişletilebilir Depolama",
+          "value": "1,5 TB'ye kadar"
+        },
+        {
+          "key": "En-Boy Oranı",
+          "value": "16:10"
+        },
+        {
+          "key": "Piksel Yoğunluğu",
+          "value": "249 ppi"
+        },
+        {
+          "key": "Yenileme Hızı",
+          "value": "120 Hz AdaptiveSync (30/48/50/60/90/120 Hz)"
+        },
+        {
+          "key": "Parlaklık",
+          "value": "500 nit (tipik); 600 nit (HBM)"
+        },
+        {
+          "key": "Dokunmatik Örnekleme Hızı",
+          "value": "240 Hz'e kadar"
+        },
+        {
+          "key": "Ekran-Gövde Oranı",
+          "value": "%83,6"
+        },
+        {
+          "key": "Kontrast Oranı",
+          "value": "1500:1"
+        },
+        {
+          "key": "Renk Derinliği",
+          "value": "12 bit, 68,7 milyar renk"
+        },
+        {
+          "key": "Karartma",
+          "value": "4096 parlaklık ayarı seviyesi, DC karartma"
+        },
+        {
+          "key": "Dolby Vision",
+          "value": "Uyumlu"
+        },
+        {
+          "key": "Uyumlu Renkler",
+          "value": "Uyumlu"
+        },
+        {
+          "key": "Uyumlu Okuma Modu",
+          "value": "Uyumlu"
+        },
+        {
+          "key": "TÜV Rheinland Düşük Mavi Işık",
+          "value": "Sertifikalı (Donanım Çözümü)"
+        },
+        {
+          "key": "TÜV Rheinland Titreşimsiz",
+          "value": "Sertifikalı"
+        },
+        {
+          "key": "TÜV Rheinland Sirkadiyen Ritim Dostu",
+          "value": "Sertifikalı"
+        },
+        {
+          "key": "Corning® Gorilla® Glass",
+          "value": "3"
+        },
+        {
+          "key": "Arka Kamera",
+          "value": "8 MP, 1/4\", f/2, 1,12 μm"
+        },
+        {
+          "key": "Arka Kamera Çözünürlük",
+          "value": "1080 P 1920 x 1080 30 fps, 720 P 1280 x 720 30 fps"
+        },
+        {
+          "key": "Ön Kamera",
+          "value": "8 MP, 1/4\", f/2,28, 1,12 μm"
+        },
+        {
+          "key": "Ön Kamera Çözünürlük",
+          "value": "1080 P 1920 x 1080 30 fps, 720 P 1280 x 720 30 fps"
+        },
+        {
+          "key": "USB Tipi",
+          "value": "USB Type-C"
+        },
+        {
+          "key": "Veri Aktarımı",
+          "value": "USB 2.0"
+        },
+        {
+          "key": "Wi-Fi Frekansları",
+          "value": "2,4 GHz Wi-Fi | 5 GHz Wi-Fi"
+        },
+        {
+          "key": "Wi-Fi Özellikleri",
+          "value": "2x2 MIMO, Wi-Fi Direct, Miracast, MU-MIMO desteği"
+        },
+        {
+          "key": "Bluetooth Kodekleri",
+          "value": "AAC/LDAC/SBC/aptX/aptX-HD/aptx-adaptive"
+        },
+        {
+          "key": "IPv6",
+          "value": "Desteği"
+        },
+        {
+          "key": "Sensörler",
+          "value": "İvmeölçer, Jiroskop, Ortam ışığı sensörü, Renk sıcaklığı sensörü, Elektronik pusula, Hall sensörü"
+        },
+        {
+          "key": "İşletim Sistemi",
+          "value": "Xiaomi HyperOS, Android U"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Tablet Bilgisayar, Adaptör, USB C Tipi Kablo, Hızlı Başlangıç Kılavuzu, Garanti Kartı, SD Kart Çıkarma Aracı"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 12,
+        "doluAlan": 11,
+        "yuzde": "92%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Redmi Pad Pro Cover",
+      "productUrl": "https://www.mi.com/tr/product/redmi-pad-pro-cover/specs",
+      "category": "tablet",
+      "extractedAt": "2025-10-12T20:34:26.706Z",
+      "features": {
+        "batarya": {
+          "kapasite": "",
+          "sarj_gucu": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "islemci": {
+          "marka": "",
+          "model": ""
+        },
+        "bellek": {
+          "ram": "",
+          "depolama": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "bluetooth": "",
+          "g5": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Fiyat",
+          "value": "999 TL"
+        },
+        {
+          "key": "Destek",
+          "value": "Xiaomi Türkiye Güvencesi"
+        },
+        {
+          "key": "İade Politikası",
+          "value": "Var"
+        },
+        {
+          "key": "Müşteri Hizmetleri",
+          "value": "0 800 621 22 26"
+        },
+        {
+          "key": "E-posta Destek",
+          "value": "service.tr@support.mi.com"
+        },
+        {
+          "key": "Sipariş Destek",
+          "value": "service.tr.orders@support.mi.com"
+        },
+        {
+          "key": "Ürün Güvenliği",
+          "value": "service.tr.orders@support.mi.com"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 12,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Redmi Pad Pro Keyboard",
+      "productUrl": "https://www.mi.com/tr/product/redmi-pad-pro-keyboard/specs",
+      "category": "tablet",
+      "extractedAt": "2025-10-12T20:34:56.325Z",
+      "features": {
+        "batarya": {
+          "kapasite": "",
+          "sarj_gucu": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "islemci": {
+          "marka": "",
+          "model": ""
+        },
+        "bellek": {
+          "ram": "",
+          "depolama": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "bluetooth": "5.2",
+          "g5": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Compatible models",
+          "value": "Redmi Pad Pro"
+        },
+        {
+          "key": "Dimensions",
+          "value": "385.1×283.6×10.9 mm (unfolded)"
+        },
+        {
+          "key": "Weight",
+          "value": "450±10g"
+        },
+        {
+          "key": "Keys quantity",
+          "value": "64 keys (US version) / 65 keys (UK version)"
+        },
+        {
+          "key": "Key travel",
+          "value": "1.3mm"
+        },
+        {
+          "key": "Language",
+          "value": "US English | Thai | Russian | Arabic | French | Italian | UK English | German | Spanish"
+        },
+        {
+          "key": "Package contents",
+          "value": "Redmi Pad Pro Keyboard / Pen holder / Quick Start Guide / Warranty Card"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 12,
+        "doluAlan": 1,
+        "yuzde": "8%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Redmi Pad Pro",
+      "productUrl": "https://www.mi.com/tr/product/redmi-pad-pro/specs",
+      "category": "tablet",
+      "extractedAt": "2025-10-12T20:35:30.088Z",
+      "features": {
+        "batarya": {
+          "kapasite": "10.000 mAh (tipik) / 9800 mAh (min)",
+          "sarj_gucu": "33 W"
+        },
+        "ekran": {
+          "boyut": "12,1 inç",
+          "cozunurluk": "2560 x 1600",
+          "panel_tipi": "LCD"
+        },
+        "islemci": {
+          "marka": "Snapdragon",
+          "model": "7s Gen 2"
+        },
+        "bellek": {
+          "ram": "6 GB / 8 GB",
+          "depolama": "128 GB / 256 GB"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi 6, Wi-Fi 5, Wi-Fi 4, 802.11a/b/g",
+          "bluetooth": "5.2",
+          "g5": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Yükseklik",
+          "value": "280,0 mm"
+        },
+        {
+          "key": "Genişlik",
+          "value": "181,85 mm"
+        },
+        {
+          "key": "Kalınlık",
+          "value": "7,52 mm"
+        },
+        {
+          "key": "Ağırlık",
+          "value": "571 g"
+        },
+        {
+          "key": "İşlemci Hızı",
+          "value": "2,4 GHz'ye kadar"
+        },
+        {
+          "key": "İşlemci İşleme",
+          "value": "4 nm"
+        },
+        {
+          "key": "RAM Tipi",
+          "value": "LPDDR4X"
+        },
+        {
+          "key": "Depolama Tipi",
+          "value": "UFS 2.2"
+        },
+        {
+          "key": "Genişletilebilir Depolama",
+          "value": "1,5 TB'ye kadar"
+        },
+        {
+          "key": "En-Boy Oranı",
+          "value": "16:10"
+        },
+        {
+          "key": "Piksel Yoğunluğu",
+          "value": "249 ppi"
+        },
+        {
+          "key": "Yenileme Hızı",
+          "value": "120 Hz AdaptiveSync (30/48/50/60/90/120 Hz)"
+        },
+        {
+          "key": "Parlaklık",
+          "value": "500 nit (tipik); 600 nit (HBM)"
+        },
+        {
+          "key": "Dokunma Örnekleme Hızı",
+          "value": "240 Hz'e kadar"
+        },
+        {
+          "key": "Ekran-Gövde Oranı",
+          "value": "%83,6"
+        },
+        {
+          "key": "Kontrast Oranı",
+          "value": "1500:1"
+        },
+        {
+          "key": "Renk Derinliği",
+          "value": "12 bit, 68,7 milyar renk"
+        },
+        {
+          "key": "Karartma",
+          "value": "4096 parlaklık ayarı seviyesi, DC karartma"
+        },
+        {
+          "key": "Dolby Vision",
+          "value": "Uyumlu"
+        },
+        {
+          "key": "Uyumlu Renkler",
+          "value": "Uyumlu"
+        },
+        {
+          "key": "Uyumlu Okuma Modu",
+          "value": "Uyumlu"
+        },
+        {
+          "key": "TÜV Rheinland Düşük Mavi Işık",
+          "value": "Sertifikalı (Donanım Çözümü)"
+        },
+        {
+          "key": "TÜV Rheinland Titreşimsiz",
+          "value": "Sertifikalı"
+        },
+        {
+          "key": "TÜV Rheinland Sirkadiyen Ritim Dostu",
+          "value": "Sertifikalı"
+        },
+        {
+          "key": "Corning Gorilla Glass",
+          "value": "3"
+        },
+        {
+          "key": "Arka Kamera",
+          "value": "8 MP, 1/4\", f/2, 1,12 μm, 1080 P 1920 x 1080 30 fps, 720 P 1280 x 720 30 fps"
+        },
+        {
+          "key": "Ön Kamera",
+          "value": "8 MP, 1/4\", f/2.28, 1,12 μm, 1080 P 1920 x 1080 30 fps, 720 P 1280 x 720 30 fps"
+        },
+        {
+          "key": "USB Tipi",
+          "value": "USB Type-C"
+        },
+        {
+          "key": "USB Sürümü",
+          "value": "USB 2.0"
+        },
+        {
+          "key": "Wi-Fi Frekansı",
+          "value": "2,4 GHz Wi-Fi | 5 GHz Wi-Fi"
+        },
+        {
+          "key": "Wi-Fi Özellikleri",
+          "value": "2x2 MIMO, Wi-Fi Direct, Miracast, MU-MIMO desteği"
+        },
+        {
+          "key": "Bluetooth Kodekleri",
+          "value": "AAC/LDAC/SBC/aptX/aptX-HD/aptx-adaptive"
+        },
+        {
+          "key": "IPv6",
+          "value": "Desteği"
+        },
+        {
+          "key": "Sensörler",
+          "value": "İvmeölçer, Jiroskop, Ortam ışığı sensörü, Renk sıcaklığı sensörü, Elektronik pusula, Hall sensörü"
+        },
+        {
+          "key": "İşletim Sistemi",
+          "value": "Xiaomi HyperOS, Android U"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Tablet Bilgisayar, Adaptör, USB C Tipi Kablo, Hızlı Başlangıç Kılavuzu, Garanti Kartı, SD Kart Çıkarma Aracı"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 12,
+        "doluAlan": 11,
+        "yuzde": "92%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Redmi Pad SE 8.7 inch Cover",
+      "productUrl": "https://www.mi.com/tr/product/redmi-pad-se-8-7-inch-cover/specs",
+      "category": "tablet",
+      "extractedAt": "2025-10-12T20:36:39.089Z",
+      "features": {
+        "batarya": {
+          "kapasite": "",
+          "sarj_gucu": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "islemci": {
+          "marka": "",
+          "model": ""
+        },
+        "bellek": {
+          "ram": "",
+          "depolama": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "bluetooth": "",
+          "g5": ""
+        },
+        "otherFeatures": [
+          {
+            "key": "Açı",
+            "value": "23°±3°"
+          },
+          {
+            "key": "Açı",
+            "value": "67°±3°"
+          }
+        ]
+      },
+      "extractionQuality": {
+        "toplamAlan": 12,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 2
+      }
+    },
+    {
+      "productName": "Redmi Pad SE 8.7 inch",
+      "productUrl": "https://www.mi.com/tr/product/redmi-pad-se-8-7-inch/specs",
+      "category": "tablet",
+      "extractedAt": "2025-10-12T20:37:05.919Z",
+      "features": {
+        "batarya": {
+          "kapasite": "6650 mAh (tipik)",
+          "sarj_gucu": "18 W hızlı şarj"
+        },
+        "ekran": {
+          "boyut": "8,7 inç",
+          "cozunurluk": "1340x800",
+          "panel_tipi": "LCD"
+        },
+        "islemci": {
+          "marka": "MediaTek",
+          "model": "Helio G85"
+        },
+        "bellek": {
+          "ram": "4 GB / 6 GB",
+          "depolama": "64 GB / 128 GB"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi 5 çift bantlı (802.11a/b/g/n/ac)",
+          "bluetooth": "Bluetooth 5.3",
+          "g5": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Yükseklik",
+          "value": "211,58 mm"
+        },
+        {
+          "key": "Genişlik",
+          "value": "125,48 mm"
+        },
+        {
+          "key": "Kalınlık",
+          "value": "8,8 mm"
+        },
+        {
+          "key": "Ağırlık",
+          "value": "≤ 373 g"
+        },
+        {
+          "key": "Merkezi İşleme Birimi (CPU)",
+          "value": "Arm Cortex-A75 @ 2.0GHz, Arm Cortex-A55 @ 1.8GHz"
+        },
+        {
+          "key": "Grafik İşleme Birimi (GPU)",
+          "value": "Arm Mali-G52 MC2"
+        },
+        {
+          "key": "RAM Tipi",
+          "value": "LPDDR4X"
+        },
+        {
+          "key": "Depolama Tipi",
+          "value": "EMMC 5.1"
+        },
+        {
+          "key": "Genişletilebilir Depolama",
+          "value": "2 TB'a kadar"
+        },
+        {
+          "key": "En-Boy Oranı",
+          "value": "5:3"
+        },
+        {
+          "key": "Yenileme Hızı",
+          "value": "90 Hz'e kadar"
+        },
+        {
+          "key": "Parlaklık",
+          "value": "500 nit (tipik), 600 nit (Dış mekan modu)"
+        },
+        {
+          "key": "Ekran-Gövde Oranı",
+          "value": "%84,41"
+        },
+        {
+          "key": "Kontrast Oranı",
+          "value": "1500:1"
+        },
+        {
+          "key": "Renk Derinliği",
+          "value": "10-bit, 1 milyar renk"
+        },
+        {
+          "key": "Karartma",
+          "value": "2048"
+        },
+        {
+          "key": "Ses",
+          "value": "1 mikrofon, Dolby Atmos® destekli, çift hoparlör, 3,5 mm kulaklık jakı"
+        },
+        {
+          "key": "Arka Kamera",
+          "value": "8 MP, f/2.0, 1.12 μm piksel boyutu, 1080P 30 fps, 720P 30 fps"
+        },
+        {
+          "key": "Ön Kamera",
+          "value": "5 MP, f/2.2, 1.12 μm piksel boyutu, 1080P 30 fps, 720P 30 fps"
+        },
+        {
+          "key": "Veri Aktarımı",
+          "value": "USB 2.0"
+        },
+        {
+          "key": "Sensörler",
+          "value": "İvmeölçer, Elektronik pusula, Hall sensörü, Kızılötesi Verici, Sanal yakınlık sensörü, Sanal ışık sensörü"
+        },
+        {
+          "key": "İşletim Sistemi",
+          "value": "Xiaomi HyperOS, Android U"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Tablet Bilgisayar, Adaptör, USB C Tipi Kablo, Hızlı Başlangıç Kılavuzu, Garanti Kartı, SD Kart Çıkarma Aracı"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 12,
+        "doluAlan": 11,
+        "yuzde": "92%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Redmi Pad SE Cover",
+      "productUrl": "https://www.mi.com/tr/product/redmi-pad-se-cover/specs",
+      "category": "tablet",
+      "extractedAt": "2025-10-12T20:37:51.036Z",
+      "features": {
+        "batarya": {
+          "kapasite": "",
+          "sarj_gucu": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "islemci": {
+          "marka": "",
+          "model": ""
+        },
+        "bellek": {
+          "ram": "",
+          "depolama": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "bluetooth": "",
+          "g5": ""
+        },
+        "otherFeatures": [
+          {
+            "key": "Uyumlu model",
+            "value": "Redmi Pad SE"
+          },
+          {
+            "key": "Renk",
+            "value": "Siyah, Beyaz"
+          },
+          {
+            "key": "Boyutlar",
+            "value": "258,73 mm x 170,28 mm x 11,95 mm (katlanmış)"
+          },
+          {
+            "key": "Malzeme",
+            "value": "PC + PU + Fiberglas (mıknatıs dahil)"
+          },
+          {
+            "key": "Paket içeriği",
+            "value": "Redmi Pad SE Cover x1"
+          }
+        ]
+      },
+      "extractionQuality": {
+        "toplamAlan": 12,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 5
+      }
+    },
+    {
+      "productName": "Redmi Pad SE",
+      "productUrl": "https://www.mi.com/tr/product/redmi-pad-se/specs",
+      "category": "tablet",
+      "extractedAt": "2025-10-12T20:38:16.686Z",
+      "features": {
+        "batarya": {
+          "kapasite": "8000 mAh (tipik)",
+          "sarj_gucu": "10 W"
+        },
+        "ekran": {
+          "boyut": "11 inç",
+          "cozunurluk": "1920 x 1200",
+          "panel_tipi": "FHD+"
+        },
+        "islemci": {
+          "marka": "Qualcomm",
+          "model": "Snapdragon® 680 Mobil Platformu"
+        },
+        "bellek": {
+          "ram": "4 GB/6 GB/8 GB",
+          "depolama": "128 GB"
+        },
+        "baglanti": {
+          "wifi": "2,4 GHz | 5 GHz",
+          "bluetooth": "5.0",
+          "g5": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "işlemci teknolojisi",
+          "value": "6 nm Process Technology"
+        },
+        {
+          "key": "merkezi işleme birimi (CPU)",
+          "value": "8 çekirdek, 2,4 GHz'ye kadar"
+        },
+        {
+          "key": "grafik işleme birimi (GPU)",
+          "value": "Qualcomm® Adreno™"
+        },
+        {
+          "key": "genişletilebilir depolama alanı",
+          "value": "1 TB'ye kadar"
+        },
+        {
+          "key": "boyutlar",
+          "value": "255,53 mm x 167,08 mm x 7,36 mm"
+        },
+        {
+          "key": "tasarım",
+          "value": "Alüminyum alaşımlı tek parça tasarım"
+        },
+        {
+          "key": "yenileme hızı",
+          "value": "90 Hz'ye kadar"
+        },
+        {
+          "key": "parlaklık",
+          "value": "400 nit (tipik)"
+        },
+        {
+          "key": "dokunmatik örnekleme hızı",
+          "value": "180 Hz'ye kadar"
+        },
+        {
+          "key": "ekran-gövde oranı",
+          "value": "%84,4"
+        },
+        {
+          "key": "kontrast oranı",
+          "value": "1500:1"
+        },
+        {
+          "key": "renk gamı",
+          "value": "%70 NTSC"
+        },
+        {
+          "key": "renk derinliği",
+          "value": "8 bit, 16,7 milyon renk"
+        },
+        {
+          "key": "arka kamera",
+          "value": "8 MP, f/2.0, 1.12 μm piksel boyutu"
+        },
+        {
+          "key": "arka kamera video kaydı",
+          "value": "1080 P 1920 x 1080 30 fps, 720 P 1280 x 720 30 fps"
+        },
+        {
+          "key": "ön kamera",
+          "value": "5 MP, f/2.2, 1.12 μm piksel boyutu"
+        },
+        {
+          "key": "ön kamera video kaydı",
+          "value": "1080 P 1920 x 1080 30 fps, 720 P 1280 x 720 30 fps"
+        },
+        {
+          "key": "şarj bağlantı noktası",
+          "value": "USB Type-C"
+        },
+        {
+          "key": "yüzle kilit açma",
+          "value": "Yapay zeka destekli"
+        },
+        {
+          "key": "ses",
+          "value": "Dört Hoparlör, Dolby Atmos® destekli, Yüksek Çözünürlüklü Ses, 3,5 mm kulaklık jakı"
+        },
+        {
+          "key": "sensörler",
+          "value": "Sanal ortam ışığı sensörü, İvme ölçer, Hall sensörü"
+        },
+        {
+          "key": "işletim sistemi",
+          "value": "Android 13 tabanlı MIUI Pad 14"
+        },
+        {
+          "key": "paket içeriği",
+          "value": "Redmi Pad SE, güç adaptörü, USB kablosu, garanti kartı, kullanıcı kılavuzu"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 12,
+        "doluAlan": 11,
+        "yuzde": "92%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Redmi Smart Pen",
+      "productUrl": "https://www.mi.com/tr/product/redmi-smart-pen/specs",
+      "category": "tablet",
+      "extractedAt": "2025-10-12T20:39:11.924Z",
+      "features": {
+        "batarya": {
+          "kapasite": "",
+          "sarj_gucu": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "islemci": {
+          "marka": "",
+          "model": ""
+        },
+        "bellek": {
+          "ram": "",
+          "depolama": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "bluetooth": "5.1",
+          "g5": ""
+        },
+        "otherFeatures": [
+          {
+            "key": "Compatible models",
+            "value": "Redmi Pad Pro"
+          },
+          {
+            "key": "Pen length",
+            "value": "157 mm"
+          },
+          {
+            "key": "Weight",
+            "value": "12.7±1g"
+          },
+          {
+            "key": "Pressure sensitivity",
+            "value": "4096-level"
+          },
+          {
+            "key": "Touch sampling rate",
+            "value": "240 Hz"
+          },
+          {
+            "key": "Two buttons",
+            "value": "Screenshot button, writing button"
+          },
+          {
+            "key": "Connection method",
+            "value": "Bluetooth® 5.1"
+          },
+          {
+            "key": "Package contents",
+            "value": "Redmi Smart Pen / Pen Tip / Quick Start Guide / Warranty Card"
+          }
+        ]
+      },
+      "extractionQuality": {
+        "toplamAlan": 12,
+        "doluAlan": 1,
+        "yuzde": "8%",
+        "ekstraOzellikSayisi": 8
+      }
+    },
+    {
+      "productName": "Xiaomi Pad 7 Deniz Mavisi 8 GB + 256 GB",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-pad-5-cover/specs",
+      "category": "tablet",
+      "extractedAt": "2025-10-12T20:39:40.615Z",
+      "features": {
+        "batarya": {
+          "kapasite": "",
+          "sarj_gucu": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "islemci": {
+          "marka": "",
+          "model": ""
+        },
+        "bellek": {
+          "ram": "8 GB",
+          "depolama": "256 GB"
+        },
+        "baglanti": {
+          "wifi": "",
+          "bluetooth": "",
+          "g5": ""
+        },
+        "otherFeatures": []
+      },
+      "extractionQuality": {
+        "toplamAlan": 12,
+        "doluAlan": 2,
+        "yuzde": "17%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Pad 7/7 Pro Focus Keyboard",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-pad-7-7-pro-focus-keyboard/specs",
+      "category": "tablet",
+      "extractedAt": "2025-10-12T20:40:06.628Z",
+      "features": {
+        "batarya": {
+          "kapasite": "",
+          "sarj_gucu": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "islemci": {
+          "marka": "",
+          "model": ""
+        },
+        "bellek": {
+          "ram": "",
+          "depolama": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "bluetooth": "",
+          "g5": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Boyutlar",
+          "value": "253,41*187,87*16,3 mm (katlanmış durumda)"
+        },
+        {
+          "key": "Ağırlık",
+          "value": "589 g±10 g"
+        },
+        {
+          "key": "Tuş sayısı",
+          "value": "64 tuş (ABD sürümü); 65 tuş (Birleşik Krallık sürümü)"
+        },
+        {
+          "key": "Dil",
+          "value": "ABD İngilizcesi"
+        },
+        {
+          "key": "Destek açısı",
+          "value": "0-124°"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Tablet Akıllı Klavyesi/Hızlı Başlangıç Kılavuzu/Garanti Kartı"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 12,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Pad 7/7 Pro Keyboard",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-pad-7-7-pro-keyboard/specs",
+      "category": "tablet",
+      "extractedAt": "2025-10-12T20:40:39.331Z",
+      "features": {
+        "batarya": {
+          "kapasite": "",
+          "sarj_gucu": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "islemci": {
+          "marka": "",
+          "model": ""
+        },
+        "bellek": {
+          "ram": "",
+          "depolama": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "bluetooth": "",
+          "g5": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Compatible models",
+          "value": "Xiaomi Pad 7 / 7 Pro"
+        },
+        {
+          "key": "Dimensions",
+          "value": "253.41*363.5*5.4mm (unfolded)"
+        },
+        {
+          "key": "Weight",
+          "value": "Black: 320g±5g, White: 337g±5g"
+        },
+        {
+          "key": "Keys quantity",
+          "value": "64 keys (US version); 65 keys (UK version)"
+        },
+        {
+          "key": "Language",
+          "value": "US English"
+        },
+        {
+          "key": "Support angle",
+          "value": "120° (one-step support)"
+        },
+        {
+          "key": "Package contents",
+          "value": "Tablet Keyboard / Quick Start Guide / Warranty Card"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 12,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Pad 7 Pro",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-pad-7-pro/specs",
+      "category": "tablet",
+      "extractedAt": "2025-10-12T20:41:11.922Z",
+      "features": {
+        "batarya": {
+          "kapasite": "8850 mAh",
+          "sarj_gucu": "67 W"
+        },
+        "ekran": {
+          "boyut": "11,2 inç",
+          "cozunurluk": "3200 x 2136, 345 ppi",
+          "panel_tipi": "3.2K 144 Hz kristal netliğinde ekran"
+        },
+        "islemci": {
+          "marka": "Qualcomm",
+          "model": "Snapdragon 8s Gen 3"
+        },
+        "bellek": {
+          "ram": "8 GB / 12 GB",
+          "depolama": "128 GB / 256 GB / 512 GB"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi 7",
+          "bluetooth": "",
+          "g5": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Yükseklik",
+          "value": "251,22 mm"
+        },
+        {
+          "key": "Genişlik",
+          "value": "173,42 mm"
+        },
+        {
+          "key": "Kalınlık",
+          "value": "6,18 mm"
+        },
+        {
+          "key": "Ağırlık",
+          "value": "500 g"
+        },
+        {
+          "key": "İşlemci Çekirdek Sayısı",
+          "value": "Sekiz çekirdekli, 3,0 GHz'e kadar"
+        },
+        {
+          "key": "GPU",
+          "value": "Adreno™ GPU"
+        },
+        {
+          "key": "Yapay Zeka Motoru",
+          "value": "Qualcomm yapay zeka motoru"
+        },
+        {
+          "key": "RAM Tipi",
+          "value": "LPDDR5X"
+        },
+        {
+          "key": "Depolama Tipi",
+          "value": "Evrensel Flaş Depolama (UFS) 4.0"
+        },
+        {
+          "key": "Ekran Yenileme Hızı",
+          "value": "144 Hz"
+        },
+        {
+          "key": "Ekran Parlaklığı",
+          "value": "800 nit"
+        },
+        {
+          "key": "Arka Kamera",
+          "value": "50 MP, JN1, 1/2,76 inç, f/1.8, 0,64 μm"
+        },
+        {
+          "key": "Ön Kamera",
+          "value": "32 MP, 1/3,6 inç, 0,64 μm"
+        },
+        {
+          "key": "Şarj Tipi",
+          "value": "USB Type-C"
+        },
+        {
+          "key": "Veri Aktarımı",
+          "value": "USB 3.2 Gen 1, 5 Gbps"
+        },
+        {
+          "key": "İşletim Sistemi",
+          "value": "Xiaomi HyperOS 2"
+        },
+        {
+          "key": "Sensörler",
+          "value": "İvme ölçer, Jiroskop, Ön Ortam ışığı (renk sıcaklığı) sensörü, Arka Ortam ışığı sensörü, Titreşim sensörü, Hall sensörü, Yana monte parmak izi sensörü, Manyetik sensör, Yakınlık sensörü, RGB LED, Kızılötesi uzaktan kumanda"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 12,
+        "doluAlan": 10,
+        "yuzde": "83%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Pad 7",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-pad-7/specs",
+      "category": "tablet",
+      "extractedAt": "2025-10-12T20:41:59.057Z",
+      "features": {
+        "batarya": {
+          "kapasite": "8850 mAh (tip)",
+          "sarj_gucu": "45 W turbo şarj"
+        },
+        "ekran": {
+          "boyut": "11,2 inç",
+          "cozunurluk": "3200 x 2136, 345 ppi",
+          "panel_tipi": "3.2K 144 Hz kristal netliğinde ekran"
+        },
+        "islemci": {
+          "marka": "Qualcomm",
+          "model": "Snapdragon 7+ Gen 3 Mobil Platform"
+        },
+        "bellek": {
+          "ram": "8 GB / 12 GB",
+          "depolama": "128 GB / 256 GB"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi 6E",
+          "bluetooth": "Bluetooth 5.4",
+          "g5": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Boyutlar",
+          "value": "Yükseklik: 251,22 mm, Genişlik: 173,42 mm, Kalınlık: 6,18 mm, Ağırlık: 500 g"
+        },
+        {
+          "key": "İşlemci Özellikleri",
+          "value": "4 nm üretim işlem gücü, Sekiz çekirdekli, 2,8 GHz'e kadar, Adreno™ GPU, Qualcomm yapay zeka motoru"
+        },
+        {
+          "key": "Depolama ve RAM",
+          "value": "LPDDR5X + Evrensel Flaş Depolama (UFS) 4.0, 128 GB depolama modeli UFS 3.1 kullanır"
+        },
+        {
+          "key": "Ekran Özellikleri",
+          "value": "3:2, 144 Hz'ye kadar, 360 Hz'ye kadar, 240 Hz (kalem ile), 800 nit en yüksek parlaklık, TÜV Rheinland Düşük Mavi Işık (Donanım Çözümü), TÜV Rheinland Titreşimsiz, TÜV Rheinland Sirkadiyen Ritim Dostu, Orijinal renk PRO, Güneş ışığı modu, 68 milyar renk, DCI-P3, Pro HDR, Okuma modu, Uyarlanabilir renkler, AI görüntü motoru, HDR10, Dolby Vision®, Su geçirmez dokunmatik teknolojisi, 10 kat süper çözünürlük"
+        },
+        {
+          "key": "Kamera",
+          "value": "Arka kamera: 13 MP, 1/3,06 inç, 1,12 μm piksel boyutu, f/2.2 PDAF, 4K video - 30 kare/sn, 1080P video - 30 kare/sn, 60 kare/sn, 720P video - 30 kare/sn, Fotoğraf | Video | Portre | Belge | Çift video | Yönetmen modu | Teleprompter | Dinamik çekim | HDR; Ön kamera: 8 MP, 1/4 inç, 1,12 μm piksel boyutu, f/2.2, 1080P video - 30 kare/sn, 720P video - 30 kare/sn, Fotoğraf | Video | Portre | Çift video | Teleprompter | Dinamik çekim | HDR"
+        },
+        {
+          "key": "Veri Aktarımı",
+          "value": "USB 3.2 Gen 1, 5 Gbps'ye kadar"
+        },
+        {
+          "key": "Sensörler",
+          "value": "İvme ölçer, Jiroskop, Ön Ortam ışığı (renk sıcaklığı) sensörü, Arka Ortam ışığı sensörü, Titreşim sensörü, Hall sensörü, Manyetik sensör, Yakınlık sensörü, RGB LED, Kızılötesi uzaktan kumanda"
+        },
+        {
+          "key": "İşletim Sistemi",
+          "value": "Xiaomi HyperOS 2"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Tablet Bilgisayar / Adaptör / USB Type-C Kablo / Hızlı Başlangıç Kılavuzu / Garanti Kartı"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 12,
+        "doluAlan": 11,
+        "yuzde": "92%",
+        "ekstraOzellikSayisi": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,742 @@
+{
+  "kategoriAnahtari": "vacuum",
+  "kategoriAdi": "Robot Süpürgeler",
+  "cekilmeTarihi": "2025-10-12T21:43:06.898Z",
+  "toplamUrunSayisi": 9,
+  "urunler": [
+    {
+      "productName": "Mi Robot Vacuum-Mop 2 Pro",
+      "productUrl": "https://www.mi.com/tr/product/mi-robot-vacuum-mop-2-pro/specs",
+      "category": "vacuum",
+      "extractedAt": "2025-10-12T21:06:33.492Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "",
+          "sarj_suresi": "",
+          "kapasite": "5200 mAh",
+          "gerilim": "14,4 V⎓"
+        },
+        "emme": {
+          "guc": "35,6 W",
+          "mod_sayisi": ""
+        },
+        "navigasyon": {
+          "lidar": "",
+          "kamera": ""
+        },
+        "su_deposu": {
+          "kapasite": "",
+          "paspas": "Evet"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ana ünite boyutları",
+          "value": "Çap 353–96,5 mm"
+        },
+        {
+          "key": "Şarj gerilimi",
+          "value": "20 V⎓"
+        },
+        {
+          "key": "Ürünün net ağırlığı",
+          "value": "3,6 kg"
+        },
+        {
+          "key": "Şarj istasyonu boyutları",
+          "value": "150×80,5×101 mm"
+        },
+        {
+          "key": "Anma girişi",
+          "value": "100-240 V~, 50/60 Hz, 0,8 A"
+        },
+        {
+          "key": "Anma çıkışı",
+          "value": "20 V-1,8 A"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Ana ünite x 1, Kullanım kılavuzu x 1, Çöp Kutusu x 1, Ana fırça x 1, Ana fırça kapağı x 1, Yan fırça x 1, Su haznesi (paspas bezi takılı) x 1, Paspas bezi (yedek) x 1, Şarj standı x 1, Güç kablosu x 1, Yan fırça (yedek) x 1, Temizleme aracı x 1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 10,
+        "doluAlan": 4,
+        "yuzde": "40%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Robot Vacuum S10+",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-robot-vacuum-s10-plus/specs",
+      "category": "vacuum",
+      "extractedAt": "2025-10-12T21:07:10.264Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "",
+          "sarj_suresi": "Yaklaşık 6 saat"
+        },
+        "emme": {
+          "guc": "55 W",
+          "mod_sayisi": ""
+        },
+        "navigasyon": {
+          "lidar": "LDS lazer sensörü",
+          "kamera": "Yapay zeka destekli görsel tanımlama sensörü"
+        },
+        "su_deposu": {
+          "kapasite": "",
+          "paspas": "Paspas Bezi x2 (Önceden takılı)"
+        },
+        "otherFeatures": [
+          {
+            "key": "Model",
+            "value": "B105"
+          },
+          {
+            "key": "Ürün Boyutları",
+            "value": "350x350x97 mm"
+          },
+          {
+            "key": "Net Ağırlık (Aksesuarlar dahil)",
+            "value": "4,4 kg"
+          },
+          {
+            "key": "Net Ağırlık (Temizlik Robotu)",
+            "value": "3,8 kg"
+          },
+          {
+            "key": "Pil",
+            "value": "4800 mAh (Nominal Kapasite), 5200 mAh (Nominal Kapasite)"
+          },
+          {
+            "key": "Nominal Gerilim",
+            "value": "14,4 V⎓"
+          },
+          {
+            "key": "Şarj Tabanı Model",
+            "value": "CDZ2101"
+          },
+          {
+            "key": "Şarj Tabanı Ürün Boyutları",
+            "value": "130x126x93 mm"
+          },
+          {
+            "key": "Şarj Tabanı Nominal Giriş",
+            "value": "100-240 V~50/60 Hz 0,5 A"
+          },
+          {
+            "key": "Şarj Tabanı Nominal Çıkış",
+            "value": "19,8 V⎓1 A"
+          },
+          {
+            "key": "Düşme sensörü",
+            "value": "Basamakları ve düşmeleri algılamak için kullanılır"
+          },
+          {
+            "key": "Ultrasonik sensör",
+            "value": "Halı malzemesini tanımlamak için kullanılır"
+          },
+          {
+            "key": "LDS lazer sensörü",
+            "value": "Görüntü oluşturmada kullanılır. İlgili ölçüm mesafeleri: beyaz için 0,15-8 m ve siyah için 0,15-4 m"
+          },
+          {
+            "key": "Çizgi lazer sensörü",
+            "value": "Küçük engelleri tespit etmek için kullanılır. Lazer, düz bir çizgide 50-400 mm'ye ulaşabilir."
+          },
+          {
+            "key": "Yapay zeka destekli görsel tanımlama sensörü",
+            "value": "Belirli engelleri ve mobilyaları tespit etmek için kullanılır."
+          },
+          {
+            "key": "Genişletilmiş kenar sensörü",
+            "value": "Duvar boyunca kullanılır"
+          },
+          {
+            "key": "IMU Sensörü",
+            "value": "Temizlik robotu hareket durumu algılaması. Hareket şu alanlarda tespit edilebilir: Hızlanma aralıkları: ±2 g/±4 g/±8 g/±16 g, Jiroskop aralıkları: ±125°/sn ila ±200°/sn"
+          },
+          {
+            "key": "Çekiş tekeri kaldırma sensörü",
+            "value": "Çekiş tekerinin zeminden yukarıda olup olmadığını tespit etmek için kullanılır. Tekerlerin zeminden yukarıda olup olmadığını tespit eder ve cihaz hareket halindeyken havaya kaldırıldığında çekiş tekerinin durmasını sağlar"
+          },
+          {
+            "key": "Hava basıncı sensörü",
+            "value": "Toz toplama kapasitesini ve tıkanmış kanalları test eder"
+          },
+          {
+            "key": "Paket içeriği",
+            "value": "Temizlik Robotu x1, Fırça x1, Fırça Kapağı x1, Toz Haznesi x1, Su Haznesi x1, Yan Fırça x1, Temizlik Aleti x1, Güç Kablosu x1, Paspas Bezi x2 (Önceden takılı), Paspas Pedi Tutucusu x2, Şarj Standı x1"
+          }
+        ]
+      },
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 5,
+        "yuzde": "63%",
+        "ekstraOzellikSayisi": 20
+      }
+    },
+    {
+      "productName": "Xiaomi Robot Vacuum S20 Plus",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-robot-vacuum-s20-plus/specs",
+      "category": "vacuum",
+      "extractedAt": "2025-10-12T21:08:09.364Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "",
+          "sarj_suresi": "",
+          "kapasite": "4800 mAh (nominal kapasite)5200 mAh (nominal kapasite)"
+        },
+        "emme": {
+          "guc": "55 W",
+          "mod_sayisi": ""
+        },
+        "navigasyon": {
+          "lidar": "",
+          "kamera": ""
+        },
+        "su_deposu": {
+          "kapasite": "",
+          "paspas": "Evet"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ana Ünite Boyutları",
+          "value": "Φ350 x 97mm"
+        },
+        {
+          "key": "Nominal Gerilim",
+          "value": "14,4 V"
+        },
+        {
+          "key": "Şarj Gerilimi",
+          "value": "19,8 V"
+        },
+        {
+          "key": "Ana Ünite Net Ağırlığı",
+          "value": "3,8 kg"
+        },
+        {
+          "key": "Şarj Standı Modeli",
+          "value": "B108GL-JZ"
+        },
+        {
+          "key": "Nominal Giriş",
+          "value": "100-240 V ~ 50/60 Hz"
+        },
+        {
+          "key": "Nominal Çıkış",
+          "value": "19,8V 1 A"
+        },
+        {
+          "key": "Şarj Standı Boyutları",
+          "value": "130 x 126 x 94 mm"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Ana ünite x1, Şarj standı x1, Ana fırça x1, Ana fırça kapağı x1, Toz haznesi x1, Su haznesi x1, Paspas bezi x2, Yan fırça x1, Paspas bezi tutucusu x2, Kullanım kılavuzu x1, Kablo seti x1, Hızlı başlangıç kılavuzu x1, Garanti bildirimi x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 9,
+        "doluAlan": 3,
+        "yuzde": "33%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Robot Vacuum S20",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-robot-vacuum-s20/specs",
+      "category": "vacuum",
+      "extractedAt": "2025-10-12T21:08:56.665Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "",
+          "sarj_suresi": "",
+          "kapasite": "2900mAh (rated capacity)3200mAh (nominal capacity)"
+        },
+        "emme": {
+          "guc": "45W",
+          "mod_sayisi": ""
+        },
+        "navigasyon": {
+          "lidar": "",
+          "kamera": ""
+        },
+        "su_deposu": {
+          "kapasite": "",
+          "paspas": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Product Model Number",
+          "value": "D106"
+        },
+        {
+          "key": "Main Unit Dimensions",
+          "value": "Φ325 x 98mm"
+        },
+        {
+          "key": "Rated Voltage",
+          "value": "14.4V"
+        },
+        {
+          "key": "Charging Voltage",
+          "value": "20V"
+        },
+        {
+          "key": "Main Unit Net Weight",
+          "value": "3.5kg"
+        },
+        {
+          "key": "Charging Dock Model",
+          "value": "CDZD106"
+        },
+        {
+          "key": "Charging Dock Dimensions",
+          "value": "146 x 122 x 98mm"
+        },
+        {
+          "key": "Package Contents",
+          "value": "Main unit x1, Main brush x1 (pre-installed), 2-in-1 dust compartment with water tank x1 (pre-installed, required for both vacuuming and mopping), Side brush x1, Main brush cover x1 (pre-installed), Mop pad x1 (pre-installed on mop frame), Mop frame x1, Power adaptor x1, Charging dock x1, Cleaning brush x1 (pre-installed in 2-in-1 dust compartment with water tank), User manual x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 9,
+        "doluAlan": 2,
+        "yuzde": "22%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Robot Vacuum X10+",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-robot-vacuum-x10-plus/specs",
+      "category": "vacuum",
+      "extractedAt": "2025-10-12T21:09:31.206Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "",
+          "sarj_suresi": ""
+        },
+        "emme": {
+          "guc": "1000 W",
+          "mod_sayisi": ""
+        },
+        "navigasyon": {
+          "lidar": "LDS lazer sensörü",
+          "kamera": "Yapay zeka destekli görsel tanımlama sensörü"
+        },
+        "su_deposu": {
+          "kapasite": "",
+          "paspas": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Model",
+          "value": "B101GL"
+        },
+        {
+          "key": "Boyutlar",
+          "value": "350 x 350 x 97 mm"
+        },
+        {
+          "key": "Nominal gerilim",
+          "value": "14,4 V"
+        },
+        {
+          "key": "Nominal güç",
+          "value": "70 W"
+        },
+        {
+          "key": "Net ağırlık",
+          "value": "3,8 kg"
+        },
+        {
+          "key": "Hepsi bir arada istasyon modeli",
+          "value": "JZ2202"
+        },
+        {
+          "key": "Hepsi bir arada istasyon boyutları",
+          "value": "423 x 340 x 568 mm"
+        },
+        {
+          "key": "Nominal giriş",
+          "value": "220-240 V ~ 50/60 Hz"
+        },
+        {
+          "key": "Nominal çıkış",
+          "value": "20 V ⎓ 2 A"
+        },
+        {
+          "key": "Kurutma + Şarj gücü",
+          "value": "90 W"
+        },
+        {
+          "key": "Temizleme gücü",
+          "value": "55 W"
+        },
+        {
+          "key": "Su geçirmezlik derecesi",
+          "value": "IPX1"
+        },
+        {
+          "key": "Hepsi bir arada istasyon net ağırlığı",
+          "value": "8,3 kg"
+        },
+        {
+          "key": "Düşme sensörü etkin aralık",
+          "value": "Sensör tipik ortam yüksekliğinden yaklaşık 85 mm (beyaz) veya 15 mm'lik (siyah) bir düşme algıladığında robot geri dönecektir"
+        },
+        {
+          "key": "Ultrasonik sensör",
+          "value": "Halı malzemesini tanımlamak için kullanılır"
+        },
+        {
+          "key": "LDS lazer sensörü etkin aralık",
+          "value": "0,12 m – 6 m"
+        },
+        {
+          "key": "Çizgi lazer sensörü etkin aralık",
+          "value": "20 - 600 mm"
+        },
+        {
+          "key": "Yapay zeka destekli görsel tanımlama sensörü görüş alanı",
+          "value": "Yatay 90°, dikey 75°"
+        },
+        {
+          "key": "Genişletilmiş kenar sensörü etkin aralık",
+          "value": "Duvardan 0–1,5 cm'lik tutarlı bir mesafe elde etmek için kullanılır"
+        },
+        {
+          "key": "IMU Sensörü ivme aralığı",
+          "value": "±2 g/±4 g/±8 g/±16 g"
+        },
+        {
+          "key": "IMU Sensörü jiroskop aralığı",
+          "value": "±125°/sn ila ±200°/sn"
+        },
+        {
+          "key": "Hava basıncı sensörü algılama aralığı",
+          "value": "300–1250 hPa"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 3,
+        "yuzde": "38%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Robot Vacuum X10",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-robot-vacuum-x10/specs",
+      "category": "vacuum",
+      "extractedAt": "2025-10-12T21:10:13.884Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "",
+          "sarj_suresi": "Yaklaşık 6 saat"
+        },
+        "emme": {
+          "guc": "46 W",
+          "mod_sayisi": ""
+        },
+        "navigasyon": {
+          "lidar": "LDS lazer sensörü",
+          "kamera": ""
+        },
+        "su_deposu": {
+          "kapasite": "",
+          "paspas": "Paspas bezi x1"
+        },
+        "otherFeatures": [
+          {
+            "key": "Model",
+            "value": "JCZ2201"
+          },
+          {
+            "key": "Ürün Boyutları (Robot)",
+            "value": "353 x 350 x 98,8 mm"
+          },
+          {
+            "key": "Batarya Kapasitesi",
+            "value": "4800 mAh (Nominal Kapasite), 5200 mAh (Nominal Kapasite)"
+          },
+          {
+            "key": "Net Ağırlık (Robot)",
+            "value": "3,3 kg"
+          },
+          {
+            "key": "Net Ağırlık (Aksesuarlar dahil)",
+            "value": "7,4 kg"
+          },
+          {
+            "key": "Nominal Gerilim",
+            "value": "14,4 V"
+          },
+          {
+            "key": "Paket İçeriği",
+            "value": "Temizlik Robotu x1, Toz toplama standı x1 (Toz torbası takılı olarak), Ana fırça x1 (Takılı), Fırça kapağı x1 (Takılı), Toz torbası x1 (Yedek), Toz haznesi x1 (Takılı), Paspas bezi x1, Su haznesi x1, Yan fırça x1, Temizlik aleti x1, Güç kablosu x1, Kullanım kılavuzu x1"
+          },
+          {
+            "key": "LDS Lazer Sensörü",
+            "value": "Uzaklaşma ve haritalama (360°, beyaz malzeme 0,1–6 m, siyah malzeme 0,1–4 m)"
+          },
+          {
+            "key": "IMU Sensörü",
+            "value": "Hareket durumu tespiti (İvme aralıkları: ±2 g/±4 g/±8 g/±16 g; Jiroskop aralıkları: ±125°/sn ila ±200°/sn)"
+          },
+          {
+            "key": "Düşme Sensörü",
+            "value": "Basamakları ve düşmeleri algılar (Siyah/gri halı > 15 mm; açık gri döşeme > 45 mm; saf beyaz > 80 mm)"
+          },
+          {
+            "key": "Tekerlek Süspansiyonu Algılama",
+            "value": "Temizlik robotunun asılı olup olmadığını algılar (0 ve 1)"
+          },
+          {
+            "key": "Kızılötesi Sensörü (Robot-Taban)",
+            "value": "Temizlik robotu ile taban arasındaki iletişim (<10 cm)"
+          },
+          {
+            "key": "Kızılötesi Sensörü (Robot-Stand)",
+            "value": "Temizlik robotu ve şarj standı konumlandırması (<5 m)"
+          },
+          {
+            "key": "Hava Basıncı Sensörü",
+            "value": "Toz toplama kapasitesini ve tıkanmış kanalları test eder (300–1250 hPa)"
+          },
+          {
+            "key": "Hall Sensörü",
+            "value": "Toz haznesi, su haznesi ve bezin takılı olup olmadığını test eder (Çalışma Noktası ± 37 Gs; Bırakma Noktası ± 25 Gs)"
+          }
+        ]
+      },
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 4,
+        "yuzde": "50%",
+        "ekstraOzellikSayisi": 15
+      }
+    },
+    {
+      "productName": "Xiaomi Robot Vacuum X20 Max",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-robot-vacuum-x20-max/specs",
+      "category": "vacuum",
+      "extractedAt": "2025-10-12T21:10:54.958Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "",
+          "sarj_suresi": "",
+          "kapasite": "4800mAh (rated capacity)5200mAh (nominal capacity)"
+        },
+        "emme": {
+          "guc": "55W",
+          "mod_sayisi": ""
+        },
+        "navigasyon": {
+          "lidar": "",
+          "kamera": ""
+        },
+        "su_deposu": {
+          "kapasite": "",
+          "paspas": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Main Unit Dimensions",
+          "value": "Φ350×97mm"
+        },
+        {
+          "key": "Rated Voltage",
+          "value": "14.4V⎓"
+        },
+        {
+          "key": "Charging Voltage",
+          "value": "19.6V⎓"
+        },
+        {
+          "key": "Main Unit Net Weight",
+          "value": "3.9kg"
+        },
+        {
+          "key": "Omni Station Model",
+          "value": "D109-JZEU"
+        },
+        {
+          "key": "Rated Input",
+          "value": "220–240 V ~ 50/60 HZ"
+        },
+        {
+          "key": "Rated Output",
+          "value": "19.6V⎓1.2A"
+        },
+        {
+          "key": "Station Size",
+          "value": "340×420×563mm"
+        },
+        {
+          "key": "Package Contents",
+          "value": "Robot Vacuum × 1 (with per-installed dust compartment, filter, brush, and brush cover), Omni Station × 1 (with pre-installed disposable bag, clean water tank, dirty water tank, and washboard), Automatic Hair-cutting Brush × 1, Side Brush × 1, Cord Set × 1, Mop Pad Holder × 2, Mop Pad × 2 (pre-installed), Washboard Base Extender × 1, User Manual × 1, Quick Start Guide × 1, Warranty Notice × 1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 9,
+        "doluAlan": 2,
+        "yuzde": "22%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Robot Vacuum X20+",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-robot-vacuum-x20-plus/specs",
+      "category": "vacuum",
+      "extractedAt": "2025-10-12T21:11:27.811Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "",
+          "sarj_suresi": ""
+        },
+        "emme": {
+          "guc": "75 W",
+          "mod_sayisi": ""
+        },
+        "navigasyon": {
+          "lidar": "",
+          "kamera": ""
+        },
+        "su_deposu": {
+          "kapasite": "",
+          "paspas": "Paspas Bezi x2"
+        },
+        "otherFeatures": [
+          {
+            "key": "Ürün Boyutları",
+            "value": "350 x 350 x 97 mm"
+          },
+          {
+            "key": "Nominal Gerilim",
+            "value": "14,4 V⎓"
+          },
+          {
+            "key": "Net Ağırlık",
+            "value": "3,67 kg"
+          },
+          {
+            "key": "Hepsi Bir Arada İstasyon Ürün Boyutları",
+            "value": "586 x 427 x 340 mm"
+          },
+          {
+            "key": "Nominal Giriş",
+            "value": "220-240 V～50/60 Hz"
+          },
+          {
+            "key": "Nominal Çıkış",
+            "value": "20 V⎓1 A"
+          },
+          {
+            "key": "Güç (toz boşaltma sırasında)",
+            "value": "1000 W"
+          },
+          {
+            "key": "Güç (temizlik sırasında)",
+            "value": "30 W"
+          },
+          {
+            "key": "Güç (havayla kurutma + şarj)",
+            "value": "30 W"
+          },
+          {
+            "key": "Paket içeriği",
+            "value": "Temizlik Robotu x1, Hepsi Bir Arada İstasyon x1 (tek kullanımlık torba, temiz su haznesi, kirli su haznesi, taban yıkama tepsisi eklentisi, yıkama tepsisi dahildir), Fırça x1, Fırça Kapağı x1, Toz Haznesi x1, Filtre x1 (Toz haznesine önceden takılmıştır), Yan Fırça x1, Kablo Seti x1, Paspas Bezi Tutucusu x2, Paspas Bezi x2 (Paspas bezi tutucusuna önceden takılmıştır), Kullanım Kılavuzu x1"
+          }
+        ]
+      },
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 2,
+        "yuzde": "25%",
+        "ekstraOzellikSayisi": 10
+      }
+    },
+    {
+      "productName": "Xiaomi Robot Vacuum X20 Pro",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-robot-vacuum-x20-pro/specs",
+      "category": "vacuum",
+      "extractedAt": "2025-10-12T21:12:00.418Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "",
+          "sarj_suresi": "",
+          "kapasite": "4800 mAh (nominal kapasite)5200 mAh (nominal kapasite)"
+        },
+        "emme": {
+          "guc": "55 W",
+          "mod_sayisi": ""
+        },
+        "navigasyon": {
+          "lidar": "",
+          "kamera": ""
+        },
+        "su_deposu": {
+          "kapasite": "",
+          "paspas": "2"
+        },
+        "otherFeatures": [
+          {
+            "key": "Ürün Model Numarası",
+            "value": "D102GL"
+          },
+          {
+            "key": "Ana Ünite Boyutları",
+            "value": "Φ 350 × 97 mm"
+          },
+          {
+            "key": "Nominal Gerilim",
+            "value": "14,4 V⎓"
+          },
+          {
+            "key": "Şarj Gerilimi",
+            "value": "19,6 V⎓"
+          },
+          {
+            "key": "Ana Ünite Net Ağırlığı",
+            "value": "3,7 kg"
+          },
+          {
+            "key": "Omni Station Modeli",
+            "value": "D102-JZEU"
+          },
+          {
+            "key": "Nominal Giriş",
+            "value": "200-240 V ~ 50/60 Hz"
+          },
+          {
+            "key": "Nominal Çıkış",
+            "value": "19,6 V ⎓ 1,2 A"
+          },
+          {
+            "key": "İstasyon Boyutu",
+            "value": "340 mm×420 mm×563 mm"
+          },
+          {
+            "key": "Paket İçeriği",
+            "value": "Ana Ünite x 1, Omni Station × 1, Ana Fırça x 1, Ana Fırça Kapağı x 1, Toz Haznesi x 1, Temiz Su Haznesi x 1, Kirli Su Haznesi x 1, Paspas Bezi x 2, Yan Fırça x1, Paspas Pedi Tutucusu x 2, Kullanım Kılavuzu x1, Kablo Seti x 1, Hızlı Başlangıç Kılavuzu x 1, Garanti Bildirimi x1, Taban Yıkama Tepsisi Eklentisi × 1, Yıkama Tepsisi"
+          }
+        ]
+      },
+      "extractionQuality": {
+        "toplamAlan": 9,
+        "doluAlan": 3,
+        "yuzde": "33%",
+        "ekstraOzellikSayisi": 10
+      }
+    }
+  ]
+}

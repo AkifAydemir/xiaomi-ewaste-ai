@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giriş Yap | E-Atık AI</title>
+    <link rel="stylesheet" href="/static/styles.css">
+    <style>
+        /* Login Sayfasına Özel Stiller */
+        body { background: #3f51b5; }
+        .login-box {
+            max-width: 400px;
+            margin: 100px auto;
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            text-align: center;
+        }
+        .login-box h2 {
+            margin-bottom: 30px;
+            color: #3f51b5;
+        }
+        .login-box input {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+        .login-box button {
+            background: #3f51b5;
+            padding: 12px 0;
+            font-size: 1.1em;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-box">
+        <h2>E-Atık Analiz Sistemi Girişi</h2>
+        <input type="text" id="loginUsername" placeholder="Kullanıcı Adı" required>
+        <input type="password" id="loginPassword" placeholder="Şifre" required>
+        <button id="loginBtn">Giriş Yap</button>
+        <div id="loginError" class="error hidden" style="margin-top: 20px;"></div>
+    </div>
+    <script>
+        document.getElementById('loginBtn').addEventListener('click', async () => {
+            const username = document.getElementById('loginUsername').value;
+            const password = document.getElementById('loginPassword').value;
+            const errorDiv = document.getElementById('loginError');
+            
+            errorDiv.classList.add('hidden');
+
+            try {
+                const response = await fetch('/login', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ username, password })
+                });
+
+                const data = await response.json();
+
+                if (data.success) {
+                    window.location.href = '/'; // Başarılıysa ana sayfaya git
+                } else {
+                    errorDiv.textContent = data.message;
+                    errorDiv.classList.remove('hidden');
+                }
+            } catch (err) {
+                errorDiv.textContent = 'Sunucuya bağlanılamadı.';
+                errorDiv.classList.remove('hidden');
+            }
+        });
+
+        // Enter tuşu ile giriş
+        document.querySelectorAll('input').forEach(input => {
+            input.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') document.getElementById('loginBtn').click();
+            });
+        });
+    </script>
+</body>
+</html>

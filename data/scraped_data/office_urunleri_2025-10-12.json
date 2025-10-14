@@ -1,0 +1,1720 @@
+{
+  "kategoriAnahtari": "office",
+  "kategoriAdi": "Ofis Ürünleri",
+  "cekilmeTarihi": "2025-10-12T21:43:06.910Z",
+  "toplamUrunSayisi": 20,
+  "urunler": [
+    {
+      "productName": "Mi Taşınabilir Fotoğraf Yazıcısı Kağıdı",
+      "productUrl": "https://www.mi.com/tr/product/mi-portable-photo-printer-paper/specs",
+      "category": "office",
+      "extractedAt": "2025-10-12T21:30:49.102Z",
+      "features": {
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "ethernet": "",
+          "bluetooth": ""
+        },
+        "fare_klavye": {
+          "tip": "",
+          "dpi": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Paket Boyutu 1",
+          "value": "Mi Taşınabilir Fotoğraf Yazıcısı Kağıdı (20 yaprak)"
+        },
+        {
+          "key": "Kağıt boyutları",
+          "value": "50 mm x 76 mm"
+        },
+        {
+          "key": "Yaprak sayısı",
+          "value": "10 x 2"
+        },
+        {
+          "key": "Turuncu kurulum kartı",
+          "value": "x 2"
+        },
+        {
+          "key": "Paket Boyutu 2",
+          "value": "Mi Taşınabilir Fotoğraf Yazıcısı Kağıdı (2x3 inç, 50 yaprak)"
+        },
+        {
+          "key": "Yaprak sayısı (Paket 2)",
+          "value": "10 x 5"
+        },
+        {
+          "key": "Turuncu kurulum kartı (Paket 2)",
+          "value": "x 5"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Mi Portable Photo Printer",
+      "productUrl": "https://www.mi.com/tr/product/mi-portable-photo-printer/specs",
+      "category": "office",
+      "extractedAt": "2025-10-12T21:31:21.314Z",
+      "features": {
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "ethernet": "",
+          "bluetooth": "5.0 BLE"
+        },
+        "fare_klavye": {
+          "tip": "",
+          "dpi": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Baskı teknolojisi",
+          "value": "Termal (ZINK)"
+        },
+        {
+          "key": "Baskı çözünürlüğü",
+          "value": "313 × 400 dpi"
+        },
+        {
+          "key": "Fotoğraf kağıdı boyutları",
+          "value": "50 mm × 76 mm (2 × 3 inç)"
+        },
+        {
+          "key": "Yazdırma hızı",
+          "value": "Sayfa başına yaklaşık 45 saniye"
+        },
+        {
+          "key": "Kağıt tepsisi kapasitesi",
+          "value": "En fazla 10 sayfa"
+        },
+        {
+          "key": "Desteklenen dosya formatları",
+          "value": "JPEG, PNG"
+        },
+        {
+          "key": "AR fotoğrafları",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Birden fazla Bluetooth bağlantısı",
+          "value": "En fazla üç kişi"
+        },
+        {
+          "key": "Yükseltme modu",
+          "value": "Xiaomi akıllı donanım yükseltme çerçevesiyle çalışır."
+        },
+        {
+          "key": "Desteklenen sistemler",
+          "value": "Android 4.1 veya iOS 9.0 ve üzeri sürümler"
+        },
+        {
+          "key": "Uygulamalar",
+          "value": "Mi Home/Xiaomi Home uygulamasına bağlanma"
+        },
+        {
+          "key": "Desteklenen cihazlar",
+          "value": "Akıllı telefon, akıllı tablet"
+        },
+        {
+          "key": "Pil tipi",
+          "value": "Lityum iyon polimer pil"
+        },
+        {
+          "key": "Nominal gerilim",
+          "value": "7,4 V"
+        },
+        {
+          "key": "Nominal kapasite",
+          "value": "500 mAh"
+        },
+        {
+          "key": "Çalışma süresi",
+          "value": "Yaklaşık 20 fotoğraf kağıdı yazdırır"
+        },
+        {
+          "key": "Bağlantı noktası türü",
+          "value": "Micro-USB"
+        },
+        {
+          "key": "Yazıcının net ağırlığı",
+          "value": "Yaklaşık 181 g"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 1,
+        "yuzde": "13%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Mi Router 4C",
+      "productUrl": "https://www.mi.com/tr/product/mi-router-4c/specs",
+      "category": "office",
+      "extractedAt": "2025-10-12T21:32:03.361Z",
+      "features": {
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "baglanti": {
+          "wifi": "2.4GHz (2x2, IEEE 802.11N protokolünü destekler; mümkün olan maksimum hız: 300 MB/sn)",
+          "ethernet": "İki adet 10/100 M kendi kendine uyarlanabilen LAN bağlantı noktası (Otomatik MDI/MDIX), Bir adet 10/100 M kendi kendine uyarlanabilen WAN bağlantı noktası (Otomatik MDI/MDIX)",
+          "bluetooth": ""
+        },
+        "fare_klavye": {
+          "tip": "",
+          "dpi": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "İşlemci",
+          "value": "MT7628DA"
+        },
+        {
+          "key": "Dahili bellek",
+          "value": "64MB DDR2"
+        },
+        {
+          "key": "ROM",
+          "value": "16 MB NorFlash"
+        },
+        {
+          "key": "Antenler",
+          "value": "4x harici tek bantlı anten"
+        },
+        {
+          "key": "Çalışma sıcaklığı",
+          "value": "0 ila 40°C"
+        },
+        {
+          "key": "Çalışma nem düzeyi",
+          "value": "%10 ila %90 BN (yoğuşmasız)"
+        },
+        {
+          "key": "Saklama sıcaklığı",
+          "value": "-40 ila 70°C"
+        },
+        {
+          "key": "Saklama nem düzeyi",
+          "value": "%5 ila %90 BN (yoğuşmasız)"
+        },
+        {
+          "key": "Protokol standartları",
+          "value": "IEEE 802.11b/g/n, IEEE 802.3/3u"
+        },
+        {
+          "key": "Isı yayılımı",
+          "value": "Doğal ısı yayılımı"
+        },
+        {
+          "key": "Garanti bilgileri",
+          "value": "1 yıl tüm cihaz garantisi"
+        },
+        {
+          "key": "Sertifika standartları",
+          "value": "GB9254-2008, YD/T993-1998, GB4943.1-2011"
+        },
+        {
+          "key": "Donanım arabirimi",
+          "value": "İki adet 10/100 M kendi kendine uyarlanabilen LAN bağlantı noktası (Otomatik MDI/MDIX), Bir adet sistem fabrika ayarlarına sıfırlama düğmesi, Bir adet turuncu/mavi/mor sistem durum ışığı; bir adet mavi harici ağ arabirimi durum ışığı, Bir adet 10/100 M kendi kendine uyarlanabilen WAN bağlantı noktası (Otomatik MDI/MDIX), Bir adet güç girişi arabirimi"
+        },
+        {
+          "key": "Modülasyon",
+          "value": "11b: DSSS: DBPSK (1 MB/sn), DQPSK (2 MB/sn), CCK (5,5/11 MB/sn), 11g: OFDM: BPSK (6/9 MB/sn), QPSK (12/18 MB/sn), 16QAM (24/36 MB/sn), 64QAM (48/54 MB/sn), 11n: MIMO-OFDM: BPSK, QPSK, 16QAM, 64QAM. Hız ayarı: MCS0 ila MCS15"
+        },
+        {
+          "key": "Alıcı hassasiyeti",
+          "value": "11 MB/sn: ≤ -85 dBm, 54 MB/sn: ≤ -72 dBm, HT20 MCS7: ≤ -69 dBm, HT40 MCS7: ≤ -66d dBm"
+        },
+        {
+          "key": "İşletim sistemi",
+          "value": "Mi WiFi ROM akıllı yönlendirici işletim sistemi; web, Android ve iOS yönlendirici yönetim yazılımını destekleyen, OpenWRT'nin son derece özelleştirilmiş bir sürümünü temel alır"
+        },
+        {
+          "key": "Kablosuz güvenliği",
+          "value": "WPA-PSK/WPA2-PSK şifreleme, kablosuz erişim kontrolü (yasaklılar listesi ve izin verilenler listesi), SSID gizleme"
+        },
+        {
+          "key": "Yönetim uygulaması",
+          "value": "Web, iOS ve Android'i destekler"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Kullanım kılavuzu, Güç adaptörü"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 2,
+        "yuzde": "25%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Mi Router AX9000",
+      "productUrl": "https://www.mi.com/tr/product/mi-router-ax9000/specs",
+      "category": "office",
+      "extractedAt": "2025-10-12T21:32:55.491Z",
+      "features": {
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "baglanti": {
+          "wifi": "2.4G Wi-Fi: 4×4 (IEEE 802.11ax protokolüne kadar destekler, teorik maksimum hız 1148 MB/sn'dir), 5 GHz - 1 Wi-Fi: 4×4 (IEEE 802.11ax protokolüne kadar destekler, teorik maksimum hız 4804 MB/sn'dir), 5 GHz - 2 Wi-Fi: 4×4 (IEEE 802.11ax protokolüne kadar destekler, teorik maksimum hız 2402 MB/sn'dir)",
+          "ethernet": "10/100/1000/2500 MB/sn uyarlanabilir WAN/LAN bağlantı noktası (Otomatik MDI/MDIX) ×1, 10/100/1000 MB/sn uyarlanabilir WAN/LAN bağlantı noktası (Otomatik MDI/MDIX) ×1, 10/100/1000 MB/sn uyarlanabilir LAN bağlantı noktaları (Otomatik MDI/MDIX) ×3",
+          "bluetooth": ""
+        },
+        "fare_klavye": {
+          "tip": "",
+          "dpi": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Boyut",
+          "value": "270 mm × 270 mm × 174 mm"
+        },
+        {
+          "key": "Ürün rengi",
+          "value": "Siyah"
+        },
+        {
+          "key": "İşlemci",
+          "value": "Qualcomm ® IPQ8072 dört çekirdekli A53 2,2 GHz CPU"
+        },
+        {
+          "key": "Ağ işleme birimi",
+          "value": "Çift çekirdekli 1,7 GHz NPU"
+        },
+        {
+          "key": "Bellek",
+          "value": "1 GB"
+        },
+        {
+          "key": "Antenler",
+          "value": "Alım gücü yüksek harici anten + dahili AIoT anteni"
+        },
+        {
+          "key": "Isı yayılımı",
+          "value": "Aktif soğutma"
+        },
+        {
+          "key": "LED gösterge ışığı",
+          "value": "Sistem göstergesi × 1, İnternet göstergesi × 1, Ağ bağlantı noktası × 5, atmosfer ışığı × 1"
+        },
+        {
+          "key": "Sistem sıfırlama düğmesi",
+          "value": "×1"
+        },
+        {
+          "key": "USB 3.0 bağlantı noktası",
+          "value": "×1"
+        },
+        {
+          "key": "Örgü ağı düğmesi",
+          "value": "×1"
+        },
+        {
+          "key": "Güç düğmesi",
+          "value": "×1"
+        },
+        {
+          "key": "Güç girişi bağlantı noktası",
+          "value": "×1"
+        },
+        {
+          "key": "Protokol standartları",
+          "value": "IEEE 802.11a/b/g/n/ac/ax，IEEE 802.3/3u/3ab"
+        },
+        {
+          "key": "Kablosuz özellikleri",
+          "value": "Üç bantlı2,4 GHz, 5 GHz-1 ve 5 GHz-2"
+        },
+        {
+          "key": "Modülasyon",
+          "value": "11b：DSSS：DBPSK (1 MB/sn), DQPSK (2 MB/sn), CCK (5,5/11 MB/sn), 11a/g：OFDM: BPSK (6/9 MB/sn), QPSK (12/18 MB/sn), 16QAM (24/36 MB/sn), 64QAM (48/54 MB/sn), 11n：MIMO-OFDM:BPSK,QPSK,16QAM,64QAM. Veri hızı：MCS0-MCS15, 11ac：MIMO-OFDM: BPSK, QPSK, 16QAM, 64QAM, 256QAM. 11ax：MIMO-OFDM: BPSK, QPSK, 16QAM, 64QAM, 256QAM, 1024QAM. Veri hızları: MCS0-MCS11 (4 akışı destekler).4096QAM. Veri hızları: MCS12-MCS13 (2 akışı destekler)"
+        },
+        {
+          "key": "İşletim sistemi",
+          "value": "OpenWRT tabanlı bir akıllı yönlendirici işletim sistemi olan MiWiFi ROM"
+        },
+        {
+          "key": "WiFi Şifreleme",
+          "value": "WPA-PSK/WPA2-PSK/WPA3-SAE şifreleme, Kablosuz erişim kontrolü (izin verilenler ve verilmeyenler listesi), SSID gizli"
+        },
+        {
+          "key": "Yönetim uygulamaları",
+          "value": "Web, Android ve iOS'u destekler"
+        },
+        {
+          "key": "Çalışma Ortamı Sıcaklığı",
+          "value": "0-40℃"
+        },
+        {
+          "key": "Çalışma nem düzeyi",
+          "value": "%10 ila %90 BN (yoğuşmasız)"
+        },
+        {
+          "key": "Saklama sıcaklığı",
+          "value": "-40-70℃"
+        },
+        {
+          "key": "Saklama nem düzeyi",
+          "value": "%5 ila %90 BN (yoğuşmasız)"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Mi Router AX9000 ×1, Kullanım Kılavuzu x 1, Güç adaptörü × 1, Ağ kablosu ×1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 2,
+        "yuzde": "25%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Mi WiFi Menzil Genişletici AC1200",
+      "productUrl": "https://www.mi.com/tr/product/mi-wifi-range-extender-ac1200/specs",
+      "category": "office",
+      "extractedAt": "2025-10-12T21:33:47.417Z",
+      "features": {
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "baglanti": {
+          "wifi": "IEEE 802.11ac/n/a 5 GHz, IEEE 802.11n/b/g 2,4 GHz",
+          "ethernet": "1*10/100 MB/sn",
+          "bluetooth": ""
+        },
+        "fare_klavye": {
+          "tip": "",
+          "dpi": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Model",
+          "value": "RA75"
+        },
+        {
+          "key": "WiFi Hızları",
+          "value": "5 GHz: 867 MB/sn, 2,4 GHz: 300 MB/sn"
+        },
+        {
+          "key": "Modlar",
+          "value": "Menzil Genişletme Modu, Erişim Noktası Modu"
+        },
+        {
+          "key": "Kablosuz Güvenliği",
+          "value": "WPA-PSK / WPA2-PSK"
+        },
+        {
+          "key": "İletim Gücü",
+          "value": "<20 dBm (2,4 GHz), <23 dBm (5 GHz)"
+        },
+        {
+          "key": "RAM",
+          "value": "64 MB"
+        },
+        {
+          "key": "Düğmeler",
+          "value": "WPS Düğmesi, Sıfırlama Düğmesi"
+        },
+        {
+          "key": "Giriş",
+          "value": "100~240 V, 50/60 Hz, 0,3 A"
+        },
+        {
+          "key": "Boyutlar",
+          "value": "84×100×82 mm"
+        },
+        {
+          "key": "Çalışma Sıcaklığı",
+          "value": "0-40°C"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 2,
+        "yuzde": "25%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Curved Gaming Monitor G34WQi",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-curved-gaming-monitor-g34wqi/specs",
+      "category": "office",
+      "extractedAt": "2025-10-12T21:34:21.543Z",
+      "features": {
+        "ekran": {
+          "boyut": "34 inç",
+          "cozunurluk": "3440 x 1440",
+          "panel_tipi": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "ethernet": "",
+          "bluetooth": ""
+        },
+        "fare_klavye": {
+          "tip": "",
+          "dpi": ""
+        },
+        "otherFeatures": [
+          {
+            "key": "Ürün Modeli",
+            "value": "C34WQBA-RGGL"
+          },
+          {
+            "key": "Güç Girişi",
+            "value": "24 V ⎓ 2,71 A"
+          },
+          {
+            "key": "Nominal Güç",
+            "value": "65 W"
+          },
+          {
+            "key": "Ekran Görüntüleme Açısı",
+            "value": "178 (Y) / 178 (D)"
+          },
+          {
+            "key": "Parlaklık",
+            "value": "350 nit (Tipik)"
+          },
+          {
+            "key": "Kontrast Oranı",
+            "value": "4000:1 (Tipik)"
+          },
+          {
+            "key": "Renk",
+            "value": "16.7M"
+          },
+          {
+            "key": "En Boy Oranı",
+            "value": "21:9"
+          },
+          {
+            "key": "Maksimum Yenileme Hızı",
+            "value": "180 Hz"
+          },
+          {
+            "key": "Tepki Süresi",
+            "value": "MPRT 1 ms (Tipik)"
+          },
+          {
+            "key": "Ürün Boyutları (taban dahil)",
+            "value": "811,3 (U) x 210 (G) x 510,1 (Y)"
+          },
+          {
+            "key": "Ürünün Net Ağırlığı (taban dahil)",
+            "value": "6,9 kg"
+          },
+          {
+            "key": "Duvara Montaj Boyutları",
+            "value": "Destek (VESA 75 x 75 mm)"
+          },
+          {
+            "key": "Eğim Açısı",
+            "value": "İleri 5°±2 / Geri 21°±2"
+          },
+          {
+            "key": "Bağlantı Noktası Türü ve Sayısı",
+            "value": "DP bağlantı noktası x2, HDMI bağlantı noktası x2, Ses bağlantı noktası x1, DC Girişi güç bağlantı noktası x1"
+          }
+        ]
+      },
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 2,
+        "yuzde": "25%",
+        "ekstraOzellikSayisi": 15
+      }
+    },
+    {
+      "productName": "Xiaomi Dual Interface Flash Drive",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-dual-interface-flash-drive/specs",
+      "category": "office",
+      "extractedAt": "2025-10-12T21:34:56.935Z",
+      "features": {
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "ethernet": "",
+          "bluetooth": ""
+        },
+        "fare_klavye": {
+          "tip": "",
+          "dpi": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Model",
+          "value": "XMUP21YM/XMUP22YM"
+        },
+        {
+          "key": "Capacity",
+          "value": "64GB/128GB"
+        },
+        {
+          "key": "Net weight",
+          "value": "6.2g"
+        },
+        {
+          "key": "Casing material",
+          "value": "Zinc alloy"
+        },
+        {
+          "key": "External dimensions",
+          "value": "40.2 x 12.2 x 4.6mm"
+        },
+        {
+          "key": "Port type",
+          "value": "USB Type-C, USB Type-A"
+        },
+        {
+          "key": "Package contents",
+          "value": "Flash drive x1, User manual x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Gaming Monitor G27i",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-gaming-monitor-g27i/specs",
+      "category": "office",
+      "extractedAt": "2025-10-12T21:35:27.507Z",
+      "features": {
+        "ekran": {
+          "boyut": "27 inç",
+          "cozunurluk": "1920 x 1080",
+          "panel_tipi": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "ethernet": "",
+          "bluetooth": ""
+        },
+        "fare_klavye": {
+          "tip": "",
+          "dpi": ""
+        },
+        "otherFeatures": [
+          {
+            "key": "Ürün modeli",
+            "value": "P27FBB-RGGL"
+          },
+          {
+            "key": "Güç girişi",
+            "value": "12 V⎓3.0 A"
+          },
+          {
+            "key": "Nominal güç",
+            "value": "36 W"
+          },
+          {
+            "key": "Görüntüleme açısı",
+            "value": "178 (Y) / 178 (D)"
+          },
+          {
+            "key": "Parlaklık",
+            "value": "250 nit (tipik)"
+          },
+          {
+            "key": "Kontrast oranı",
+            "value": "1000:1"
+          },
+          {
+            "key": "Renk derinliği",
+            "value": "16.7M"
+          },
+          {
+            "key": "En boy oranı",
+            "value": "16:9"
+          },
+          {
+            "key": "Panel yenileme hızı (maks.)",
+            "value": "165 Hz"
+          },
+          {
+            "key": "Tepki süresi",
+            "value": "1 ms (tipik)"
+          },
+          {
+            "key": "Boyutlar (taban dahil)",
+            "value": "612,3 (U) x 170 (G) x 451,7 (Y) mm"
+          },
+          {
+            "key": "Ağırlık (taban dahil)",
+            "value": "3,6 kg"
+          },
+          {
+            "key": "Duvara montaj boyutu",
+            "value": "75 mm x 75 mm"
+          },
+          {
+            "key": "Eğim (açı)",
+            "value": "-5°±2 ~ +15°±2"
+          },
+          {
+            "key": "DP bağlantı noktası",
+            "value": "x1"
+          },
+          {
+            "key": "HDMI 2.0 bağlantı noktası",
+            "value": "x1"
+          },
+          {
+            "key": "Ses bağlantı noktası",
+            "value": "x1"
+          },
+          {
+            "key": "DC Girişi kablo bağlantı noktası",
+            "value": "x1"
+          },
+          {
+            "key": "TÜV Düşük Mavi Işık Sertifikası",
+            "value": "Var"
+          }
+        ]
+      },
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 2,
+        "yuzde": "25%",
+        "ekstraOzellikSayisi": 19
+      }
+    },
+    {
+      "productName": "Xiaomi Oyuncu Faresi Lite",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-gaming-mouse-lite/specs",
+      "category": "office",
+      "extractedAt": "2025-10-12T21:36:02.087Z",
+      "features": {
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "ethernet": "",
+          "bluetooth": ""
+        },
+        "fare_klavye": {
+          "tip": "kablolu",
+          "dpi": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ürün model numarası",
+          "value": "YXSB01YM"
+        },
+        {
+          "key": "Nominal giriş",
+          "value": "5 V ⎓ 150 mA"
+        },
+        {
+          "key": "Ürün malzemeleri",
+          "value": "PC, ABS, metal vb."
+        },
+        {
+          "key": "Uyumluluk",
+          "value": "Windows 10, macOS 10.13 ve daha yeni sürümler"
+        },
+        {
+          "key": "Ürün boyutları",
+          "value": "125 x 63 x 39 mm"
+        },
+        {
+          "key": "Ürünün net ağırlığı",
+          "value": "Yaklaşık 72 g (kablosuz)"
+        },
+        {
+          "key": "Bağlantı yöntemi",
+          "value": "USB kablolu bağlantı"
+        },
+        {
+          "key": "Çalışma sıcaklığı",
+          "value": "0°C ila 40°C"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 1,
+        "yuzde": "13%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Monitor A22i",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-monitor-a22i/specs",
+      "category": "office",
+      "extractedAt": "2025-10-12T21:36:33.876Z",
+      "features": {
+        "ekran": {
+          "boyut": "21,45 inç",
+          "cozunurluk": "1920 x 1080",
+          "panel_tipi": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "ethernet": "",
+          "bluetooth": ""
+        },
+        "fare_klavye": {
+          "tip": "",
+          "dpi": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ürün modeli",
+          "value": "A22FAB-RAGL"
+        },
+        {
+          "key": "Güç girişi",
+          "value": "12 V⎓2,0 A"
+        },
+        {
+          "key": "Nominal güç",
+          "value": "24 W Maks."
+        },
+        {
+          "key": "Parlaklık",
+          "value": "250 nit (tipik)"
+        },
+        {
+          "key": "Kontrast oranı",
+          "value": "3000:1 (tipik)"
+        },
+        {
+          "key": "Renk derinliği",
+          "value": "16,7 milyon"
+        },
+        {
+          "key": "En-boy oranı",
+          "value": "16:9"
+        },
+        {
+          "key": "HDMI maksimum yenileme hızı",
+          "value": "75 Hz"
+        },
+        {
+          "key": "Boyutlar",
+          "value": "493 (U) x 165 (G) x 376 (Y) mm"
+        },
+        {
+          "key": "Ürünün net ağırlığı",
+          "value": "2,2 kg"
+        },
+        {
+          "key": "Çalışma sıcaklığı",
+          "value": "0°C–40°C"
+        },
+        {
+          "key": "Çalışma nemi düzeyi",
+          "value": "%20 ila %80 BN"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Monitör x1, Taban x1, Braket x1, Kullanım kılavuzu x1, HDMI kablosu x1, Güç adaptörü x1"
+        },
+        {
+          "key": "Bağlantı noktası sayısı ve türü",
+          "value": "HDMI 1.4 bağlantı noktası x1, VGA bağlantı noktası x1, DC güç bağlantı noktası x1"
+        },
+        {
+          "key": "TÜV Düşük Mavi Işık Sertifikası",
+          "value": "Var"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 2,
+        "yuzde": "25%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Monitor A24i",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-monitor-a24i/specs",
+      "category": "office",
+      "extractedAt": "2025-10-12T21:37:09.837Z",
+      "features": {
+        "ekran": {
+          "boyut": "23,8 inç",
+          "cozunurluk": "1920 x 1080",
+          "panel_tipi": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "ethernet": "",
+          "bluetooth": ""
+        },
+        "fare_klavye": {
+          "tip": "",
+          "dpi": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ürün Modeli",
+          "value": "P24FBA-RAGL"
+        },
+        {
+          "key": "En Boy Oranı",
+          "value": "16:9"
+        },
+        {
+          "key": "Güç Girişi",
+          "value": "12 V⎓2 A"
+        },
+        {
+          "key": "Tepki Süresi",
+          "value": "6 ms (tipik)"
+        },
+        {
+          "key": "Nominal Güç",
+          "value": "24 W"
+        },
+        {
+          "key": "Maksimum Çözünürlük",
+          "value": "1920 x 1080"
+        },
+        {
+          "key": "Önerilen Çözünürlük",
+          "value": "1920 x 1080"
+        },
+        {
+          "key": "Ürün Boyutları",
+          "value": "539,9 x 411,4 x 170 mm (taban dahil)"
+        },
+        {
+          "key": "Ürünün Net Ağırlığı",
+          "value": "2,98 kg"
+        },
+        {
+          "key": "Parlaklık",
+          "value": "250 cd/㎡ (tipik)"
+        },
+        {
+          "key": "Çalışma Sıcaklığı",
+          "value": "0℃–40℃"
+        },
+        {
+          "key": "Kontrast Oranı",
+          "value": "1000:1 (tipik)"
+        },
+        {
+          "key": "Çalışma Nemi Düzeyi",
+          "value": "%20 ila %80 BN"
+        },
+        {
+          "key": "Renkler",
+          "value": "16,7 milyon"
+        },
+        {
+          "key": "Atmosfer Basıncı",
+          "value": "86 kPa–106 kPa"
+        },
+        {
+          "key": "Bağlantı Noktası Türü ve Sayısı",
+          "value": "DP 1.4 bağlantı noktası x1, HDMI bağlantı noktası x1, DC Girişi güç bağlantı noktası x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 2,
+        "yuzde": "25%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Monitor A27i",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-monitor-a27i/specs",
+      "category": "office",
+      "extractedAt": "2025-10-12T21:37:48.380Z",
+      "features": {
+        "ekran": {
+          "boyut": "27 inç",
+          "cozunurluk": "1920 x 1080",
+          "panel_tipi": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "ethernet": "",
+          "bluetooth": ""
+        },
+        "fare_klavye": {
+          "tip": "",
+          "dpi": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ürün modeli",
+          "value": "P27FBA-RAGL"
+        },
+        {
+          "key": "Güç girişi",
+          "value": "12 V⎓2,0 A"
+        },
+        {
+          "key": "Nominal güç",
+          "value": "24 W"
+        },
+        {
+          "key": "Görüntüleme açısı",
+          "value": "178 (Y) / 178 (D)"
+        },
+        {
+          "key": "Parlaklık",
+          "value": "250 nit (tipik)"
+        },
+        {
+          "key": "Kontrast oranı",
+          "value": "1000:1"
+        },
+        {
+          "key": "Renk derinliği",
+          "value": "16,7 M"
+        },
+        {
+          "key": "En-boy oranı",
+          "value": "16:9"
+        },
+        {
+          "key": "Panel yenileme hızı (maks.)",
+          "value": "100 Hz"
+        },
+        {
+          "key": "G'den G'ye Tepki Süresi",
+          "value": "6 ms (tipik)"
+        },
+        {
+          "key": "Boyutlar (taban dahil)",
+          "value": "612,3 (U) x 170 (G) x 451,7 (Y) mm"
+        },
+        {
+          "key": "Ağırlık (taban dahil)",
+          "value": "3,6 kg"
+        },
+        {
+          "key": "Duvara montaj parçasının boyutu",
+          "value": "VESA 75 mm x 75 mm"
+        },
+        {
+          "key": "Eğim (açı)",
+          "value": "-5° ± 2 ~+ 15° ± 2"
+        },
+        {
+          "key": "Bağlantı noktası sayısı ve türü",
+          "value": "DP bağlantı noktası x1, HDMI 2.0 bağlantı noktası x1, DC Girişi kablo bağlantı noktası x1"
+        },
+        {
+          "key": "TÜV Düşük Mavi Işık Sertifikası",
+          "value": "Var"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 2,
+        "yuzde": "25%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Router AX1500",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-router-ax1500/specs",
+      "category": "office",
+      "extractedAt": "2025-10-12T21:38:20.779Z",
+      "features": {
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "baglanti": {
+          "wifi": "2,4 GHz, 5 GHz",
+          "ethernet": "4 adet 10/100/1000 MB/sn kendi kendine uyarlanabilen WAN/LAN bağlantı noktası",
+          "bluetooth": ""
+        },
+        "fare_klavye": {
+          "tip": "",
+          "dpi": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Boyutlar",
+          "value": "247 mm x 143,5 mm x 178,7 mm"
+        },
+        {
+          "key": "Renkler",
+          "value": "Beyaz"
+        },
+        {
+          "key": "2,4 G Wi-Fi",
+          "value": "2x2 (IEEE 802.11n protokolüne kadar destekler, teorik maksimum hız 300 MB/sn'dir)"
+        },
+        {
+          "key": "5 GHz Wi-Fi",
+          "value": "2x2 (IEEE 802.11ax protokolüne kadar destekler, teorik maksimum hız 1201 MB/sn'dir)"
+        },
+        {
+          "key": "Antenler",
+          "value": "Alım gücü yüksek 4 anten"
+        },
+        {
+          "key": "Isı Yayılımı",
+          "value": "Doğal ısı yayılımı"
+        },
+        {
+          "key": "LED Gösterge Işığı",
+          "value": "2 ışık (Sistem göstergesi x1, İnternet göstergesi x1)"
+        },
+        {
+          "key": "Sistem Sıfırlama Düğmesi",
+          "value": "x1"
+        },
+        {
+          "key": "Mesh Ağı Düğmesi",
+          "value": "x1"
+        },
+        {
+          "key": "Güç Girişi Bağlantı Noktası",
+          "value": "x1"
+        },
+        {
+          "key": "Protokol Standartları",
+          "value": "IEEE 802.11a/b/g/n/ac/ax, IEEE 802.3/3u/3ab"
+        },
+        {
+          "key": "Modülasyon",
+          "value": "11b: DSSS: DBPSK (1 MB/sn), DQPSK (2 MB/sn), CCK (5,5/11 MB/sn)\n11a/g: OFDM: BPSK (6/9 MB/sn), QPSK (12/18 MB/sn), 16QAM (24/36 MB/sn), 64QAM (48/54 MB/sn)\n11n: MIMO-OFDM: BPSK, QPSK, 16QAM, 64QAM. Veri hızı: MCS0-MCS15\n11ac: MIMO-OFDM: BPSK, QPSK, 16QAM, 64QAM, 256QAM\n11ax: MIMO-OFDM: BPSK, QPSK, 16QAM, 64QAM, 256QAM, 1024QAM"
+        },
+        {
+          "key": "İşletim Sistemi",
+          "value": "MiWiFi ROM"
+        },
+        {
+          "key": "Wi-Fi Şifrelemesi",
+          "value": "WPA-PSK/WPA2-PSK/WPA3-SAE şifreleme, Kablosuz erişim kontrolü (izin verilenler ve verilmeyenler listesi), SSID gizli"
+        },
+        {
+          "key": "Yönetim Uygulamaları",
+          "value": "Web, Mi Home/Xiaomi Home Uygulamasını destekler (Android, iOS)"
+        },
+        {
+          "key": "Çalışma Ortamı Sıcaklığı",
+          "value": "0 ~ 40°C"
+        },
+        {
+          "key": "Çalışma Nem Düzeyi",
+          "value": "%10 ~ %90 BN (yoğuşmasız)"
+        },
+        {
+          "key": "Saklama Sıcaklığı",
+          "value": "-40 ~ 70°C"
+        },
+        {
+          "key": "Saklama Nem Düzeyi",
+          "value": "%5 ~ %90 BN (yoğuşmasız)"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "1 adet Xiaomi Router AX1500, 1 adet Ağ Kablosu, 1 adet Güç Adaptörü, 1 adet Garanti Kartı, 1 adet Kullanım Kılavuzu"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 2,
+        "yuzde": "25%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Router AX3000T",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-router-ax3000t/specs",
+      "category": "office",
+      "extractedAt": "2025-10-12T21:39:06.104Z",
+      "features": {
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "baglanti": {
+          "wifi": "2×2 (IEEE 802.11ax protokolüne kadar destekler, teorik maksimum hız 574 Mb/sn'dir) for 2.4G Wi-Fi and 2×2 (IEEE 802.11ax protokolüne kadar destekler, teorik maksimum hız 2402 MB/sn'dir) for 5GHz Wi-Fi",
+          "ethernet": "4 adet 10/100/1000 MB/sn kendi kendine uyarlanabilen WAN/LAN bağlantı noktası (Otomatik MDI/MDIX)",
+          "bluetooth": ""
+        },
+        "fare_klavye": {
+          "tip": "",
+          "dpi": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Boyutlar",
+          "value": "225 mm x 172 mm x 208,8 mm"
+        },
+        {
+          "key": "Renkler",
+          "value": "Beyaz"
+        },
+        {
+          "key": "Antenler",
+          "value": "Alım gücü yüksek 4 anten"
+        },
+        {
+          "key": "Isı Yayılımı",
+          "value": "Doğal ısı yayılımı"
+        },
+        {
+          "key": "LED Gösterge Işığı",
+          "value": "Tek Işık"
+        },
+        {
+          "key": "Sistem Sıfırlama Düğmesi",
+          "value": "1 adet"
+        },
+        {
+          "key": "Mesh Ağı Düğmesi",
+          "value": "1 adet"
+        },
+        {
+          "key": "Güç Girişi Bağlantı Noktası",
+          "value": "1 adet"
+        },
+        {
+          "key": "Protokol Standartları",
+          "value": "IEEE 802.11a/b/g/n/ac/ax, IEEE 802.3/3u/3ab"
+        },
+        {
+          "key": "Çift bant",
+          "value": "2,4 GHz, 5 GHz"
+        },
+        {
+          "key": "Modülasyon",
+          "value": "11b: DSSS: DBPSK (1 MB/sn), DQPSK (2 MB/sn), CCK (5,5/11 MB/sn)\n11a/g: OFDM: BPSK (6/9 MB/sn), QPSK (12/18 MB/sn), 16QAM (24/36 MB/sn), 64QAM (48/54 MB/sn)\n11n: MIMO-OFDM: BPSK, QPSK, 16QAM, 64QAM. Veri hızı: MCS0-MCS15 bandı\n11ac: MIMO-OFDM: BPSK, QPSK, 16QAM, 64QAM, 256QAM\n11ax: MIMO-OFDM: BPSK, QPSK, 16QAM, 64QAM, 256QAM, 1024QAM"
+        },
+        {
+          "key": "Veri hızları",
+          "value": "MCS0-MCS11 (2 akışı destekler)"
+        },
+        {
+          "key": "İşletim Sistemi",
+          "value": "MiWiFi ROM"
+        },
+        {
+          "key": "Wi-Fi Şifrelemesi",
+          "value": "WPA-PSK/WPA2-PSK/WPA3-SAE şifreleme, Kablosuz erişim kontrolü (izin verilenler ve verilmeyenler listesi), SSID gizli"
+        },
+        {
+          "key": "Yönetim Uygulamaları",
+          "value": "Web, Mi Home/Xiaomi Home Uygulamasını destekler (Android, iOS)"
+        },
+        {
+          "key": "Çalışma Ortamı Sıcaklığı",
+          "value": "0 ~ 40°C"
+        },
+        {
+          "key": "Çalışma Nemi Düzeyi",
+          "value": "%10 ~ %90 BN (yoğuşmasız)"
+        },
+        {
+          "key": "Saklama Sıcaklığı",
+          "value": "-40 ~ 70°C"
+        },
+        {
+          "key": "Saklama Nem Düzeyi",
+          "value": "%5 ~ %90 BN (yoğuşmasız)"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "1 adet Xiaomi Yönlendirici AX3000T, 1 adet Ağ Kablosu, 1 adet Güç Adaptörü, 1 Adet Garanti Kartı, 1 Adet Kullanım Kılavuzu"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 2,
+        "yuzde": "25%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Router AX3200",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-router-ax3200/specs",
+      "category": "office",
+      "extractedAt": "2025-10-12T21:39:50.069Z",
+      "features": {
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "baglanti": {
+          "wifi": "2,4 GHz (4×4, IEEE 802.11n, 800 MB/sn), 5 GHz (4×4, IEEE 802.11ax, 2402 MB/sn)",
+          "ethernet": "10/100/1000 MB/sn uyarlanabilen WAN ×1, 10/100/1000 MB/sn uyarlanabilen LAN ×3",
+          "bluetooth": ""
+        },
+        "fare_klavye": {
+          "tip": "",
+          "dpi": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Boyut",
+          "value": "284 mm × 186 mm × 186 mm"
+        },
+        {
+          "key": "Ürün rengi",
+          "value": "Siyah"
+        },
+        {
+          "key": "İşlemci",
+          "value": "MediaTek Filogic800 Çift çekirdekli A53 1,35 GHz CPU"
+        },
+        {
+          "key": "Bellek",
+          "value": "256 MB"
+        },
+        {
+          "key": "Antenler",
+          "value": "Harici çok yönlü antenler"
+        },
+        {
+          "key": "LED gösterge ışığı",
+          "value": "2 ışık, Sistem göstergesi × 1, İnternet göstergesi × 1"
+        },
+        {
+          "key": "Sistem sıfırlama düğmesi",
+          "value": "× 1"
+        },
+        {
+          "key": "Örgü ağı düğmesi",
+          "value": "× 1"
+        },
+        {
+          "key": "Güç girişi bağlantı noktası",
+          "value": "× 1"
+        },
+        {
+          "key": "Protokol standartları",
+          "value": "IEEE 802.11a/b/g/n/ac/ax，IEEE 802.3/3u/3ab"
+        },
+        {
+          "key": "Modülasyon",
+          "value": "11b：DSSS：DBPSK (1 MB/sn), DQPSK (2 MB/sn), CCK (5,5/11 MB/sn)\n11a/g：OFDM: BPSK (6/9 MB/sn), QPSK (12/18 MB/sn), 16QAM (24/36 MB/sn), 64QAM (48/54 MB/sn)\n11n：MIMO-OFDM: BPSK, QPSK, 16QAM, 64QAM, 256QAM.\n11ac：MIMO-OFDM: BPSK, QPSK, 16QAM, 64QAM, 256QAM.\n11ax：MIMO-OFDM: BPSK, QPSK, 16QAM, 64QAM, 256QAM, 1024QAM."
+        },
+        {
+          "key": "İşletim sistemi",
+          "value": "OpenWRT tabanlı bir akıllı yönlendirici işletim sistemi olan MiWiFi ROM"
+        },
+        {
+          "key": "Wi-Fi Şifrelemesi",
+          "value": "WPA-PSK/WPA2-PSK/WPA3-SAE"
+        },
+        {
+          "key": "Yönetim uygulamaları",
+          "value": "Web, Android ve iOS'u destekler"
+        },
+        {
+          "key": "Çalışma ortamı sıcaklığı",
+          "value": "0-40℃"
+        },
+        {
+          "key": "Çalışma nem düzeyi",
+          "value": "%10 ila %90 BN (yoğuşmasız)"
+        },
+        {
+          "key": "Saklama sıcaklığı",
+          "value": "-40-70℃"
+        },
+        {
+          "key": "Saklama nem düzeyi",
+          "value": "%5 ila %90 BN (yoğuşmasız)"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Xiaomi Router AX3200 ×1, Kullanım Kılavuzu x 1, Güç kablosu x 1, Ağ kablosu ×1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 2,
+        "yuzde": "25%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi WiFi Range Extender N300",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-wifi-range-extender-n300/specs",
+      "category": "office",
+      "extractedAt": "2025-10-12T21:40:34.610Z",
+      "features": {
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "baglanti": {
+          "wifi": "2,4 GHz, maksimum 300 MB/sn",
+          "ethernet": "",
+          "bluetooth": ""
+        },
+        "fare_klavye": {
+          "tip": "",
+          "dpi": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ürün Modeli",
+          "value": "RD10/RD10M"
+        },
+        {
+          "key": "Boyutlar",
+          "value": "80x54x70 mm"
+        },
+        {
+          "key": "Anten Tipi",
+          "value": "2 harici anten"
+        },
+        {
+          "key": "Kablosuz Standartları",
+          "value": "IEEE 802.11b/g/n"
+        },
+        {
+          "key": "Kablosuz Güvenliği",
+          "value": "WPA-PSK/ WPA2-PSK şifrelemesi"
+        },
+        {
+          "key": "Güç Kaynağı",
+          "value": "100-240 V/0,35 A"
+        },
+        {
+          "key": "Çalışma sıcaklığı",
+          "value": "0 ila 40°C"
+        },
+        {
+          "key": "Çalışma nemi",
+          "value": "%10 ila %90 BN (yoğuşmasız)"
+        },
+        {
+          "key": "Saklama sıcaklığı",
+          "value": "-40 ila 70°C"
+        },
+        {
+          "key": "Saklama nem düzeyi",
+          "value": "%5 ila %90 BN (yoğuşmasız)"
+        },
+        {
+          "key": "Güç tüketimi",
+          "value": "3,57 W"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 1,
+        "yuzde": "13%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Wireless Keyboard and Mouse Combo",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-wireless-keyboard-and-mouse-combo/specs",
+      "category": "office",
+      "extractedAt": "2025-10-12T21:41:07.471Z",
+      "features": {
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "ethernet": "",
+          "bluetooth": ""
+        },
+        "fare_klavye": {
+          "tip": "Wireless",
+          "dpi": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ürün model no.",
+          "value": "WXJS01YM"
+        },
+        {
+          "key": "Ürün boyutları",
+          "value": "436,5 x 127,5 x 27,5 mm (klavye), 113 x 60 x 36 mm (fare)"
+        },
+        {
+          "key": "Uyumluluk",
+          "value": "Windows 10"
+        },
+        {
+          "key": "Klavye tuşu sayısı",
+          "value": "104"
+        },
+        {
+          "key": "Nominal giriş",
+          "value": "1,5 V ⎓ 50 mA (klavye), 1,5 V ⎓ 50 mA (fare)"
+        },
+        {
+          "key": "Çalışma sıcaklığı",
+          "value": "0℃ ila 40℃"
+        },
+        {
+          "key": "Bağlantı yöntemi",
+          "value": "2,4 GHz kablosuz bağlantı"
+        },
+        {
+          "key": "Ürünün net ağırlığı",
+          "value": "Klavye 500 g (pil hariç), Fare 60 g (pil hariç)"
+        },
+        {
+          "key": "Malzemeler",
+          "value": "Plastik, metal vb."
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 1,
+        "yuzde": "13%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Wireless Mouse 3",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-wireless-mouse-3/specs",
+      "category": "office",
+      "extractedAt": "2025-10-12T21:41:41.243Z",
+      "features": {
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "ethernet": "",
+          "bluetooth": "Evet"
+        },
+        "fare_klavye": {
+          "tip": "Kablosuz",
+          "dpi": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ürün model numarası",
+          "value": "XMWXSB03YM"
+        },
+        {
+          "key": "Uyumluluk",
+          "value": "Windows 10, macOS 10.13 ve daha yeni sürümler"
+        },
+        {
+          "key": "Nominal giriş",
+          "value": "1.5 V⎓50 mA"
+        },
+        {
+          "key": "Ürün malzemeleri",
+          "value": "Plastik, metal"
+        },
+        {
+          "key": "Bağlantı yöntemi",
+          "value": "2,4 GHz kablosuz bağlantı, Bluetooth"
+        },
+        {
+          "key": "Ürün boyutları",
+          "value": "119 x 64 x 41 mm"
+        },
+        {
+          "key": "Ürünün net ağırlığı",
+          "value": "57 g (pilsiz)"
+        },
+        {
+          "key": "Çalışma sıcaklığı",
+          "value": "0°C ila 40°C"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Fare x1, 2,4 GHz alıcı x1 (Alıcı bölmesinde saklanır), Kullanım kılavuzu x1, Garanti kartı x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 2,
+        "yuzde": "25%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Kablosuz Fare Lite 2",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-wireless-mouse-lite-2/specs",
+      "category": "office",
+      "extractedAt": "2025-10-12T21:42:17.086Z",
+      "features": {
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "ethernet": "",
+          "bluetooth": ""
+        },
+        "fare_klavye": {
+          "tip": "Kablosuz Fare",
+          "dpi": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ürün model numarası",
+          "value": "XMWXSB02YM"
+        },
+        {
+          "key": "Uyumluluk",
+          "value": "Windows 7, macOS 10.13 ve daha yeni sürümler"
+        },
+        {
+          "key": "Ürün boyutları",
+          "value": "108,5 x 57,5 x 35,6 mm"
+        },
+        {
+          "key": "Çalışma sıcaklığı",
+          "value": "0°C ila 40°C"
+        },
+        {
+          "key": "Bağlantı yöntemi",
+          "value": "2,4 GHz kablosuz bağlantı"
+        },
+        {
+          "key": "Nominal giriş",
+          "value": "1.5 V⎓50 mA"
+        },
+        {
+          "key": "Ürünün net ağırlığı",
+          "value": "Yaklaşık 45 g (pilsiz)"
+        },
+        {
+          "key": "Ürün malzemeleri",
+          "value": "PC, ABS, metal vb."
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Fare x1, Kullanım kılavuzu x1, Alıcı x1 (Alıcı bölmesinde saklanır), AA pil x1 (Pil yuvasında saklanır), Garanti kartı x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 1,
+        "yuzde": "13%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Wireless Mouse Lite",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-wireless-mouse-lite/specs",
+      "category": "office",
+      "extractedAt": "2025-10-12T21:42:48.175Z",
+      "features": {
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "ethernet": "",
+          "bluetooth": "2,4 GHz kablosuz bağlantı"
+        },
+        "fare_klavye": {
+          "tip": "Kablosuz",
+          "dpi": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ürün model no.",
+          "value": "XMWXSB01YM"
+        },
+        {
+          "key": "Uyumluluk",
+          "value": "Windows 10"
+        },
+        {
+          "key": "Nominal giriş",
+          "value": "1,5 V 50 mA"
+        },
+        {
+          "key": "Malzemeler",
+          "value": "PC, ABS, metal vb."
+        },
+        {
+          "key": "Ürünün net ağırlığı",
+          "value": "60 g (pil hariç)"
+        },
+        {
+          "key": "Ürün boyutları",
+          "value": "113 x 60 x 36 mm"
+        },
+        {
+          "key": "Çalışma sıcaklığı",
+          "value": "0°C–40°C"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 2,
+        "yuzde": "25%",
+        "ekstraOzellikSayisi": 0
+      }
+    }
+  ]
+}

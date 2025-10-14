@@ -1,0 +1,4016 @@
+{
+  "kategoriAnahtari": "phone",
+  "kategoriAdi": "Telefonlar",
+  "cekilmeTarihi": "2025-10-12T21:43:06.873Z",
+  "toplamUrunSayisi": 19,
+  "urunler": [
+    {
+      "productName": "POCO F7 Pro",
+      "productUrl": "https://www.mi.com/tr/product/poco-f7-pro/specs",
+      "category": "phone",
+      "extractedAt": "2025-10-12T20:10:25.501Z",
+      "features": {
+        "batarya": {
+          "kapasite": "6000 mAh(typ)",
+          "tip": "",
+          "sarj_gucu": "90 W"
+        },
+        "ekran": {
+          "boyut": "6.67 inç",
+          "cozunurluk": "3200*1440",
+          "panel_tipi": "WQHD+ Flow AMOLED DotDisplay"
+        },
+        "kamera": {
+          "ana_mp": "50 MP",
+          "on_kamera": "20 MP"
+        },
+        "islemci": {
+          "marka": "Snapdragon",
+          "model": "8 Gen 3 Mobile Platform"
+        },
+        "bellek": {
+          "ram": "12 GB",
+          "depolama": "256 GB / 512 GB"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi 7/ Wi-Fi 6/ Wi-Fi 5/ Wi-Fi 4 ve 802.11a/b/g",
+          "bluetooth": "5.4",
+          "nfc": "Destekleniyor",
+          "g5": "Destekleniyor"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "En yüksek parlaklık",
+          "value": "3200 nit"
+        },
+        {
+          "key": "Yenileme hızı",
+          "value": "120 Hz"
+        },
+        {
+          "key": "İşlemci teknolojisi",
+          "value": "4 nm"
+        },
+        {
+          "key": "Boyutlar",
+          "value": "160,26 mm (yükseklik) x 74,95 mm (genişlik) x 8,12 mm (kalınlık)"
+        },
+        {
+          "key": "Ağırlık",
+          "value": "206 g"
+        },
+        {
+          "key": "Kontrast oranı",
+          "value": "5.000.000:1"
+        },
+        {
+          "key": "HBM parlaklığı",
+          "value": "1800 nit"
+        },
+        {
+          "key": "Dokunmatik örnekleme hızı",
+          "value": "480 Hz'e kadar"
+        },
+        {
+          "key": "Anlık dokunmatik örnekleme hızı",
+          "value": "2560 Hz'e kadar"
+        },
+        {
+          "key": "12 bit renk derinliği",
+          "value": "68 milyar renk"
+        },
+        {
+          "key": "DCI-P3 geniş renk gamı",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Karartma",
+          "value": "3840 Hz'e kadar PWM karartma"
+        },
+        {
+          "key": "Orijinal renk PRO",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Profesyonel HDR ekran",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "HDR10+",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Dolby Vision",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "TÜV Düşük Mavi Işık (Donanım Çözümü) Sertifikasyonu",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "TÜV Titreşimsiz Sertifikasyonu",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "TÜV Sirkadiyen Ritim Dostu Sertifikasyonu",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Corning®️ Gorilla®️ Glass 7i",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Ultra geniş açılı kamera",
+          "value": "8 MP"
+        },
+        {
+          "key": "Arka kamera video kaydı",
+          "value": "24 fps'de 8K (7680x4320) video kaydı, 24 fps, 30 fps veya 60 fps'de 4K (3840x2160) video kaydı, 30 fps veya 60 fps'de 1080p (1920x1080) HD video kaydı, 30 fps'de 720p (1280x720) HD video kaydı"
+        },
+        {
+          "key": "Ağır çekim video",
+          "value": "120 fps/240 fps/480 fps/960 fps/1920 fps'de 720p (1280x720) - 120 fps/240 fps/960 fps'de 1080p (1920x1080)"
+        },
+        {
+          "key": "Ön kamera video kaydı",
+          "value": "30 fps veya 60 fps'de 1080p (1920x1080) HD video kaydı, 30 fps'de 720p (1280x720) HD video kaydı"
+        },
+        {
+          "key": "Ultrasonik ekran içi parmak izi sensörü",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Yapay Zeka Destekli Yüzle Kilit Açma",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Çift SIM (nano SIM + nano SIM)",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "5G SA",
+          "value": "n1/3/5/7/8/20/26/28/38/40/41/66/77/78/2/48"
+        },
+        {
+          "key": "5G NSA",
+          "value": "n1/3/5/7/8/20/28/38/40/41/66/77/78"
+        },
+        {
+          "key": "4G LTE TDD",
+          "value": "B38/40/41/42/48"
+        },
+        {
+          "key": "4G LTE FDD",
+          "value": "B1/2/3/4/5/7/8/18/19/20/26/28/66"
+        },
+        {
+          "key": "3G WCDMA",
+          "value": "1/2/4/5/6/8/19"
+        },
+        {
+          "key": "2G GSM",
+          "value": "2/3/5/8"
+        },
+        {
+          "key": "4x4 MIMO desteği",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "WLAN frekansı",
+          "value": "2,4 Wi-Fi | 5 GHz Wi-Fi"
+        },
+        {
+          "key": "Bluetooth 5.4",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Çift Bluetooth",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "SBC/AAC/AptX/AptX HD/AptX Adaptive/LDAC/LHDC 5.0/LC3/ASHA/Auracast desteği",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Beidou",
+          "value": "B1I+B1C+B2a"
+        },
+        {
+          "key": "GPS",
+          "value": "L1+L5"
+        },
+        {
+          "key": "Galileo",
+          "value": "E1+E5a"
+        },
+        {
+          "key": "GLONASS",
+          "value": "G1"
+        },
+        {
+          "key": "QZSS",
+          "value": "L1+L5"
+        },
+        {
+          "key": "NavIC",
+          "value": "L5"
+        },
+        {
+          "key": "AGNSS",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Veri ağı",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Kablosuz ağ",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Sensör Destekli Konumlandırma",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Stereo hoparlörler",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "3 mikrofonlu dizi",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Yüksek Çözünürlüklü Ses ve Yüksek Çözünürlüklü Kablosuz Ses sertifikasyonu",
+          "value": "Dolby Atmos"
+        },
+        {
+          "key": "MP3, FLAC, AAC, OGG, WAV, AMR, AWB gibi ses biçimlerini destekler",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "MP4, MKV, AVI, WMV, WEBM, 3GP, ASF gibi video biçimlerini destekler",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "HDR10, HDR10+, Dolby Vision video içeriği oynatılırken HDR görüntülemeyi destekler",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Yakınlık sensörü",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Ortam ışığı sensörü",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "İvme ölçer",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Elektronik pusula",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Jiroskop",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Kızılötesi",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Titreşim sensörü",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "X eksenli doğrusal titreşim motoru",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "İşletim Sistemi",
+          "value": "Xiaomi HyperOS 2"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Cep Telefonu/Adaptör/USB Type-C Kablo/SIM Çıkarma Aracı/Koruyucu Kılıf/Hızlı Başlangıç Kılavuzu ve Garanti Kartı/Güvenlik Bilgileri/Nem Giderici"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 16,
+        "doluAlan": 15,
+        "yuzde": "94%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "POCO F7 Ultra",
+      "productUrl": "https://www.mi.com/tr/product/poco-f7-ultra/specs",
+      "category": "phone",
+      "extractedAt": "2025-10-12T20:11:45.180Z",
+      "features": {
+        "batarya": {
+          "kapasite": "5300 mAh(typ)",
+          "tip": "",
+          "sarj_gucu": "120 W"
+        },
+        "ekran": {
+          "boyut": "6.67 inç",
+          "cozunurluk": "3200*1440",
+          "panel_tipi": "WQHD+ Flow AMOLED DotDisplay"
+        },
+        "kamera": {
+          "ana_mp": "50 MP",
+          "on_kamera": "32 MP"
+        },
+        "islemci": {
+          "marka": "Snapdragon",
+          "model": "8 Elite Mobile Platform"
+        },
+        "bellek": {
+          "ram": "16 GB",
+          "depolama": "512 GB"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi 7/ Wi-Fi 6/ Wi-Fi 5/ Wi-Fi 4 ve 802.11a/b/g",
+          "bluetooth": "6.0",
+          "nfc": "Destekleniyor",
+          "g5": "Destekleniyor"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Şarj hızı",
+          "value": "120 W"
+        },
+        {
+          "key": "Kablosuz şarj hızı",
+          "value": "50 W"
+        },
+        {
+          "key": "En yüksek parlaklık",
+          "value": "3200 nit"
+        },
+        {
+          "key": "Yenileme hızı",
+          "value": "120 Hz"
+        },
+        {
+          "key": "İşlemci teknolojisi",
+          "value": "3 nm"
+        },
+        {
+          "key": "Çözünürlük",
+          "value": "3200*1440"
+        },
+        {
+          "key": "HBM parlaklığı",
+          "value": "1800 nit"
+        },
+        {
+          "key": "Dokunmatik örnekleme hızı",
+          "value": "480 Hz'e kadar"
+        },
+        {
+          "key": "Anlık dokunmatik örnekleme hızı",
+          "value": "2560 Hz'e kadar"
+        },
+        {
+          "key": "12 bit renk derinliği",
+          "value": "68 milyar renk"
+        },
+        {
+          "key": "DCI-P3 geniş renk gamı",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Karartma",
+          "value": "3840 Hz'e kadar PWM karartma"
+        },
+        {
+          "key": "Orijinal renk PRO",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Profesyonel HDR ekran",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "HDR10+",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Dolby Vision",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "TÜV Düşük Mavi Işık (Donanım Çözümü) Sertifikası",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "TÜV Titreşimsiz Sertifikası",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "TÜV Sirkadiyen Ritim Dostu sertifikası",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "POCO Shield Glass",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Light Fusion 800 görüntü sensörü",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "OIS",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Ultra geniş açılı kamera",
+          "value": "32 MP"
+        },
+        {
+          "key": "Ön kamera",
+          "value": "32 MP"
+        },
+        {
+          "key": "Ultrasonik ekran içi parmak izi sensörü",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Yapay Zeka Destekli Yüzle Kilit Açma",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Çift SIM (nano SIM + nano SIM)",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "5G SA",
+          "value": "n1/3/5/7/8/20/26/28/38/40/41/66/77/78/2/48"
+        },
+        {
+          "key": "5G NSA",
+          "value": "n1/3/5/7/8/20/28/38/40/41/66/77/78"
+        },
+        {
+          "key": "4G LTE TDD",
+          "value": "38/40/41/42/48"
+        },
+        {
+          "key": "4G LTE FDD",
+          "value": "1/2/3/4/5/7/8/18/19/20/26/28/66"
+        },
+        {
+          "key": "3G WCDMA",
+          "value": "1/2/4/5/8/6/19"
+        },
+        {
+          "key": "2G GSM",
+          "value": "2/3/5/8"
+        },
+        {
+          "key": "4x4 MIMO desteği",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Wi-Fi Protokolü",
+          "value": "Wi-Fi 7/ Wi-Fi 6/ Wi-Fi 5/ Wi-Fi 4 ve 802.11a/b/g"
+        },
+        {
+          "key": "WLAN frekansı",
+          "value": "2,4 Wi-Fi | 5 GHz Wi-Fi"
+        },
+        {
+          "key": "Çoklu Bağlantıyla Çalışma",
+          "value": "2x2 MIMO, MU-MIMO için 8x8 ses, Wi-Fi Direct, Miracast desteği"
+        },
+        {
+          "key": "Bluetooth",
+          "value": "6.0, Çift Bluetooth"
+        },
+        {
+          "key": "Bluetooth kodlama",
+          "value": "SBC / AAC / AptX / AptX HD / AptX Adaptive / LDAC / LHDC 5.0 / LC3 / ASHA / Auracast desteği"
+        },
+        {
+          "key": "Beidou",
+          "value": "B1I+B1C+B2a"
+        },
+        {
+          "key": "GPS",
+          "value": "L1+L5"
+        },
+        {
+          "key": "Galileo",
+          "value": "E1+E5a"
+        },
+        {
+          "key": "GLONASS",
+          "value": "G1"
+        },
+        {
+          "key": "QZSS",
+          "value": "L1+L5"
+        },
+        {
+          "key": "NavIC",
+          "value": "L5"
+        },
+        {
+          "key": "AGNSS",
+          "value": "Veri ağı | Kablosuz ağ | Sensör Destekli Konumlandırma"
+        },
+        {
+          "key": "Stereo hoparlörler",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "3 mikrofonlu dizi",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Yüksek Çözünürlüklü Ses ve Yüksek Çözünürlüklü Kablosuz Ses sertifikasyonu",
+          "value": "Dolby Atmos"
+        },
+        {
+          "key": "Ses biçimleri",
+          "value": "MP3, FLAC, AAC, OGG, WAV, AMR, AWB"
+        },
+        {
+          "key": "Video biçimleri",
+          "value": "MP4, MKV, AVI, WMV, WEBM, 3GP, ASF"
+        },
+        {
+          "key": "HDR10",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "HDR10+",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Dolby Vision",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Yakınlık sensörü",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Ortam ışığı sensörü",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "İvme ölçer",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Jiroskop",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Elektronik pusula",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Kızılötesi verici",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Titreşim sensörü",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Vibration motor",
+          "value": "X ekseni doğrusal titreşim motoru"
+        },
+        {
+          "key": "İşletim Sistemi",
+          "value": "Xiaomi HyperOS 2"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 16,
+        "doluAlan": 15,
+        "yuzde": "94%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "POCO M7 Pro 5G",
+      "productUrl": "https://www.mi.com/tr/product/poco-m7-pro-5g/specs",
+      "category": "phone",
+      "extractedAt": "2025-10-12T20:12:52.307Z",
+      "features": {
+        "batarya": {
+          "kapasite": "5110 mAh(typ)",
+          "tip": "",
+          "sarj_gucu": "45 W"
+        },
+        "ekran": {
+          "boyut": "6.67 inç",
+          "cozunurluk": "2400 x 1080",
+          "panel_tipi": "AMOLED"
+        },
+        "kamera": {
+          "ana_mp": "50 MP",
+          "on_kamera": "20 MP"
+        },
+        "islemci": {
+          "marka": "MediaTek",
+          "model": "Dimensity 7025-Ultra"
+        },
+        "bellek": {
+          "ram": "8 GB / 12 GB",
+          "depolama": "256 GB"
+        },
+        "baglanti": {
+          "wifi": "802.11a/b/g/n/ac",
+          "bluetooth": "5.3",
+          "nfc": "Evet",
+          "g5": "Evet"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "En yüksek parlaklık",
+          "value": "2100 nit"
+        },
+        {
+          "key": "Yenileme hızı",
+          "value": "120 Hz"
+        },
+        {
+          "key": "İşlemci teknolojisi",
+          "value": "6 nm"
+        },
+        {
+          "key": "Suya düşmeye, suya ve toza karşı dayanıklılık",
+          "value": "IP 64"
+        },
+        {
+          "key": "Dokunmatik örnekleme hızı",
+          "value": "240 Hz"
+        },
+        {
+          "key": "HBM parlaklığı",
+          "value": "1200 nit"
+        },
+        {
+          "key": "Renk derinliği",
+          "value": "8 bit"
+        },
+        {
+          "key": "Kontrast oranı",
+          "value": "5.000.000:1"
+        },
+        {
+          "key": "DCI-P3 geniş renk gamı",
+          "value": "Evet"
+        },
+        {
+          "key": "PPI",
+          "value": "394"
+        },
+        {
+          "key": "Corning® Gorilla® Glass",
+          "value": "5"
+        },
+        {
+          "key": "Güneş ışığı ekranı",
+          "value": "Evet"
+        },
+        {
+          "key": "Okuma modu",
+          "value": "Evet"
+        },
+        {
+          "key": "960 Hz PWM karartma",
+          "value": "Evet"
+        },
+        {
+          "key": "TÜV Rheinland Düşük Mavi Işık Sertifikası (Donanım çözümü)",
+          "value": "Evet"
+        },
+        {
+          "key": "TÜV Rheinland Sirkadiyen Ritim Dostu Sertifikası",
+          "value": "Evet"
+        },
+        {
+          "key": "TÜV Rheinland Titreşimsiz Sertifikası",
+          "value": "Evet"
+        },
+        {
+          "key": "SGS Eye Care Ekran",
+          "value": "Evet"
+        },
+        {
+          "key": "2160 Hz anlık dokunmatik örnekleme hızı",
+          "value": "Evet"
+        },
+        {
+          "key": "16x süper çözünürlüklü dokunuş",
+          "value": "Evet"
+        },
+        {
+          "key": "Ekran-gövde oranı",
+          "value": "%92"
+        },
+        {
+          "key": "Optik Görüntü Sabitleme (OIS)",
+          "value": "Evet"
+        },
+        {
+          "key": "Derinlik lensi",
+          "value": "2 MP"
+        },
+        {
+          "key": "Arka kamera video kaydı",
+          "value": "30 fps'de 1080p, 30 fps'de 720p"
+        },
+        {
+          "key": "Ön kamera video kaydı",
+          "value": "30/60 fps'de 1080p, 30 fps'de 720p"
+        },
+        {
+          "key": "Ekran içi parmak izi sensörü",
+          "value": "Evet"
+        },
+        {
+          "key": "Yapay Zeka Destekli Yüzle Kilit Açma",
+          "value": "Evet"
+        },
+        {
+          "key": "SIM 1 + Hibrit (SIM veya microSD)",
+          "value": "Evet"
+        },
+        {
+          "key": "2G: GSM",
+          "value": "2/3/5/8"
+        },
+        {
+          "key": "3G: WCDMA",
+          "value": "1/2/4/5/8/6/19"
+        },
+        {
+          "key": "4G FDD",
+          "value": "1/2/3/4/5/7/8/12/13/17/18/19/20/26/28/32/66"
+        },
+        {
+          "key": "4G TDD",
+          "value": "38/40/41/42/48"
+        },
+        {
+          "key": "5G SA",
+          "value": "1/2/3/5/7/8/12/20/26/28/38/40/41/48/66/77/78"
+        },
+        {
+          "key": "5G NSA",
+          "value": "1/3/5/7/8/20/28/38/40/41/66/77/78"
+        },
+        {
+          "key": "Wi-Fi Protokolü",
+          "value": "802.11a/b/g/n/ac"
+        },
+        {
+          "key": "2,4 GHz Wi-Fi",
+          "value": "Evet"
+        },
+        {
+          "key": "5 GHz Wi-Fi",
+          "value": "Evet"
+        },
+        {
+          "key": "Wi-Fi Direct",
+          "value": "Evet"
+        },
+        {
+          "key": "GPS",
+          "value": "L1"
+        },
+        {
+          "key": "GLONASS",
+          "value": "G1"
+        },
+        {
+          "key": "BDS",
+          "value": "B1I"
+        },
+        {
+          "key": "Galileo",
+          "value": "E1"
+        },
+        {
+          "key": "Çift hoparlör",
+          "value": "Evet"
+        },
+        {
+          "key": "Dolby Atmos®",
+          "value": "Evet"
+        },
+        {
+          "key": "3,5 mm kulaklık jakı",
+          "value": "Evet"
+        },
+        {
+          "key": "Sanal yakınlık sensörü",
+          "value": "Evet"
+        },
+        {
+          "key": "Ortam ışığı sensörü",
+          "value": "Evet"
+        },
+        {
+          "key": "İvme ölçer",
+          "value": "Evet"
+        },
+        {
+          "key": "Elektronik pusula",
+          "value": "Evet"
+        },
+        {
+          "key": "Kızılötesi verici",
+          "value": "Evet"
+        },
+        {
+          "key": "Jiroskop",
+          "value": "Evet"
+        },
+        {
+          "key": "İşletim Sistemi",
+          "value": "Xiaomi HyperOS"
+        },
+        {
+          "key": "Yükseklik",
+          "value": "162,4 mm"
+        },
+        {
+          "key": "Genişlik",
+          "value": "75,7 mm"
+        },
+        {
+          "key": "Kalınlık",
+          "value": "7,99 mm"
+        },
+        {
+          "key": "Ağırlık",
+          "value": "190 g"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 16,
+        "doluAlan": 15,
+        "yuzde": "94%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "POCO X7",
+      "productUrl": "https://www.mi.com/tr/product/poco-x7/specs",
+      "category": "phone",
+      "extractedAt": "2025-10-12T20:14:00.295Z",
+      "features": {
+        "batarya": {
+          "kapasite": "5110 mAh(typ)",
+          "tip": "",
+          "sarj_gucu": "45 W"
+        },
+        "ekran": {
+          "boyut": "6.67 inç",
+          "cozunurluk": "2712 x 1220",
+          "panel_tipi": "CrystalRes AMOLED"
+        },
+        "kamera": {
+          "ana_mp": "50 MP",
+          "on_kamera": "20 MP"
+        },
+        "islemci": {
+          "marka": "MediaTek",
+          "model": "Dimensity 7300-Ultra"
+        },
+        "bellek": {
+          "ram": "8+256 GB, 12+512 GB",
+          "depolama": "8+256 GB, 12+512 GB"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi 6/Wi-Fi 5/Wi-Fi 4/802.11a/b/g",
+          "bluetooth": "5.4",
+          "nfc": "Var",
+          "g5": "5G Sub6G: n1/2/3/5/7/8/20/28/38/40/41/66/77/78"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "En yüksek parlaklık",
+          "value": "3000 nit"
+        },
+        {
+          "key": "Yenileme hızı",
+          "value": "120 Hz"
+        },
+        {
+          "key": "İşlemci teknolojisi",
+          "value": "4 nm"
+        },
+        {
+          "key": "Suya düşmeye, suya ve toza karşı dayanıklılık",
+          "value": "IP 68"
+        },
+        {
+          "key": "Ekran malzemesi",
+          "value": "CrystalRes AMOLED"
+        },
+        {
+          "key": "Dokunmatik örnekleme hızı",
+          "value": "Maksimum 480 Hz；2560 Hz anlık dokunmatik örnekleme hızı"
+        },
+        {
+          "key": "Parlaklık",
+          "value": "500 nit (tipik), 1200 nit (HBM parlaklığı), 3000 nit （en yüksek parlaklık）"
+        },
+        {
+          "key": "Renk derinliği",
+          "value": "12bit"
+        },
+        {
+          "key": "Kontrast oranı",
+          "value": "5.000.000:1"
+        },
+        {
+          "key": "DCI-P3 geniş renk gamı",
+          "value": "Var"
+        },
+        {
+          "key": "Corning® Gorilla® Glass Victus® 2",
+          "value": "Var"
+        },
+        {
+          "key": "Dolby Vision® desteği",
+          "value": "Var"
+        },
+        {
+          "key": "Okuma modu",
+          "value": "Var"
+        },
+        {
+          "key": "1920 Hz PWM karartma",
+          "value": "Var"
+        },
+        {
+          "key": "20.000 seviyeli parlaklık ayarı",
+          "value": "Var"
+        },
+        {
+          "key": "HDR10+",
+          "value": "Var"
+        },
+        {
+          "key": "TÜV Rheinland Düşük Mavi Işık Sertifikası (Donanım çözümü)",
+          "value": "Var"
+        },
+        {
+          "key": "TÜV Rheinland Sirkadiyen Dostu Sertifikası",
+          "value": "Var"
+        },
+        {
+          "key": "TÜV Rheinland Titreşimsiz Sertifikası",
+          "value": "Var"
+        },
+        {
+          "key": "Ultra geniş açılı kamera",
+          "value": "8 MP"
+        },
+        {
+          "key": "Telefoto kamera",
+          "value": "OIS"
+        },
+        {
+          "key": "Makro kamera",
+          "value": "2 MP"
+        },
+        {
+          "key": "Video oynatma (maksimum)",
+          "value": "15 saat"
+        },
+        {
+          "key": "Yükseklik",
+          "value": "162,33 mm"
+        },
+        {
+          "key": "Genişlik",
+          "value": "74,42 mm"
+        },
+        {
+          "key": "Kalınlık",
+          "value": "8,4 mm / 8,63 mm (PU)"
+        },
+        {
+          "key": "Ağırlık",
+          "value": "185,5 g (plastik) /190 g（PU）"
+        },
+        {
+          "key": "CPU",
+          "value": "Sekiz çekirdekli CPU, 2,5 GHz'e kadar"
+        },
+        {
+          "key": "GPU",
+          "value": "Mali-G615 MC2"
+        },
+        {
+          "key": "Depolama ve RAM",
+          "value": "LPDDR4X + UFS2.2"
+        },
+        {
+          "key": "Dinamik çekimler",
+          "value": "Var"
+        },
+        {
+          "key": "Hareket izleme odağı",
+          "value": "Var"
+        },
+        {
+          "key": "Işık PatlamasıfilmFrame",
+          "value": "Var"
+        },
+        {
+          "key": "Portreler",
+          "value": "Var"
+        },
+        {
+          "key": "Belge",
+          "value": "Var"
+        },
+        {
+          "key": "Gece modu",
+          "value": "Var"
+        },
+        {
+          "key": "Çift video",
+          "value": "Var"
+        },
+        {
+          "key": "Sabit video",
+          "value": "Var"
+        },
+        {
+          "key": "Arka kamera video kaydı",
+          "value": "24/30 fps'de 4K, 30/60 fps'de 1080p, 30 fps'de 720p, Ağır çekim: 120 fps'de 1080p, Ağır çekim: 120/240 fps'de 720p"
+        },
+        {
+          "key": "Yumuşak ışık halkası",
+          "value": "Var"
+        },
+        {
+          "key": "Yapay zeka destekli güzelleştirme",
+          "value": "Var"
+        },
+        {
+          "key": "Portre modu",
+          "value": "Var"
+        },
+        {
+          "key": "Avuç İçi Deklanşör",
+          "value": "Var"
+        },
+        {
+          "key": "Selfie zamanlayıcısı",
+          "value": "Var"
+        },
+        {
+          "key": "Ön kamera video kaydı",
+          "value": "30/60 fps'de 1080p, 30 fps'de 720p"
+        },
+        {
+          "key": "Ekran içi parmak izi sensörü",
+          "value": "Var"
+        },
+        {
+          "key": "Yapay Zeka Destekli Yüzle Kilit Açma",
+          "value": "Var"
+        },
+        {
+          "key": "Çift SIM, çift bekleme（5G+5G，5G+4G）",
+          "value": "Var"
+        },
+        {
+          "key": "Ağ bantları",
+          "value": "5G Sub6G: n1/2/3/5/7/8/20/28/38/40/41/66/77/78, 4G: TDD: B38/40/41/42/48, 4G: FDD:B1/2/3/4/5/7/8/18/19/20/28/66, 3G: WCDMA:B1/2/4/5/6/8/19, 2G: GSM: 2/3/5/8"
+        },
+        {
+          "key": "Çift hoparlör",
+          "value": "Var"
+        },
+        {
+          "key": "Dolby Atmos®",
+          "value": "Var"
+        },
+        {
+          "key": "Yakınlık sensörü",
+          "value": "Var"
+        },
+        {
+          "key": "Ortam ışığı sensörü",
+          "value": "Var"
+        },
+        {
+          "key": "İvme Ölçer",
+          "value": "Var"
+        },
+        {
+          "key": "Elektronik pusula",
+          "value": "Var"
+        },
+        {
+          "key": "Kızılötesi Verici",
+          "value": "Var"
+        },
+        {
+          "key": "Jiroskop",
+          "value": "Var"
+        },
+        {
+          "key": "X eksenli doğrusal motor",
+          "value": "Var"
+        },
+        {
+          "key": "İşletim sistemi",
+          "value": "Xiaomi HyperOS"
+        },
+        {
+          "key": "Kutu içeriği",
+          "value": "Cep Telefonu / Adaptör / USB C Tipi Kablo / SIM Kart Çıkarma Aracı / Koruyucu Kılıf / Hızlı Başlangıç Kılavuzu / Garanti Kartı"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 16,
+        "doluAlan": 15,
+        "yuzde": "94%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Redmi 14C",
+      "productUrl": "https://www.mi.com/tr/product/redmi-14-c/specs",
+      "category": "phone",
+      "extractedAt": "2025-10-12T20:15:34.314Z",
+      "features": {
+        "batarya": {
+          "kapasite": "5160 mAh (tipik)",
+          "tip": "",
+          "sarj_gucu": "18 W hızlı şarj"
+        },
+        "ekran": {
+          "boyut": "6,88 inç",
+          "cozunurluk": "1640*720, 260 ppi",
+          "panel_tipi": "Damla Çentikli Ekran"
+        },
+        "kamera": {
+          "ana_mp": "50 MP",
+          "on_kamera": "13 MP"
+        },
+        "islemci": {
+          "marka": "MediaTek",
+          "model": "Helio G81-Ultra"
+        },
+        "bellek": {
+          "ram": "6 GB + 128 GB, 8 GB + 256 GB",
+          "depolama": "LPDDR4X + eMMC 5.1"
+        },
+        "baglanti": {
+          "wifi": "2,4 GHz | 5 GHz",
+          "bluetooth": "5.4",
+          "nfc": "Yok",
+          "g5": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "İşlemci Özellikleri",
+          "value": "Merkezi İşleme Birimi (CPU): Cortex-A75+Cortex-A55, Maksimum CPU frekansı: 2,0 GHz, Grafik İşleme Birimi (GPU): Mali-G52 MC2"
+        },
+        {
+          "key": "Bellek Genişletme",
+          "value": "16 GB'a kadar"
+        },
+        {
+          "key": "Boyutlar",
+          "value": "Yükseklik: 171,88 mm, Genişlik: 77,8 mm, Kalınlık: 8,22 mm"
+        },
+        {
+          "key": "Ağırlık",
+          "value": "Siyah, Lila: 211 g, Mavi: 204 g, Yeşil: 207 g"
+        },
+        {
+          "key": "Ekran Özellikleri",
+          "value": "Kontrast oranı: 1500:1, Renk derinliği: 8 bit, 16,7 milyon renk, Renk gamı: %70 NTSC, Parlaklık: 450 nit (tipik), 600 nit HBM, Yenileme hızı: 120 Hz'e kadar, Dokunmatik örnekleme hızı: Maksimum 240 Hz, Okuma modu desteği, TÜV Rheinland Düşük Mavi Işık (Yazılım Çözümü), TÜV Rheinland Titreşimsiz, DC karartma, Ekran-gövde oranı: %89,7 (AA/CG)"
+        },
+        {
+          "key": "Arka Kamera Özellikleri",
+          "value": "5P lens, f/1,8, HDR modu, Gece modu, Portre modu, 50 MP modu, Hızlandırılmış çekim, Arka kamera video kaydı: 1080 P 1920 x 1080 30 fps, 720 P 1280 x 720 30 fps"
+        },
+        {
+          "key": "Ön Kamera Özellikleri",
+          "value": "f/2,0, HDR modu, Yumuşak ışık halkası, Portre modu, Hızlandırılmış çekim, Gece modu, Ön kamera video kaydı: 30 fps'de 1080p (1920x1080) HD video kaydı, 30 fps'de 720p (1280x720) HD video kaydı"
+        },
+        {
+          "key": "Güvenlik",
+          "value": "Yana monte parmak izi sensörü, Yapay zeka destekli yüzle kilit açma"
+        },
+        {
+          "key": "Ağ ve Bağlantı",
+          "value": "Çift SIM + microSD, 4G/3G/2G desteği, 2G: GSM: 2/3/5/8, 3G: WCDMA: 1/5/8, 4G: LTE FDD: 1/3/5/7/8/20/28, 4G: LTE TDD: 38/40/41"
+        },
+        {
+          "key": "Kablosuz Ağlar",
+          "value": "Wi-Fi: 2,4 GHz | 5 GHz, FM radyoyu destekler (kulaklık jakı ile), Bluetooth 5.4, AAC / SBC desteği"
+        },
+        {
+          "key": "Navigasyon ve Konumlandırma",
+          "value": "GPS | Glonass | Galileo | BeiDou"
+        },
+        {
+          "key": "Ses",
+          "value": "3,5 mm kulaklık jakı"
+        },
+        {
+          "key": "Ses Oynatma",
+          "value": "aac, m4a, mp4, 3gp, ts, amr, awb, mid, midi, smf, rttf, xmf, rtx, ota, imy, mp3, ogg, oga, wav, flac, mkv(opus), m4a"
+        },
+        {
+          "key": "Video Oynatma",
+          "value": "adf, ts, mp4, 3gp, mkv, webm, MPEG2, H.263, MPEG4, H.264, H.265, VP8, VP9, VC1, AV1"
+        },
+        {
+          "key": "Sensörler",
+          "value": "Sanal yakınlık sensörü, Ortam ışığı sensörü, İvme ölçer, Elektronik pusula"
+        },
+        {
+          "key": "İşletim Sistemi",
+          "value": "Xiaomi HyperOS"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Redmi 14C, Adaptör, SIM İğnesi, USB Kablosu, Koruyucu Kılıf, Hızlı Başlangıç Kılavuzu ve Garanti Kartı, Güvenlik Bilgileri"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 16,
+        "doluAlan": 14,
+        "yuzde": "88%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Redmi Note 14 Pro 5G",
+      "productUrl": "https://www.mi.com/tr/product/redmi-note-14-pro-5g/specs",
+      "category": "phone",
+      "extractedAt": "2025-10-12T20:16:32.459Z",
+      "features": {
+        "batarya": {
+          "kapasite": "5110 mAh (tipik)",
+          "tip": "",
+          "sarj_gucu": "45 W turbo şarj"
+        },
+        "ekran": {
+          "boyut": "6,67 inç",
+          "cozunurluk": "2712 x 1220 (1,5 K çözünürlük)",
+          "panel_tipi": "CrystalRes AMOLED"
+        },
+        "kamera": {
+          "ana_mp": "200 MP",
+          "on_kamera": "20 MP"
+        },
+        "islemci": {
+          "marka": "MediaTek",
+          "model": "Dimensity 7300-Ultra"
+        },
+        "bellek": {
+          "ram": "8+256 GB, 12+256 GB, 12+512 GB",
+          "depolama": "8+256 GB, 12+256 GB, 12+512 GB"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi 6/Wi-Fi 5/Wi-Fi 4/802.11a/b/g",
+          "bluetooth": "5.4",
+          "nfc": "Var",
+          "g5": "n1/2/3/5/7/8/20/28/38/40/41/48/66/77/78"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Yenileme hızı",
+          "value": "120 Hz'ye kadar"
+        },
+        {
+          "key": "Dokunmatik örnekleme hızı",
+          "value": "480 Hz'ye kadar"
+        },
+        {
+          "key": "Parlaklık",
+          "value": "3000 nit en yüksek parlaklık"
+        },
+        {
+          "key": "Renk derinliği",
+          "value": "12 bit"
+        },
+        {
+          "key": "Kontrast oranı",
+          "value": "5.000.000:1"
+        },
+        {
+          "key": "DCI-P3 geniş renk gamı",
+          "value": "Var"
+        },
+        {
+          "key": "Corning® Gorilla® Glass Victus® 2",
+          "value": "Var"
+        },
+        {
+          "key": "Dolby Vision® desteği",
+          "value": "Var"
+        },
+        {
+          "key": "Okuma modu",
+          "value": "Var"
+        },
+        {
+          "key": "PWM karartma",
+          "value": "1920 Hz"
+        },
+        {
+          "key": "Parlaklık ayarı",
+          "value": "20.000 seviyeli"
+        },
+        {
+          "key": "HDR10+",
+          "value": "Var"
+        },
+        {
+          "key": "TÜV Rheinland Düşük Mavi Işık (Donanım Çözümü) Sertifikası",
+          "value": "Var"
+        },
+        {
+          "key": "TÜV Rheinland Titreşimsiz Sertifikası",
+          "value": "Var"
+        },
+        {
+          "key": "TÜV Rheinland Sirkadiyen Ritim Dostu Sertifikası",
+          "value": "Var"
+        },
+        {
+          "key": "Arka kamera özellikleri",
+          "value": "OIS, f/1.65, 16'sı 1 arada büyük bir 2,24 μm piksele gruplama, 1/1,4 inç sensör boyutu, 7P lens, 8 MP ultra geniş açılı kamera, f/2.2, 2 MP makro kamera, f/2.4, Dinamik çekimler, Hareket izleme odağı, Işık Patlaması, filmFrame, Portreler, Belge, Gece modu, Çift video, Sabit video"
+        },
+        {
+          "key": "Arka kamera video kaydı",
+          "value": "24/30 fps'de 4K, 30/60 fps'de 1080p, 30 fps'de 720p, Ağır çekim: 120 fps'de 1080p, Ağır çekim: 120/240 fps'de 720p"
+        },
+        {
+          "key": "Ön kamera özellikleri",
+          "value": "f/2.2, Yumuşak ışık halkası, Yapay zeka özellikli güzelleştirme, Gece modu, Portre modu, Avuç İçi Deklanşör, Selfie zamanlayıcısı"
+        },
+        {
+          "key": "Ön kamera video kaydı",
+          "value": "30/60 fps'de 1080p, 30 fps'de 720p"
+        },
+        {
+          "key": "Yapay Zeka özellikleri",
+          "value": "Google ile Seçerek Arat, Google Gemini, yapay zeka destekli görüntü düzenleme"
+        },
+        {
+          "key": "Soğutma sistemi",
+          "value": "Grafit teknolojisi"
+        },
+        {
+          "key": "Güvenlik",
+          "value": "Ekran içi parmak izi sensörü, Yapay Zeka Destekli Yüzle Kilit Açma"
+        },
+        {
+          "key": "Çift SIM",
+          "value": "nano SIM + nano SIM veya nano SIM + eSIM"
+        },
+        {
+          "key": "2G",
+          "value": "GSM: 850 900 1800 1900 MHz"
+        },
+        {
+          "key": "3G",
+          "value": "WCDMA:1/2/4/5/6/8/19"
+        },
+        {
+          "key": "4G",
+          "value": "LTE FDD:1/2/3/4/5/7/8/12/13/17/18/19/20/26/28/32/66, LTE TDD:38/40/41/42/48"
+        },
+        {
+          "key": "5G",
+          "value": "n1/2/3/5/7/8/20/28/38/40/41/48/66/77/78"
+        },
+        {
+          "key": "Wi-Fi",
+          "value": "2,4 GHz Wi-Fi, 5 GHz Wi-Fi Desteği, 1*1, Wi-Fi Direct Desteği"
+        },
+        {
+          "key": "Suya ve Toza Dayanıklılık",
+          "value": "IP68"
+        },
+        {
+          "key": "Navigasyon",
+          "value": "Beidou:B1I, GPS:L1, Galileo:E1, GLONASS:G1, QZSS:L1, A-GPS destekli konumlandırma, Kablosuz ağ, Veri ağı, Sensör Destekli Konumlandırma"
+        },
+        {
+          "key": "Ses",
+          "value": "Çift hoparlör, Dolby Atmos®"
+        },
+        {
+          "key": "Sensör",
+          "value": "Yakınlık sensörü, Ortam ışığı sensörü, İvme Ölçer, Elektronik pusula, Kızılötesi Verici, Jiroskop, X eksenli doğrusal motor"
+        },
+        {
+          "key": "İşletim sistemi",
+          "value": "Xiaomi HyperOS"
+        },
+        {
+          "key": "Kutu içeriği",
+          "value": "Cep Telefonu, Adaptör, USB C Tipi Kablo, SIM Çıkarma Aracı, Koruyucu Kılıf, Hızlı Başlangıç Kılavuzu ve Garanti Kartı, Güvenlik Bilgileri"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 16,
+        "doluAlan": 15,
+        "yuzde": "94%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Redmi Note 14 Pro+ 5G",
+      "productUrl": "https://www.mi.com/tr/product/redmi-note-14-pro-plus-5g/specs",
+      "category": "phone",
+      "extractedAt": "2025-10-12T20:17:37.860Z",
+      "features": {
+        "batarya": {
+          "kapasite": "5110 mAh(typ)",
+          "tip": "",
+          "sarj_gucu": "120 W"
+        },
+        "ekran": {
+          "boyut": "6.67 inç",
+          "cozunurluk": "2712 x 1220",
+          "panel_tipi": "CrystalRes AMOLED"
+        },
+        "kamera": {
+          "ana_mp": "200 MP",
+          "on_kamera": "20 MP"
+        },
+        "islemci": {
+          "marka": "Snapdragon",
+          "model": "7s Gen 3"
+        },
+        "bellek": {
+          "ram": "8+256 GB, 12+256 GB, 12+512 GB",
+          "depolama": "LPDDR4X + UFS2.2"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi 6/6E/Wi-Fi 5/Wi-Fi 4/802.11a/b/g",
+          "bluetooth": "5.4",
+          "nfc": "Var",
+          "g5": "n1/2/3/5/7/8/12/20/26/28/38/40/41/48/66/77/78"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ultra geniş açılı kamera",
+          "value": "8 MP"
+        },
+        {
+          "key": "Makro kamera",
+          "value": "2 MP"
+        },
+        {
+          "key": "En yüksek parlaklık",
+          "value": "3000 nit"
+        },
+        {
+          "key": "Yenileme hızı",
+          "value": "120 Hz"
+        },
+        {
+          "key": "İşlemci teknolojisi",
+          "value": "4 nm"
+        },
+        {
+          "key": "Suya düşmeye, suya ve toza karşı dayanıklılık",
+          "value": "IP 68"
+        },
+        {
+          "key": "Video oynatma (maksimum)",
+          "value": "9 saat"
+        },
+        {
+          "key": "Dokunmatik örnekleme hızı",
+          "value": "480 Hz'ye kadar"
+        },
+        {
+          "key": "Renk derinliği",
+          "value": "12 bit"
+        },
+        {
+          "key": "Kontrast oranı",
+          "value": "5.000.000:1"
+        },
+        {
+          "key": "DCI-P3 geniş renk gamı",
+          "value": "Var"
+        },
+        {
+          "key": "Corning® Gorilla® Glass Victus® 2",
+          "value": "Var"
+        },
+        {
+          "key": "Dolby Vision® desteği",
+          "value": "Var"
+        },
+        {
+          "key": "Okuma modu",
+          "value": "Var"
+        },
+        {
+          "key": "1920 Hz PWM karartma",
+          "value": "Var"
+        },
+        {
+          "key": "20.000 seviyeli parlaklık ayarı",
+          "value": "Var"
+        },
+        {
+          "key": "HDR10+",
+          "value": "Var"
+        },
+        {
+          "key": "TÜV Rheinland Düşük Mavi Işık (Donanım Çözümü) Sertifikası",
+          "value": "Var"
+        },
+        {
+          "key": "TÜV Rheinland Titreşimsiz Sertifikası",
+          "value": "Var"
+        },
+        {
+          "key": "TÜV Rheinland Sirkadiyen Ritim Dostu Sertifikası",
+          "value": "Var"
+        },
+        {
+          "key": "OIS",
+          "value": "Var"
+        },
+        {
+          "key": "Dinamik çekimler",
+          "value": "Var"
+        },
+        {
+          "key": "Hareket izleme odağı",
+          "value": "Var"
+        },
+        {
+          "key": "Işık Patlaması",
+          "value": "Var"
+        },
+        {
+          "key": "filmFrame",
+          "value": "Var"
+        },
+        {
+          "key": "Portreler",
+          "value": "Var"
+        },
+        {
+          "key": "Belge",
+          "value": "Var"
+        },
+        {
+          "key": "Gece modu",
+          "value": "Var"
+        },
+        {
+          "key": "Çift video",
+          "value": "Var"
+        },
+        {
+          "key": "Sabit video",
+          "value": "Var"
+        },
+        {
+          "key": "Arka kamera video kaydı",
+          "value": "24/30 fps'de 4K, 30/60 fps'de 1080p, 30 fps'de 720p"
+        },
+        {
+          "key": "Ağır çekim",
+          "value": "120 fps'de 1080p, 120/240 fps'de 720p"
+        },
+        {
+          "key": "Yumuşak ışık halkası",
+          "value": "Var"
+        },
+        {
+          "key": "Yapay zeka özellikli güzelleştirme",
+          "value": "Var"
+        },
+        {
+          "key": "Avuç İçi Deklanşör",
+          "value": "Var"
+        },
+        {
+          "key": "Selfie zamanlayıcısı",
+          "value": "Var"
+        },
+        {
+          "key": "Ön kamera video kaydı",
+          "value": "30/60 fps'de 1080p, 30 fps'de 720p"
+        },
+        {
+          "key": "LiquidCool teknolojisi",
+          "value": "Var"
+        },
+        {
+          "key": "Ekran içi parmak izi sensörü",
+          "value": "Var"
+        },
+        {
+          "key": "Yapay Zeka Destekli Yüzle Kilit Açma",
+          "value": "Var"
+        },
+        {
+          "key": "Çift SIM (nano SIM + nano SIM veya nano SIM + eSIM)",
+          "value": "Var"
+        },
+        {
+          "key": "2G",
+          "value": "GSM: 850 900 1800 1900 MHz"
+        },
+        {
+          "key": "3G",
+          "value": "WCDMA:1/2/4/5/6/8/19"
+        },
+        {
+          "key": "4G",
+          "value": "LTE FDD:1/2/3/4/5/7/8/12/13/17/18/19/20/26/28/32/66, LTE TDD:38/40/41/42/48"
+        },
+        {
+          "key": "5G",
+          "value": "n1/2/3/5/7/8/12/20/26/28/38/40/41/48/66/77/78"
+        },
+        {
+          "key": "2,4 GHz Wi-Fi",
+          "value": "Var"
+        },
+        {
+          "key": "5 GHz Wi-Fi desteği",
+          "value": "Var"
+        },
+        {
+          "key": "2x2 MIMO",
+          "value": "Var"
+        },
+        {
+          "key": "Wi-Fi Direct desteği",
+          "value": "Var"
+        },
+        {
+          "key": "Beidou",
+          "value": "B1I/B1c"
+        },
+        {
+          "key": "GPS",
+          "value": "L1"
+        },
+        {
+          "key": "Galileo",
+          "value": "E1"
+        },
+        {
+          "key": "GLONASS",
+          "value": "G1"
+        },
+        {
+          "key": "QZSS",
+          "value": "L1"
+        },
+        {
+          "key": "A-GPS destekli konumlandırma",
+          "value": "Var"
+        },
+        {
+          "key": "Sensör Destekli Konumlandırma",
+          "value": "Var"
+        },
+        {
+          "key": "Çift hoparlör",
+          "value": "Var"
+        },
+        {
+          "key": "Dolby Atmos®",
+          "value": "Var"
+        },
+        {
+          "key": "Yakınlık sensörü",
+          "value": "Var"
+        },
+        {
+          "key": "Ortam ışığı sensörü",
+          "value": "Var"
+        },
+        {
+          "key": "İvme Ölçer",
+          "value": "Var"
+        },
+        {
+          "key": "Elektronik pusula",
+          "value": "Var"
+        },
+        {
+          "key": "Kızılötesi Verici",
+          "value": "Var"
+        },
+        {
+          "key": "Titreşim sensörü",
+          "value": "Var"
+        },
+        {
+          "key": "Jiroskop",
+          "value": "Var"
+        },
+        {
+          "key": "X eksenli doğrusal motor",
+          "value": "Var"
+        },
+        {
+          "key": "İşletim sistemi",
+          "value": "Xiaomi HyperOS"
+        },
+        {
+          "key": "Yükseklik",
+          "value": "162,53 mm"
+        },
+        {
+          "key": "Genişlik",
+          "value": "74,67 mm"
+        },
+        {
+          "key": "Kalınlık",
+          "value": "Gece Yarısı Siyahı ve Buz Mavisi 8,75 mm, Lavanta Moru 8,85 mm"
+        },
+        {
+          "key": "Ağırlık",
+          "value": "Gece Yarısı Siyahı ve Buz Mavisi 210,14 gr, Lavanta Moru 205,13 gr"
+        },
+        {
+          "key": "Google ile Seçerek Arat",
+          "value": "Var"
+        },
+        {
+          "key": "Google Gemini",
+          "value": "Var"
+        },
+        {
+          "key": "Yapay Zeka Destekli Çevirmen",
+          "value": "Var"
+        },
+        {
+          "key": "Yapay Zeka Destekli Notlar",
+          "value": "Var"
+        },
+        {
+          "key": "Yapay Zeka Destekli Kaydedici",
+          "value": "Var"
+        },
+        {
+          "key": "Yapay Zeka Destekli Altyazılar",
+          "value": "Var"
+        },
+        {
+          "key": "Yapay Zeka Destekli Film",
+          "value": "Var"
+        },
+        {
+          "key": "Yapay Zeka Destekli Görüntü Düzenleme",
+          "value": "Var"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 16,
+        "doluAlan": 15,
+        "yuzde": "94%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Redmi Note 14 Pro",
+      "productUrl": "https://www.mi.com/tr/product/redmi-note-14-pro/specs",
+      "category": "phone",
+      "extractedAt": "2025-10-12T20:18:52.958Z",
+      "features": {
+        "batarya": {
+          "kapasite": "5500 mAh(typ)",
+          "tip": "",
+          "sarj_gucu": "45 W"
+        },
+        "ekran": {
+          "boyut": "6.67 inç",
+          "cozunurluk": "2400×1080",
+          "panel_tipi": "AMOLED"
+        },
+        "kamera": {
+          "ana_mp": "200 MP",
+          "on_kamera": "32 MP"
+        },
+        "islemci": {
+          "marka": "Helio",
+          "model": "G100-Ultra"
+        },
+        "bellek": {
+          "ram": "8+256 GB, 12+512 GB",
+          "depolama": "1 TB'ye kadar genişletilebilir depolama alanı"
+        },
+        "baglanti": {
+          "wifi": "802.11a/b/g/n/ac",
+          "bluetooth": "5.3",
+          "nfc": "Var",
+          "g5": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "En yüksek parlaklık",
+          "value": "1800 nit"
+        },
+        {
+          "key": "Yenileme hızı",
+          "value": "120 Hz"
+        },
+        {
+          "key": "İşlemci teknolojisi",
+          "value": "6 nm"
+        },
+        {
+          "key": "Suya düşmeye, suya ve toza karşı dayanıklılık",
+          "value": "IP 64"
+        },
+        {
+          "key": "Video oynatma (maksimum)",
+          "value": "14 saat"
+        },
+        {
+          "key": "Ultra geniş açılı kamera",
+          "value": "8 MP"
+        },
+        {
+          "key": "Makro kamera",
+          "value": "2 MP"
+        },
+        {
+          "key": "Ekran malzemesi",
+          "value": "AMOLED"
+        },
+        {
+          "key": "Çözünürlük",
+          "value": "2400×1080"
+        },
+        {
+          "key": "Merkezi İşleme Birimi (CPU)",
+          "value": "2,2 GHz'ye kadar sekiz çekirdekli işlemci"
+        },
+        {
+          "key": "Grafik İşleme Birimi (GPU)",
+          "value": "Mali-G57 MC2"
+        },
+        {
+          "key": "Depolama ve RAM",
+          "value": "8+256 GB, 12+512 GB"
+        },
+        {
+          "key": "Boyutlar",
+          "value": "162,16*74,92*8,24 mm"
+        },
+        {
+          "key": "Ağırlık",
+          "value": "180 g"
+        },
+        {
+          "key": "Parlaklık (tipik)",
+          "value": "500 nit, HBM 1200 nit (tipik)"
+        },
+        {
+          "key": "Renk derinliği",
+          "value": "10 bit"
+        },
+        {
+          "key": "Kontrast oranı",
+          "value": "5.000.000:1"
+        },
+        {
+          "key": "DCI-P3 geniş renk gamı",
+          "value": "Var"
+        },
+        {
+          "key": "Corning® Gorilla® Glass Victus® 2",
+          "value": "Var"
+        },
+        {
+          "key": "Güneş ışığı ekranı",
+          "value": "Var"
+        },
+        {
+          "key": "Okuma modu",
+          "value": "Var"
+        },
+        {
+          "key": "PWM karartma",
+          "value": "1920 Hz"
+        },
+        {
+          "key": "TÜV Rheinland Düşük Mavi Işık (Donanım Çözümü) Sertifikası",
+          "value": "Var"
+        },
+        {
+          "key": "TÜV Rheinland Titreşimsiz Sertifikası",
+          "value": "Var"
+        },
+        {
+          "key": "TÜV Rheinland Sirkadiyen Ritim Dostu Sertifikası",
+          "value": "Var"
+        },
+        {
+          "key": "OIS",
+          "value": "Var"
+        },
+        {
+          "key": "Arka kamera video kaydı",
+          "value": "60 fps'de 1080p, 30 fps'de 1080p, 30 fps'de 720p"
+        },
+        {
+          "key": "Ön kamera video kaydı",
+          "value": "30 fps'de 1080p, 30 fps'de 720p"
+        },
+        {
+          "key": "Google Gemini, yapay zeka destekli görüntü düzenleme",
+          "value": "Var"
+        },
+        {
+          "key": "Ekran içi parmak izi sensörü",
+          "value": "Var"
+        },
+        {
+          "key": "Yapay Zeka Destekli Yüzle Kilit Açma",
+          "value": "Var"
+        },
+        {
+          "key": "SIM 1 + Hibrit (SIM veya microSD)",
+          "value": "Var"
+        },
+        {
+          "key": "2G: GSM: 850 900 1800 1900 MHz",
+          "value": "Var"
+        },
+        {
+          "key": "3G: WCDMA:1/2/4/5/8",
+          "value": "Var"
+        },
+        {
+          "key": "4G: LTE FDD:1/2/3/4/5/7/8/12/13/17/20/26/28/66",
+          "value": "Var"
+        },
+        {
+          "key": "4G: LTE TDD:38/40/41",
+          "value": "Var"
+        },
+        {
+          "key": "Bluetooth 5.3",
+          "value": "Var"
+        },
+        {
+          "key": "Z ekseni doğrusal titreşim motoru",
+          "value": "Var"
+        },
+        {
+          "key": "Beidou:B1I｜GPS:L1｜Galileo:E1",
+          "value": "Var"
+        },
+        {
+          "key": "GLONASS:G1｜QZSS:L1 | A-GPS destekli konumlandırma",
+          "value": "Var"
+        },
+        {
+          "key": "Kablosuz ağ | Veri ağı|｜Sensör Destekli Konumlandırma",
+          "value": "Var"
+        },
+        {
+          "key": "Çift hoparlör",
+          "value": "Var"
+        },
+        {
+          "key": "Dolby Atmos®",
+          "value": "Var"
+        },
+        {
+          "key": "3,5 mm kulaklık jakı",
+          "value": "Var"
+        },
+        {
+          "key": "Yakınlık sensörü",
+          "value": "Var"
+        },
+        {
+          "key": "Ortam ışığı sensörü",
+          "value": "Var"
+        },
+        {
+          "key": "İvme ölçer",
+          "value": "Var"
+        },
+        {
+          "key": "Elektronik pusula",
+          "value": "Var"
+        },
+        {
+          "key": "Kızılötesi verici",
+          "value": "Var"
+        },
+        {
+          "key": "Jiroskop",
+          "value": "Var"
+        },
+        {
+          "key": "İşletim sistemi",
+          "value": "Xiaomi HyperOS"
+        },
+        {
+          "key": "Kutu içeriği",
+          "value": "Cep Telefonu / Adaptör /USB C Tipi Kablo/ SIM Çıkarma Aracı /Koruyucu Kılıf /Güvenlik Bilgileri/ Hızlı Başlangıç Kılavuzu ve Garanti Kartı"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 16,
+        "doluAlan": 14,
+        "yuzde": "88%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Redmi Note 14",
+      "productUrl": "https://www.mi.com/tr/product/redmi-note-14/specs",
+      "category": "phone",
+      "extractedAt": "2025-10-12T20:19:50.824Z",
+      "features": {
+        "batarya": {
+          "kapasite": "5500 mAh(typ)",
+          "tip": "",
+          "sarj_gucu": "33 W"
+        },
+        "ekran": {
+          "boyut": "6.67 \"",
+          "cozunurluk": "2400×1080",
+          "panel_tipi": "AMOLED"
+        },
+        "kamera": {
+          "ana_mp": "108 MP",
+          "on_kamera": "20 MP"
+        },
+        "islemci": {
+          "marka": "Helio",
+          "model": "G99-Ultra"
+        },
+        "bellek": {
+          "ram": "6 GB/8 GB",
+          "depolama": "128 GB/256 GB"
+        },
+        "baglanti": {
+          "wifi": "802.11a/b/g/n/ac",
+          "bluetooth": "5.3",
+          "nfc": "Var",
+          "g5": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "En yüksek parlaklık",
+          "value": "1800 nit"
+        },
+        {
+          "key": "Yenileme hızı",
+          "value": "120 Hz"
+        },
+        {
+          "key": "İşlemci teknolojisi",
+          "value": "6 nm"
+        },
+        {
+          "key": "Suya düşmeye, suya ve toza karşı dayanıklılık",
+          "value": "IP 54"
+        },
+        {
+          "key": "Dokunmatik örnekleme hızı",
+          "value": "240 Hz"
+        },
+        {
+          "key": "Parlaklık (tipik)",
+          "value": "HBM 1200 nit"
+        },
+        {
+          "key": "Renk derinliği",
+          "value": "8 bit"
+        },
+        {
+          "key": "Kontrast oranı",
+          "value": "5.000.000:1"
+        },
+        {
+          "key": "DCI-P3 geniş renk gamı",
+          "value": "%100"
+        },
+        {
+          "key": "PPI",
+          "value": "394"
+        },
+        {
+          "key": "Corning® Gorilla® Glass",
+          "value": "5"
+        },
+        {
+          "key": "Güneş ışığı ekranı",
+          "value": "Var"
+        },
+        {
+          "key": "Okuma modu",
+          "value": "Var"
+        },
+        {
+          "key": "960 Hz PWM karartma",
+          "value": "Var"
+        },
+        {
+          "key": "TÜV Rheinland Düşük Mavi Işık Sertifikası (Donanım çözümü)",
+          "value": "Var"
+        },
+        {
+          "key": "TÜV Rheinland Sirkadiyen Ritim Dostu Sertifikası",
+          "value": "Var"
+        },
+        {
+          "key": "TÜV Rheinland Titreşimsiz Sertifikası",
+          "value": "Var"
+        },
+        {
+          "key": "SGS Düşük Mavi Işık Sertifikası",
+          "value": "Var"
+        },
+        {
+          "key": "Arka kamera",
+          "value": "108 MP + 2 MP + 2 MP üçlü kamera"
+        },
+        {
+          "key": "Arka kamera video kaydı",
+          "value": "60 fps'de 1080p, 30 fps'de 1080p, 30 fps'de 720p"
+        },
+        {
+          "key": "Ön kamera video kaydı",
+          "value": "30 fps'de 1080p, 30 fps'de 720p"
+        },
+        {
+          "key": "Pil ve Şarj",
+          "value": "5500 mAh (tipik) pil, 33 W turbo şarj"
+        },
+        {
+          "key": "Ekran içi parmak izi sensörü",
+          "value": "Var"
+        },
+        {
+          "key": "Yapay Zeka Destekli Yüzle Kilit Açma",
+          "value": "Var"
+        },
+        {
+          "key": "SIM 1 + Hibrit (SIM veya microSD)",
+          "value": "Çift bekleme"
+        },
+        {
+          "key": "4G / 3G / 2G desteği",
+          "value": "2G: GSM: 850 900 1800 1900 MHz, 3G: WCDMA: 1/5/8, 4G: LTE FDD:1/3/5/7/8/20/28, 4G: LTE TDD:38/40/41"
+        },
+        {
+          "key": "Wi-Fi Protokolü",
+          "value": "802.11a/b/g/n/ac"
+        },
+        {
+          "key": "Wi-Fi Direct desteği",
+          "value": "Var"
+        },
+        {
+          "key": "Navigasyon ve Konumlandırma",
+          "value": "GPS: L1, A-GPS ek konumlandırma, GLONASS: G1, BDS: B1I, Galileo E1, Elektronik pusula, Kablosuz ağ, Veri ağı, Sensör Destekli Konumlandırma"
+        },
+        {
+          "key": "Ses",
+          "value": "Çift hoparlör, Dolby Atmos®, 3,5 mm kulaklık jakı"
+        },
+        {
+          "key": "Sensörler",
+          "value": "Yakınlık sensörü, Ortam ışığı sensörü, İvme ölçer, Elektronik pusula, Kızılötesi verici, Jiroskop"
+        },
+        {
+          "key": "İşletim Sistemi",
+          "value": "Xiaomi HyperOS"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Redmi Note 14 / Adaptör / USB C Tipi Kablo / SIM Çıkarma Aracı / Koruyucu Kılıf / Hızlı Başlangıç Kılavuzu / Garanti Kartı"
+        },
+        {
+          "key": "Yükseklik",
+          "value": "163,25 mm"
+        },
+        {
+          "key": "Genişlik",
+          "value": "76,55 mm"
+        },
+        {
+          "key": "Kalınlık",
+          "value": "8,16 mm"
+        },
+        {
+          "key": "Ağırlık",
+          "value": "196,5 g"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 16,
+        "doluAlan": 14,
+        "yuzde": "88%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Redmi Note 14S",
+      "productUrl": "https://www.mi.com/tr/product/redmi-note-14s/specs",
+      "category": "phone",
+      "extractedAt": "2025-10-12T20:20:43.723Z",
+      "features": {
+        "batarya": {
+          "kapasite": "5000 mAh (tipik)",
+          "tip": "",
+          "sarj_gucu": "67 W"
+        },
+        "ekran": {
+          "boyut": "6,67 inç",
+          "cozunurluk": "2400 x 1080",
+          "panel_tipi": "AMOLED"
+        },
+        "kamera": {
+          "ana_mp": "200 MP",
+          "on_kamera": "16 MP"
+        },
+        "islemci": {
+          "marka": "MediaTek",
+          "model": "Helio G99"
+        },
+        "bellek": {
+          "ram": "8+128 GB, 8+256 GB, 12+512 GB",
+          "depolama": "128 GB, 256 GB, 512 GB"
+        },
+        "baglanti": {
+          "wifi": "802.11a/b/g/n/ac",
+          "bluetooth": "5.3",
+          "nfc": "Var",
+          "g5": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Yenileme hızı",
+          "value": "120 Hz'e kadar"
+        },
+        {
+          "key": "Parlaklık",
+          "value": "500 nit (tipik), 1000 nit (HBM parlaklığı), 1300 nit (en yüksek parlaklık)"
+        },
+        {
+          "key": "Renk derinliği",
+          "value": "10 bit"
+        },
+        {
+          "key": "Kontrast oranı",
+          "value": "5.000.000:1"
+        },
+        {
+          "key": "Renk gamı",
+          "value": "DCI-P3 geniş renk gamı"
+        },
+        {
+          "key": "CORNING® GORILLA® GLASS",
+          "value": "5"
+        },
+        {
+          "key": "Güneş ışığı modu",
+          "value": "Desteği var"
+        },
+        {
+          "key": "Okuma modu",
+          "value": "Desteği var"
+        },
+        {
+          "key": "1920 Hz PWM karartma",
+          "value": "Var"
+        },
+        {
+          "key": "TÜV Rheinland Düşük Mavi Işık (Donanım Çözümü) Sertifikalı",
+          "value": "Var"
+        },
+        {
+          "key": "TÜV Rheinland Sirkadiyen Ritim Dostu Sertifikalı",
+          "value": "Var"
+        },
+        {
+          "key": "TÜV Rheinland Titreşimsiz Sertifikalı",
+          "value": "Var"
+        },
+        {
+          "key": "Arka Kamera",
+          "value": "200 MP+8 MP+2 MP üçlü kamera"
+        },
+        {
+          "key": "OIS",
+          "value": "Var"
+        },
+        {
+          "key": "200 MP ana kamera",
+          "value": "f/1,65, 2,24 μm 16'sı 1 Arada Süper Piksel, 1/1,4 inç sensör boyutu, 7P lens"
+        },
+        {
+          "key": "8 MP ultra geniş açılı kamera",
+          "value": "f/2,2"
+        },
+        {
+          "key": "2 MP makro kamera",
+          "value": "f/2,4"
+        },
+        {
+          "key": "Arka kamera video kaydı",
+          "value": "30/60 fps'de 1080p, 30 fps'de 720p"
+        },
+        {
+          "key": "Ön kamera",
+          "value": "16 MP, f/2,45"
+        },
+        {
+          "key": "Ön kamera video kaydı",
+          "value": "30 fps'de 1080p, 30 fps'de 720p"
+        },
+        {
+          "key": "Yapay Zeka özellikleri",
+          "value": "Google Gemini, AI Erase, AI Sky"
+        },
+        {
+          "key": "Ekran içi parmak izi sensörü",
+          "value": "Var"
+        },
+        {
+          "key": "Yapay Zeka Destekli Yüzle Kilit Açma",
+          "value": "Var"
+        },
+        {
+          "key": "SIM 1 + Hibrit (SIM veya microSD)",
+          "value": "Var"
+        },
+        {
+          "key": "Ağ bantları",
+          "value": "2G: GSM: 850 900 1800 1900 MHz, 3G: WCDMA:1/2/4/5/6/8/19, 4G: LTE FDD:B1/2/3/4/5/7/8/12/13/17/18/19/20/26/28/66, 4G: LTE TDD:38/40/41"
+        },
+        {
+          "key": "Navigasyon ve Konumlandırma",
+          "value": "GPS: L1, GLONASS: G1, BDS: B1, Galileo E1"
+        },
+        {
+          "key": "Ses",
+          "value": "Çift hoparlör, Dolby Atmos®, 3,5 mm kulaklık jakı"
+        },
+        {
+          "key": "Sıçramaya, Suya ve Toza Karşı Dayanıklı",
+          "value": "IP64"
+        },
+        {
+          "key": "Sensörler",
+          "value": "Yakınlık sensörü, Ortam ışığı sensörü, İvme ölçer, Elektronik pusula, Kızılötesi verici, Jiroskop"
+        },
+        {
+          "key": "İşletim Sistemi",
+          "value": "Xiaomi HyperOS"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Cep Telefonu, Adaptör, USB Type-C Kablo, SIM Çıkarma Aracı, Koruyucu Kılıf, Hızlı Başlangıç Kılavuzu ve Garanti Kartı, Güvenlik Bilgileri"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 16,
+        "doluAlan": 14,
+        "yuzde": "88%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi 120W Hypercharge Combo Type-A",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-120w-hypercharge-combo-type-a/specs",
+      "category": "phone",
+      "extractedAt": "2025-10-12T20:21:34.276Z",
+      "features": {
+        "batarya": {
+          "kapasite": "",
+          "tip": "",
+          "sarj_gucu": "120W"
+        },
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "kamera": {
+          "ana_mp": "",
+          "on_kamera": ""
+        },
+        "islemci": {
+          "marka": "",
+          "model": ""
+        },
+        "bellek": {
+          "ram": "",
+          "depolama": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "bluetooth": "",
+          "nfc": "",
+          "g5": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ürün Tipi",
+          "value": "Şarj Cihazı"
+        },
+        {
+          "key": "Giriş Tipi",
+          "value": "Type-A"
+        },
+        {
+          "key": "Çıkış Tipi",
+          "value": "Type-C"
+        },
+        {
+          "key": "Desteklenen Cihazlar",
+          "value": "Xiaomi 120W Hypercharge Destekleyen Cihazlar"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 16,
+        "doluAlan": 1,
+        "yuzde": "6%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi 14T Pro",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-14t-pro/specs",
+      "category": "phone",
+      "extractedAt": "2025-10-12T20:22:02.092Z",
+      "features": {
+        "batarya": {
+          "kapasite": "5000 mAh(typ)",
+          "tip": "Li-Po",
+          "sarj_gucu": "120 W"
+        },
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "2712 x 1220",
+          "panel_tipi": "AMOLED"
+        },
+        "kamera": {
+          "ana_mp": "50 MP",
+          "on_kamera": "32 MP"
+        },
+        "islemci": {
+          "marka": "MediaTek",
+          "model": "Dimensity 9300+"
+        },
+        "bellek": {
+          "ram": "12 GB",
+          "depolama": "256 GB, 512 GB, 1 TB"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi 7",
+          "bluetooth": "5.4",
+          "nfc": "Var",
+          "g5": "Var"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ultra geniş açılı kamera",
+          "value": "12 MP"
+        },
+        {
+          "key": "Telefoto kamera",
+          "value": "50 MP, OIS"
+        },
+        {
+          "key": "Kablosuz şarj hızı",
+          "value": "50 W"
+        },
+        {
+          "key": "Yenileme hızı",
+          "value": "144 Hz"
+        },
+        {
+          "key": "İşlemci teknolojisi",
+          "value": "4 nm"
+        },
+        {
+          "key": "Suya düşmeye, suya ve toza karşı dayanıklılık",
+          "value": "IP 68"
+        },
+        {
+          "key": "En yüksek parlaklık",
+          "value": "4000 nit"
+        },
+        {
+          "key": "Dokunmatik örnekleme hızı",
+          "value": "480 Hz"
+        },
+        {
+          "key": "Renk gamı",
+          "value": "DCI-P3"
+        },
+        {
+          "key": "Renk derinliği",
+          "value": "68 milyar renk"
+        },
+        {
+          "key": "Karartma",
+          "value": "3840 PWM"
+        },
+        {
+          "key": "Yükseklik",
+          "value": "160,4 mm"
+        },
+        {
+          "key": "Genişlik",
+          "value": "75,1 mm"
+        },
+        {
+          "key": "Kalınlık",
+          "value": "8,39 mm"
+        },
+        {
+          "key": "Ağırlık",
+          "value": "209 g"
+        },
+        {
+          "key": "Ppi",
+          "value": "446 ppi"
+        },
+        {
+          "key": "Leica profesyonel optik lens",
+          "value": "LEICA VARIO-SUMMILUX 1:1.6-2.2/15-60 ASPH"
+        },
+        {
+          "key": "Leica ana kamera",
+          "value": "50 MP, Light Fusion 900 görüntü sensörü, 2,4 µm, 4'ü 1 Arada Süper Piksel, ƒ/1,6, OIS, 23 mm eş değer odak uzaklığı"
+        },
+        {
+          "key": "Leica telefoto kamera",
+          "value": "50 MP, ƒ/2,0, 60 mm eş değer odak uzaklığı"
+        },
+        {
+          "key": "Leica ultra geniş açılı kamera",
+          "value": "12 MP, f/2,2, 15 mm eş değer odak uzaklığı, 120° Görüş Alanı (FOV)"
+        },
+        {
+          "key": "Ön kamera",
+          "value": "32 MP, ƒ/2,0, 25 mm eş değer odak uzaklığı, 80,8˚ Görüş Alanı (FOV)"
+        },
+        {
+          "key": "Soğutma sistemi",
+          "value": "Xiaomi 3D IceLoop sistemi"
+        },
+        {
+          "key": "Ekran içi parmak izi sensörü",
+          "value": "Var"
+        },
+        {
+          "key": "Yapay zeka destekli yüzle kilit açma",
+          "value": "Var"
+        },
+        {
+          "key": "Çift SIM",
+          "value": "nano SIM + nano SIM veya nano SIM + eSIM, eSIM + eSIM"
+        },
+        {
+          "key": "Ağ bantları",
+          "value": "5G SA: n1/2/3/5/7/8/12/20/25/26/28/38/40/41/48/66/75/77/78, 5G NSA: n1/3/5/7/8/20/28/38/40/41/66/75/77/78, 4G: LTE FDD: B1/2/3/4/5/7/8/12/13/17/18/19/20/25/26/28/32/66, 4G: LTE TDD: B38/39/40/41/42/48, 3G: UMTS: B1/2/4/5/6/8/19, 2G: GSM: B2/3/5/8"
+        },
+        {
+          "key": "4x4 MIMO desteği",
+          "value": "Var"
+        },
+        {
+          "key": "Wi-Fi özellikleri",
+          "value": "Wi-Fi 7/Wi-Fi 6E/Wi-Fi 6, Çift Bant Eşzamanlı, Çoklu Bağlantıyla Çalışma, 2x2 MIMO, MU-MIMO için 8x8 Ses, WiFi Direct Desteği"
+        },
+        {
+          "key": "Bluetooth özellikleri",
+          "value": "Bluetooth 5.4, Çift Bluetooth, AAC/LDAC/LHDC 4.0/LC3/ASHA/Auracast Desteği"
+        },
+        {
+          "key": "Navigasyon ve Konumlandırma",
+          "value": "GPS: L1+L5, Galileo: E1+E5a+E5b, GLONASS: G1, Beidou, NavIC: L5A, GPS ek konumlandırma, Elektronik pusula, Kablosuz ağ, Veri ağı, MPE"
+        },
+        {
+          "key": "Stereo hoparlörler",
+          "value": "Var"
+        },
+        {
+          "key": "Desteklenen ses biçimleri",
+          "value": "MP3, FLAC, APE, AAC, OGG, WAV, AMR, AWB"
+        },
+        {
+          "key": "Yüksek Çözünürlüklü Ses ve Yüksek Çözünürlüklü Kablosuz Ses sertifikasyonu",
+          "value": "Dolby Atmos®"
+        },
+        {
+          "key": "Desteklenen video biçimleri",
+          "value": "MP4, MKV, WEBM, 3GP"
+        },
+        {
+          "key": "Sensörler",
+          "value": "Yakınlık sensörü, Ortam ışığı sensörü, İvme Ölçer, Jiroskop, Elektronik pusula, Kızılötesi verici, Titreşim sensörü, X eksenli doğrusal titreşim motoru"
+        },
+        {
+          "key": "İşletim Sistemi",
+          "value": "Xiaomi HyperOS"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Cep Telefonu, 120W Güç Adaptörü, USB C Tipi Kablo, SIM Çıkarma Aracı, Koruyucu Kılıf, Güvenlik Bilgileri, Hızlı Başlangıç Kılavuzu ve Garanti Kartı, Kurutucu"
+        },
+        {
+          "key": "Arka kamera fotoğraf özellikleri",
+          "value": "İki Leica fotoğraf stili (Leica Authentic Görünümü, Leica Vibrant Görünümü), Leica filtreleri, Leica klasik deklanşör sesi, Leica filigranı, Ana lens sistemi (35 mm Belgesel lensi, 50 mm Girdap bokeh lensi, 75 mm Portre lensi ve 90 mm Yumuşak odak lensi), Xiaomi ProFocus (Hareket izleme odağı, göz takibi odağı ve hareket yakalama), Xiaomi ProCut, Işık Patlaması, Gece modu (geniş açı/ultra geniş açı/telefoto), Portre modu (Leica portre stili, Master portre stili), 30x'e kadar dijital yakınlaştırma, HDR, 50 MP modu (geniş açı/telefoto), Yapay zeka özellikli kamera, Panorama, Ağır çekim, Uzun pozlama, Belgeler, Profesyonel mod, Yakalanan görüntü formatları: DNG, HEIF, JPEG, RAW modu"
+        },
+        {
+          "key": "Arka kamera video özellikleri",
+          "value": "Film modu, MasterCinema, HDR10+ video kaydı, ShootSteady, Kısa video, Çift video, Hızlandırılmış video, Ultra Gece Videosu, Yönetmen modu, Video pro modu, Video günlüğü formatı, 8K (7680x4320) video kaydı (24 fps veya 30 fps), 4K (3840x2160) video kaydı (24 fps, 30 fps veya 60 fps), 1080p (1920x1080) HD video kaydı (30 fps veya 60 fps), 720p (1280x720) HD video kaydı (30 fps), Ağır çekim video: 720p 120 fps, 240 fps, 960 fps, 1080p 120 fps, 240 fps, 960 fps"
+        },
+        {
+          "key": "Ön kamera fotoğraf özellikleri",
+          "value": "Gece modu, HDR, Portre modu, Avuç içi deklanşör, Ses perdesi, Zamanlamalı seri çekim, Selfie zamanlayıcısı, Ekran flaşı, HDR10+ video kaydı"
+        },
+        {
+          "key": "Ön kamera video özellikleri",
+          "value": "Video teleprompter, Ağır çekim selfie, Hızlandırılmış selfie, 4K (3840x2160) video kaydı (30 fps), 1080p (1920x1080) HD video kaydı (30 fps veya 60 fps), 720p (1280x720) HD video kaydı (30 fps)"
+        },
+        {
+          "key": "Yapay zeka destekli özellikler",
+          "value": "Google ile Seçerek Arat ve Google Gemini, Yapay Zeka Destekli Tercüman, Yapay Zeka Destekli Notlar, Yapay Zeka Destekli Kaydedici, Yapay Zeka Destekli Altyazılar, Yapay Zeka Destekli Film, Yapay Zeka Destekli Görüntü Düzenleme, Yapay Zeka Destekli Portre Modu"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 16,
+        "doluAlan": 15,
+        "yuzde": "94%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi 14T",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-14t/specs",
+      "category": "phone",
+      "extractedAt": "2025-10-12T20:23:24.184Z",
+      "features": {
+        "batarya": {
+          "kapasite": "5000 mAh(typ)",
+          "tip": "",
+          "sarj_gucu": "67 W"
+        },
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "2712 x 1220",
+          "panel_tipi": "AMOLED"
+        },
+        "kamera": {
+          "ana_mp": "50 MP",
+          "on_kamera": "32 MP"
+        },
+        "islemci": {
+          "marka": "MediaTek",
+          "model": "Dimensity 8300-Ultra"
+        },
+        "bellek": {
+          "ram": "12 GB",
+          "depolama": "256 GB / 512 GB"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi 6E",
+          "bluetooth": "5.4",
+          "nfc": "Var",
+          "g5": "Var"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Şarj hızı",
+          "value": "67 W"
+        },
+        {
+          "key": "En yüksek parlaklık",
+          "value": "4000 nit"
+        },
+        {
+          "key": "Yenileme hızı",
+          "value": "144 Hz"
+        },
+        {
+          "key": "İşlemci teknolojisi",
+          "value": "4 nm"
+        },
+        {
+          "key": "Suya düşmeye, suya ve toza karşı dayanıklılık",
+          "value": "IP 68"
+        },
+        {
+          "key": "Dokunmatik örnekleme hızı",
+          "value": "480 Hz'ye kadar"
+        },
+        {
+          "key": "Renk gamı",
+          "value": "DCI-P3"
+        },
+        {
+          "key": "Renk derinliği",
+          "value": "68 milyar renk"
+        },
+        {
+          "key": "Karartma",
+          "value": "3840 PWM'ye kadar"
+        },
+        {
+          "key": "Karanlık mod",
+          "value": "Var"
+        },
+        {
+          "key": "Otomatik parlaklık",
+          "value": "Var"
+        },
+        {
+          "key": "TrueColor ekran",
+          "value": "Var"
+        },
+        {
+          "key": "Orijinal renk Pro",
+          "value": "Var"
+        },
+        {
+          "key": "Uyumlu renkler",
+          "value": "Var"
+        },
+        {
+          "key": "Okuma modu",
+          "value": "Var"
+        },
+        {
+          "key": "Profesyonel HDR ekran",
+          "value": "Var"
+        },
+        {
+          "key": "Yapay zeka destekli görüntü motoru",
+          "value": "Var"
+        },
+        {
+          "key": "HDR10+",
+          "value": "Var"
+        },
+        {
+          "key": "Dolby Vision®",
+          "value": "Var"
+        },
+        {
+          "key": "TÜV Rheinland Düşük Mavi Işık (Donanım Çözümü) Sertifikalı",
+          "value": "Var"
+        },
+        {
+          "key": "TÜV Rheinland Titreşimsiz Sertifikalı",
+          "value": "Var"
+        },
+        {
+          "key": "TÜV Rheinland Sirkadiyen Ritim Dostu Sertifikalı",
+          "value": "Var"
+        },
+        {
+          "key": "Leica profesyonel optik lens",
+          "value": "LEICA VARIO-SUMMILUX 1:1.7-2.2/15-50 ASPH."
+        },
+        {
+          "key": "Leica ana kamera",
+          "value": "50 MP, Sony IMX906 görüntü sensörü, 2,0 µm, 4'ü 1 Arada Süper Piksel, ƒ/1,7, OIS, 23 mm eş değer odak uzaklığı"
+        },
+        {
+          "key": "Leica telefoto kamera",
+          "value": "50 MP, ƒ/1,9, 50 mm eş değer odak uzaklığı"
+        },
+        {
+          "key": "Leica ultra geniş açılı kamera",
+          "value": "12 MP, f/2,2, 15 mm eş değer odak uzaklığı, 120° Görüş Alanı (FOV)"
+        },
+        {
+          "key": "İki Leica fotoğraf stili",
+          "value": "Leica Authentic Görünümü, Leica Vibrant Görünümü"
+        },
+        {
+          "key": "Leica filtreleri",
+          "value": "Var"
+        },
+        {
+          "key": "Leica klasik deklanşör sesi",
+          "value": "Var"
+        },
+        {
+          "key": "Leica filigranı",
+          "value": "Var"
+        },
+        {
+          "key": "Ana lens sistemi",
+          "value": "35 mm Belgesel lensi, 50 mm Girdap bokeh lensi, 75 mm Portre lensi ve 90 mm Yumuşak odak lensi"
+        },
+        {
+          "key": "Xiaomi ProFocus",
+          "value": "Hareket izleme odağı, göz takibi odağı ve hareket yakalama"
+        },
+        {
+          "key": "Xiaomi ProCut",
+          "value": "Var"
+        },
+        {
+          "key": "Işık Patlaması",
+          "value": "Var"
+        },
+        {
+          "key": "Gece modu",
+          "value": "geniş açı/ultra geniş açı/telefoto"
+        },
+        {
+          "key": "Portre modu",
+          "value": "Leica portre stili, Master portre stili"
+        },
+        {
+          "key": "Dijital yakınlaştırma",
+          "value": "20x'e kadar"
+        },
+        {
+          "key": "HDR",
+          "value": "Var"
+        },
+        {
+          "key": "50 MP modu",
+          "value": "geniş açı/telefoto"
+        },
+        {
+          "key": "Yapay zeka özellikli kamera",
+          "value": "Var"
+        },
+        {
+          "key": "Panorama",
+          "value": "Var"
+        },
+        {
+          "key": "Ağır çekim",
+          "value": "Var"
+        },
+        {
+          "key": "Uzun pozlama",
+          "value": "Var"
+        },
+        {
+          "key": "Belgeler",
+          "value": "Var"
+        },
+        {
+          "key": "Profesyonel mod",
+          "value": "Var"
+        },
+        {
+          "key": "Yakalanan görüntü formatları",
+          "value": "DNG, HEIF, JPEG, RAW"
+        },
+        {
+          "key": "RAW modu",
+          "value": "Var"
+        },
+        {
+          "key": "Film modu",
+          "value": "MasterCinema"
+        },
+        {
+          "key": "HDR10+ video kaydı",
+          "value": "Var"
+        },
+        {
+          "key": "ShootSteady",
+          "value": "Var"
+        },
+        {
+          "key": "Kısa video",
+          "value": "Var"
+        },
+        {
+          "key": "Çift video",
+          "value": "Var"
+        },
+        {
+          "key": "Hızlandırılmış video",
+          "value": "Var"
+        },
+        {
+          "key": "Ultra Gece Videosu",
+          "value": "Var"
+        },
+        {
+          "key": "Yönetmen modu",
+          "value": "Var"
+        },
+        {
+          "key": "Video pro modu",
+          "value": "Var"
+        },
+        {
+          "key": "Video günlüğü formatı",
+          "value": "Var"
+        },
+        {
+          "key": "Arka kamera video kaydı",
+          "value": "24 fps, 30 fps veya 60 fps'de 4K (3840x2160) video kaydı, 30 fps veya 60 fps'de 1080p (1920x1080) HD video kaydı, 30 fps'de 720p (1280x720) HD video kaydı, Ağır çekim video: 720p 120 fps, 240 fps, 960 fps, 1080p 120 fps, 240 fps, 960 fps"
+        },
+        {
+          "key": "Ön kamera",
+          "value": "32 MP ekran içi selfie kamerası, 32 MP, ƒ/2,0, 80,8˚ Görüş Alanı (FOV)"
+        },
+        {
+          "key": "Ön kamera fotoğraf özellikleri",
+          "value": "Gece modu, HDR, Portre modu, Avuç içi deklanşör, Ses perdesi, Zamanlamalı seri çekim, Selfie zamanlayıcısı, Ekran flaşı, HDR10+ video kaydı"
+        },
+        {
+          "key": "Ön kamera video özellikleri",
+          "value": "Video teleprompter, Ağır çekim selfie, Hızlandırılmış selfie"
+        },
+        {
+          "key": "Ön kamera video kaydı",
+          "value": "30 fps'de 4K (3840x2160) video kaydı, 30 fps veya 60 fps'de 1080p (1920x1080) HD video kaydı, 30 fps'de 720p (1280x720) HD video kaydı"
+        },
+        {
+          "key": "Pil ve Şarj",
+          "value": "5000 mAh (tipik) batarya, 67 W Ultra Hızlı Şarj, PD3.0, PD2.0 ve Mi-FC 2.0 desteği, USB Type-C şarj bağlantı noktası, 67W güç adaptörü kutuya dahildir."
+        },
+        {
+          "key": "Yapay zeka destekli özellikler",
+          "value": "Google ile Seçerek Arat ve Google Gemini, Yapay Zeka Destekli Tercüman, Yapay Zeka Destekli Notlar, Yapay Zeka Destekli Kaydedici, Yapay Zeka Destekli Açıklamalar, Yapay Zeka Destekli Film, Yapay Zeka Destekli Görüntü Düzenleme, Yapay Zeka Destekli Portre Modu"
+        },
+        {
+          "key": "Soğutma sistemi",
+          "value": "Xiaomi IceLoop sistemi"
+        },
+        {
+          "key": "Güvenlik",
+          "value": "Ekran içi parmak izi sensörü, Yapay zeka destekli yüzle kilit açma"
+        },
+        {
+          "key": "Ağ ve Bağlantı",
+          "value": "Çift SIM (nano SIM + nano SIM veya nano SIM + eSIM ya da eSIM + eSIM), 5G SA: n1/2/3/5/7/8/12/20/26/28/38/40/41/48/66/77/78, 5G NSA: n1/3/5/7/8/20/28/38/40/41/66/77/78, 4G: LTE FDD: B1/2/3/4/5/7/8/12/13/17/18/19/20/26/28/32/66, 4G: LTE TDD: B38/40/41/42/48, 3G: UMTS: B1/2/4/5/6/8/19, 2G: GSM: B2/3/5/8, 4x4 MIMO desteği, Wi-Fi 6E özelliği, Çift Bant Eşzamanlı, 2x2 MIMO, MU-MIMO için 8x8 Ses, WiFi Direct Desteği, Bluetooth 5.4, AAC/SBC/LDAC/LHDC desteği"
+        },
+        {
+          "key": "Navigasyon ve Konumlandırma",
+          "value": "GPS: L1+L5, Galileo: E1+E5a, GLONASS: G1, Beidou, NavIC: L5A, GPS ek konumlandırma, Elektronik pusula, Kablosuz ağ, Veri ağı, MPE"
+        },
+        {
+          "key": "Ses",
+          "value": "Stereo hoparlörler, Desteklenen ses biçimleri: MP3, FLAC, AAC, OGG, WAV, AMR, AWB, Yüksek Çözünürlüklü Ses ve Yüksek Çözünürlüklü Kablosuz Ses sertifikasyonu, Dolby Atmos®"
+        },
+        {
+          "key": "Video",
+          "value": "Desteklenen video biçimleri: MP4, MKV, WEBM, 3GP, HDR10, HDR10+, Dolby Vision video içeriği oynatılırken HDR görüntülemeyi destekler"
+        },
+        {
+          "key": "Suya Düşmeye, Suya ve Toza Karşı Dayanıklı",
+          "value": "IP68"
+        },
+        {
+          "key": "Sensör",
+          "value": "Yakınlık sensörü, Ortam ışığı sensörü, İvme Ölçer, Jiroskop, Elektronik pusula, Kızılötesi verici, Titreşim sensörü, X eksenli doğrusal titreşim motoru"
+        },
+        {
+          "key": "İşletim Sistemi",
+          "value": "Xiaomi HyperOS"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Cep Telefonu/67W Güç Adaptörü/USB C Tipi Kablo/SIM Çıkarma Aracı/Koruyucu Kılıf/Güvenlik Bilgileri/Hızlı Başlangıç Kılavuzu ve Garanti Kartı/Kurutucu"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 16,
+        "doluAlan": 14,
+        "yuzde": "88%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi 15 Ultra Photography Kit",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-15-ultra-photography-kit/specs",
+      "category": "phone",
+      "extractedAt": "2025-10-12T20:25:48.601Z",
+      "features": {
+        "batarya": {
+          "kapasite": "",
+          "tip": "",
+          "sarj_gucu": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "kamera": {
+          "ana_mp": "",
+          "on_kamera": ""
+        },
+        "islemci": {
+          "marka": "",
+          "model": ""
+        },
+        "bellek": {
+          "ram": "",
+          "depolama": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "bluetooth": "",
+          "nfc": "",
+          "g5": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Operating System",
+          "value": "Xiaomi HyperOS 2"
+        },
+        {
+          "key": "Customer Support",
+          "value": "0 800 621 22 26"
+        },
+        {
+          "key": "Email Support",
+          "value": "service.tr@support.mi.com"
+        },
+        {
+          "key": "Order Support Email",
+          "value": "service.tr.orders@support.mi.com"
+        },
+        {
+          "key": "Product Safety Contact",
+          "value": "service.tr.orders@support.mi.com"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 16,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi 15 Ultra",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-15-ultra/specs",
+      "category": "phone",
+      "extractedAt": "2025-10-12T20:26:25.022Z",
+      "features": {
+        "batarya": {
+          "kapasite": "5410 mAh(typ)",
+          "tip": "Xiaomi Surge pil",
+          "sarj_gucu": "90 W"
+        },
+        "ekran": {
+          "boyut": "6.73 inç",
+          "cozunurluk": "3200 x 1440",
+          "panel_tipi": "WQHD+ AMOLED"
+        },
+        "kamera": {
+          "ana_mp": "50 MP",
+          "on_kamera": "32 MP"
+        },
+        "islemci": {
+          "marka": "Snapdragon",
+          "model": "8 Elite Mobile Platform"
+        },
+        "bellek": {
+          "ram": "16 GB",
+          "depolama": "512 GB / 1 TB"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi 7",
+          "bluetooth": "6.0",
+          "nfc": "Var",
+          "g5": "Var"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ultra geniş açılı kamera",
+          "value": "50 MP"
+        },
+        {
+          "key": "Kablosuz şarj hızı",
+          "value": "80 W"
+        },
+        {
+          "key": "Video oynatma (maksimum)",
+          "value": "25 saat"
+        },
+        {
+          "key": "En yüksek parlaklık",
+          "value": "3200 nit"
+        },
+        {
+          "key": "Yenileme hızı",
+          "value": "120 Hz"
+        },
+        {
+          "key": "Suya düşmeye, suya ve toza karşı dayanıklılık",
+          "value": "IP 68"
+        },
+        {
+          "key": "RAM Tipi",
+          "value": "LPDDR5X 8533 Mbps"
+        },
+        {
+          "key": "Depolama Tipi",
+          "value": "UFS 4.1"
+        },
+        {
+          "key": "Boyutlar (Siyah Beyaz)",
+          "value": "161,3 mm x 75,3 mm x 9,35 mm, 226 g"
+        },
+        {
+          "key": "Boyutlar (Gümüş Krom)",
+          "value": "161,3 mm x 75,3 mm x 9,48 mm, 229 g"
+        },
+        {
+          "key": "Dokunmatik örnekleme oranı",
+          "value": "300 Hz'ye kadar"
+        },
+        {
+          "key": "Renk dizisi",
+          "value": "DCI-P3"
+        },
+        {
+          "key": "Renk derinliği",
+          "value": "68 milyar renk"
+        },
+        {
+          "key": "Karartma",
+          "value": "1920 Hz PWM karartma / DC karartma"
+        },
+        {
+          "key": "HDR",
+          "value": "HDR10+, Dolby Vision®"
+        },
+        {
+          "key": "TÜV Rheinland Sertifikaları",
+          "value": "Düşük Mavi Işık (Donanım Çözümü), Titreşimsiz, Sirkadiyen Ritim Dostu"
+        },
+        {
+          "key": "Leica Summilux optik lens",
+          "value": "VARIO-SUMMILUX 1:1.63-2.6/14-100 ASPH."
+        },
+        {
+          "key": "Leica 23 mm ana kamera",
+          "value": "50MP, 1 inç sensör boyutu, 3,2 µm, 4'ü 1 Arada Süper Pikself/1,63, OIS"
+        },
+        {
+          "key": "Leica 200MP ultra telefoto",
+          "value": "200MP, 2,24 µm Süper Pikself/2,6, OIS, 100 mm eş değer odak uzaklığı"
+        },
+        {
+          "key": "Leica 70 mm hareketli telefoto",
+          "value": "50MP, 1,4 μm 4'ü 1 arada piksel boyutu, f/1,8, OIS, 70 mm eş değer odak uzaklığı"
+        },
+        {
+          "key": "Leica ultra geniş açılı kamera",
+          "value": "50MP, 1,28 μm 4'ü 1 arada piksel boyutu, f/2,2, 14 mm eş değer odak uzaklığı, 115°"
+        },
+        {
+          "key": "Arka kamera fotoğraf özellikleri",
+          "value": "İki Leica fotoğraf stili, Leica filtreleri, Leica klasik deklanşör sesi, Leica filigranı, Xiaomi ProFocus, Işık Patlaması, 120x'e kadar dijital yakınlaştırma, HDR, Dinamik çekim, Portre modu, Master-lens sistemi, 50 MP modu, 200 MP modu, Süper makro, Panorama, Uzun pozlama, Belgeler, Hızlı çekim modu, Süper Ay, Pro mod, Yakalanan görüntü formatları: DNG, HEIF, JPEG, RAW modu, UltraRAW: 16 bit"
+        },
+        {
+          "key": "Arka kamera video özellikleri",
+          "value": "Film modu, Sabit Çekim, Yavaş çekim, Çift video, Hızlandırılmış çekim, Ultra Gece Videosu, Video pro modu, Video günlüğü formatı, 8K (7680x4320) video kaydı 30 fps, 4K (3840x2160) video kaydı 30 fps, 60 fps veya 120 fps, 1080p (1920x1080) HD video kaydı 30 fps veya 60 fps, 720p (1280x720) HD video kaydı 30 fps, Ağır çekim video: 720p: 120 fps, 240 fps, 480 fps, 960 fps, 1920 fps, 1080p: 120 fps, 240 fps, 480 fps, 960 fps, 1920 fps"
+        },
+        {
+          "key": "Ön kamera",
+          "value": "32 MP ekran içi özçekim kamerası, f/2,0, OV32B21, 21 mm eş değer odak uzaklığı, 90° Görüş Alanı (FOV)"
+        },
+        {
+          "key": "Ön kamera fotoğraf özellikleri",
+          "value": "HDR, Portre modu, Avuç deklanşörü, Ses perdesi, Özçekim zamanlayıcısı, Ekran flaşı"
+        },
+        {
+          "key": "Ön kamera video özellikleri",
+          "value": "Dolby Vision® video kaydı, Video teleprompter, Yavaş çekim özçekim, Hızlandırılmış özçekim, 4K (3840x2160) video kaydı 30 fps veya 60 fps, 1080p (1920x1080) HD video kaydı 30 fps veya 60 fps, 720p (1280x720) HD video kaydı 30 fps"
+        },
+        {
+          "key": "Kablosuz şarj",
+          "value": "80 W kablosuz ultra hızlı şarj"
+        },
+        {
+          "key": "Şarj standartları",
+          "value": "QC3+ / QC3.0 / QC2.0 / PD3.0 / PD2.0 / MI FC 2.0"
+        },
+        {
+          "key": "Şarj bağlantı noktası",
+          "value": "USB Type-C"
+        },
+        {
+          "key": "Xiaomi HyperAI",
+          "value": "AI Yazma, AI Konuşma Tanıma, AI Tercüman, AI Yaratıcılık Asistanı, Google ile Seçerek Arat, Google Gemini"
+        },
+        {
+          "key": "Soğutma Sistemi",
+          "value": "Xiaomi 3D Çift Kanallı IceLoop Sistemi"
+        },
+        {
+          "key": "Güvenlik",
+          "value": "Ultrasonik ekran içi parmak izi sensörü, Yapay Zeka Destekli Yüzle Kilit Açma"
+        },
+        {
+          "key": "Ağ ve Bağlantı",
+          "value": "Çift SIM (nano SIM + nano SIM veya nano SIM + eSIM, eSIM + eSIM), 5G SA: n1/2/3/5/7/8/12/20/25/26/28/38/40/41/48/66/71/75/77/78/79, 5G NSA: n1/3/5/7/8/20/28/38/40/41/66/71/75/77/78/79, 4G: LTE FDD: B1/2/3/4/5/7/8/12/13/17/18/19/20/25/26/28/32/66/71, 4G: LTE TDD: B38/39/40/41/42/48, 3G: UMTS: B1/2/4/5/6/8/19, 2G: GSM: B2/3/5/8, 4x4 MIMO desteği, Wi-Fi 7, Çift Bant Eşzamanlı, 2x2 MIMO, MU-MIMO için 8x8 ses, Wi-Fi Direct, Miracast, Bluetooth 6.0, Çift Bluetooth, SBC/AAC/AptX/AptX HD/AptX Adaptive/LDAC/LHDC 5.0/LC3"
+        },
+        {
+          "key": "Navigasyon ve Konumlandırma",
+          "value": "GPS: L1+L5, Galileo: E1+E5a, GLONASS: G1, Beidou, QZSS: L1 + L5, NavIC: L5A, GPS ek konumlandırma, Elektronik pusula, Kablosuz ağ, Veri ağı, SAP"
+        },
+        {
+          "key": "Ses",
+          "value": "Stereo hoparlörler, 4 mikrofonlu dizi, MP3, FLAC, APE, AAC, OGG, WAV, AMR, Yüksek Çözünürlüklü Ses ve Yüksek Çözünürlüklü Kablosuz Ses sertifikasyonu, Dolby Atmos®"
+        },
+        {
+          "key": "Video",
+          "value": "MP4, MKV, WEBM, 3GP, TSHDR10+, Dolby Vision® ve HDR Vivid"
+        },
+        {
+          "key": "Sensörler",
+          "value": "Yakınlık sensörü, Ortam ışığı sensörü, İvme ölçer, Jiroskop, Elektronik pusula, Kızılötesi verici, Lazer otomatik odaklama, Barometre, Titreşim sensörü, X eksenli doğrusal titreşim motoru"
+        },
+        {
+          "key": "İşletim Sistemi",
+          "value": "Xiaomi HyperOS 2"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Cep Telefonu, SIM Çıkarma Aracı, Koruyucu Kılıf, Güvenlik Bilgileri, Hızlı Başlangıç Kılavuzu ve Garanti Kartı, Kurutucu"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 16,
+        "doluAlan": 16,
+        "yuzde": "100%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi 15",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-15/specs",
+      "category": "phone",
+      "extractedAt": "2025-10-12T20:28:06.085Z",
+      "features": {
+        "batarya": {
+          "kapasite": "5240 mAh(typ)",
+          "tip": "Xiaomi Surge Pil",
+          "sarj_gucu": "90 W"
+        },
+        "ekran": {
+          "boyut": "6.36 inç",
+          "cozunurluk": "2670 x 1200",
+          "panel_tipi": "CrystalRes AMOLED"
+        },
+        "kamera": {
+          "ana_mp": "50 MP",
+          "on_kamera": "32 MP"
+        },
+        "islemci": {
+          "marka": "Snapdragon",
+          "model": "8 Elite Mobile Platform"
+        },
+        "bellek": {
+          "ram": "12GB",
+          "depolama": "256GB/512GB"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi 7",
+          "bluetooth": "6.0",
+          "nfc": "Var",
+          "g5": "Var"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Kablosuz şarj hızı",
+          "value": "50 W"
+        },
+        {
+          "key": "Video oynatma (maksimum)",
+          "value": "25 saat"
+        },
+        {
+          "key": "En yüksek parlaklık",
+          "value": "3200 nit"
+        },
+        {
+          "key": "Yenileme hızı",
+          "value": "120 Hz"
+        },
+        {
+          "key": "Suya düşmeye, suya ve toza karşı dayanıklılık",
+          "value": "IP 68"
+        },
+        {
+          "key": "İşlemci üretim işlem gücü",
+          "value": "3 nm"
+        },
+        {
+          "key": "Merkezi İşleme Birimi (CPU)",
+          "value": "2 adet Prime Çekirdek, 4,32 GHz'e kadar, 6 adet Performans Çekirdeği, 3,53 GHz'e kadar"
+        },
+        {
+          "key": "Grafik İşleme Birimi (GPU)",
+          "value": "Adreno™ GPU"
+        },
+        {
+          "key": "Yapay Zeka",
+          "value": "Qualcomm Yapay Zeka motoru"
+        },
+        {
+          "key": "RAM",
+          "value": "LPDDR5X 8533 Mbps"
+        },
+        {
+          "key": "Depolama",
+          "value": "UFS 4.0"
+        },
+        {
+          "key": "Yükseklik x Genişlik x Kalınlık (Siyah, Beyaz, Yeşil)",
+          "value": "152,3 mm x 71,2 mm x 8,08 mm"
+        },
+        {
+          "key": "Ağırlık (Siyah, Beyaz, Yeşil)",
+          "value": "191 g"
+        },
+        {
+          "key": "Yükseklik x Genişlik x Kalınlık (Likit Gümüş)",
+          "value": "152,3 mm x 71,2 mm x 8,48 mm"
+        },
+        {
+          "key": "Ağırlık (Likit Gümüş)",
+          "value": "192 g"
+        },
+        {
+          "key": "Dokunmatik örnekleme oranı",
+          "value": "300 Hz'e kadar"
+        },
+        {
+          "key": "Renk dizisi",
+          "value": "DCI-P3"
+        },
+        {
+          "key": "Renk derinliği",
+          "value": "68 milyar renk"
+        },
+        {
+          "key": "Karartma",
+          "value": "DC karartma"
+        },
+        {
+          "key": "Orijinal renk PRO",
+          "value": "Var"
+        },
+        {
+          "key": "Pro HDR",
+          "value": "Var"
+        },
+        {
+          "key": "Islak elle kullanım destekli dokunmatik teknoloji",
+          "value": "Var"
+        },
+        {
+          "key": "HDR10, HDR10+, Dolby Vision®",
+          "value": "Var"
+        },
+        {
+          "key": "TÜV Rheinland Düşük Mavi Işık (Donanım Çözümü) Sertifikalı",
+          "value": "Var"
+        },
+        {
+          "key": "TÜV Rheinland Titreşimsiz Sertifikalı",
+          "value": "Var"
+        },
+        {
+          "key": "TÜV Rheinland Sirkadiyen Ritim Dostu Sertifikalı",
+          "value": "Var"
+        },
+        {
+          "key": "Leica Summilux optik lens",
+          "value": "Var"
+        },
+        {
+          "key": "Leica ana kamera",
+          "value": "50 MP, Light Fusion 900 görüntü sensörü, 2,4 µm, 4'ü 1 Arada Süper Pikself/1,62, OIS, 23 mm eş değer odak uzaklığı"
+        },
+        {
+          "key": "Leica 60 mm hareketli telefoto",
+          "value": "50 MP, f/2,0, OIS, 60 mm eş değer odak uzaklığı"
+        },
+        {
+          "key": "Leica ultra geniş açılı kamera",
+          "value": "50 MP, f/2,2, 14 mm eş değer odak uzaklığı, 115°"
+        },
+        {
+          "key": "İki Leica fotoğraf stili",
+          "value": "Leica Authentic görünümü, Leica Vibrant Görünümü"
+        },
+        {
+          "key": "Leica filtreleri",
+          "value": "Var"
+        },
+        {
+          "key": "Leica klasik deklanşör sesi",
+          "value": "Var"
+        },
+        {
+          "key": "Leica Filigranı",
+          "value": "Var"
+        },
+        {
+          "key": "Xiaomi ProFocus",
+          "value": "Hareket izleme odağı, göz izleme odağı ve hareket yakalama"
+        },
+        {
+          "key": "Işık Patlaması",
+          "value": "Var"
+        },
+        {
+          "key": "60x'e kadar dijital yakınlaştırma",
+          "value": "Var"
+        },
+        {
+          "key": "HDR",
+          "value": "Var"
+        },
+        {
+          "key": "Dinamik çekim",
+          "value": "Var"
+        },
+        {
+          "key": "Portre modu",
+          "value": "Var"
+        },
+        {
+          "key": "Master lens sistemi",
+          "value": "23 mm, 35 mm, 60 mm, 75 mm"
+        },
+        {
+          "key": "Gece modu",
+          "value": "geniş açı/ultra geniş açı/telefoto"
+        },
+        {
+          "key": "50 MP modu",
+          "value": "geniş açı/ultra geniş açı/telefoto"
+        },
+        {
+          "key": "Süper makro",
+          "value": "Var"
+        },
+        {
+          "key": "Panorama",
+          "value": "Var"
+        },
+        {
+          "key": "Uzun pozlama",
+          "value": "Var"
+        },
+        {
+          "key": "Belgeler",
+          "value": "Var"
+        },
+        {
+          "key": "Hızlı çekim modu",
+          "value": "Var"
+        },
+        {
+          "key": "Süper Ay",
+          "value": "Var"
+        },
+        {
+          "key": "Pro mod",
+          "value": "Var"
+        },
+        {
+          "key": "Yakalanan görüntü formatları",
+          "value": "DNG, HEIF, JPEG, RAW"
+        },
+        {
+          "key": "Film modu",
+          "value": "Var"
+        },
+        {
+          "key": "Sabit Çekim",
+          "value": "Var"
+        },
+        {
+          "key": "Ağır çekim",
+          "value": "Var"
+        },
+        {
+          "key": "Çift video",
+          "value": "Var"
+        },
+        {
+          "key": "Hızlandırılmış çekim",
+          "value": "Var"
+        },
+        {
+          "key": "Ultra Gece Videosu",
+          "value": "Var"
+        },
+        {
+          "key": "Video pro modu",
+          "value": "Var"
+        },
+        {
+          "key": "Video günlüğü formatı",
+          "value": "Var"
+        },
+        {
+          "key": "Arka kamera video kaydı",
+          "value": "Dolby Vision ile HDR video kaydı, 24 fps veya 30 fps'de 8K (7680x4320) video kaydı, 24 fps, 30 fps veya 60 fps'de 4K (3840x2160) video kaydı, 30 fps veya 60 fps'de 1080p (1920x1080) HD video kaydı, 30 fps'de 720p (1280x720) HD video kaydı"
+        },
+        {
+          "key": "Ağır çekim video",
+          "value": "720p: 120 fps, 240 fps, 480 fps, 960 fps, 1920 fps, 1080p: 120 fps, 240 fps, 960 fps"
+        },
+        {
+          "key": "Ön kamera",
+          "value": "32 MP ekran içi selfie kamerası, f/2,0, 21 mm eş değer odak uzaklığı, 90° FOV"
+        },
+        {
+          "key": "Ön kamera fotoğraf özellikleri",
+          "value": "HDR, Portre modu, Avuç deklanşörü, Ses perdesi, Zamanlamalı seri çekim, Selfie zamanlayıcısı, Ekran flaşı, HDR10+ video kaydı, Video teleprompter, Yavaş çekim özçekim, Hızlandırılmış özçekim"
+        },
+        {
+          "key": "Ön kamera video özellikleri",
+          "value": "30 fps veya 60 fps'de 4K (3840x2160) video kaydı, 30 fps veya 60 fps'de 1080p (1920x1080) HD video kaydı, 30 fps'de 720p (1280x720) HD video kaydı, Hızlandırılmış özçekim"
+        },
+        {
+          "key": "Ön kamera video kaydı",
+          "value": "30 fps veya 60 fps'de 4K (3840x2160) video kaydı, 30 fps veya 60 fps'de 1080p (1920x1080) HD video kaydı, 30 fps'de 720p (1280x720) HD video kaydı"
+        },
+        {
+          "key": "Pil ve Şarj",
+          "value": "5240 mAh (tipik) Xiaomi Surge Pil, 90 W HyperCharge, 50 W kablosuz HyperCharge, QC3+ / QC3.0 / QC2.0 / PD3.0 / PD2.0 / MI FC 2.0 desteği, USB Type-C şarj bağlantı noktası"
+        },
+        {
+          "key": "Xiaomi HyperAI",
+          "value": "AI Yazma, AI Konuşma Tanıma, AI Tercüman, AI Yaratıcılık Asistanı ve daha fazlası"
+        },
+        {
+          "key": "Google ile Seçerek Arat",
+          "value": "Google Gemini"
+        },
+        {
+          "key": "Soğutma Sistemi",
+          "value": "Xiaomi Wing tipi IceLoop sistemi"
+        },
+        {
+          "key": "Güvenlik",
+          "value": "Ultrasonik ekran içi parmak izi sensörü, Yapay zeka destekli yüzle kilit açma"
+        },
+        {
+          "key": "Ağ ve Bağlantı",
+          "value": "Çift SIM (nano SIM + nano SIM veya nano SIM + eSIM, eSIM + eSIM), 5G SA: n1/2/3/5/7/8/12/20/25/26/28/38/40/41/48/66/75/77/78, 5G NSA: n1/3/5/7/8/20/28/38/40/41/66/75/77/78, 4G: LTE FDD: B1/2/3/4/5/7/8/12/13/17/18/19/20/25/26/28/32/66, 4G: LTE TDD: B38/39/40/41/42/48, 3G: UMTS: B1/2/4/5/6/8/19, 2G: GSM: B2/3/5/8, 4x4 MIMO desteği, Wi-Fi 7 özelliği, 2x2 MIMO, MU-MIMO için 8x8 ses, Wi-Fi Direct, Miracast Desteği, Bluetooth 6.0, Çift Bluetooth, SBC/AAC/AptX/AptX HD/AptX Adaptive/LDAC/LHDC 5.0/LC3 desteği"
+        },
+        {
+          "key": "Navigasyon ve Konumlandırma",
+          "value": "GPS: L1+L5, Galileo: E1+E5a, GLONASS: G1, Beidou, QZSS: L1 + L5, NavIC: L5, GPS ek konumlandırma, Elektronik pusula, Kablosuz ağ, Veri ağı, SAP"
+        },
+        {
+          "key": "Ses",
+          "value": "Stereo hoparlörler, 4 Mikrofonlu dizi, Yüksek Çözünürlüklü Ses ve Yüksek Çözünürlüklü Kablosuz Ses sertifikasyonu, Dolby Atmos®, Desteklenen ses biçimleri: MP3, FLAC, APE, AAC, OGG, WAV, AMR, AWB"
+        },
+        {
+          "key": "Video",
+          "value": "Desteklenen video biçimleri: MP4, MKV, WEBM, 3GP, TSHDR10+, Dolby Vision® ve HDR Vivid video içeriği oynatılırken HDR görüntülemeyi destekler"
+        },
+        {
+          "key": "Sensörler",
+          "value": "Yakınlık sensörü, Ortam ışığı sensörü, İvme Ölçer, Jiroskop, Elektronik pusula, Kızılötesi verici, Lazerle odaklama sensörü, Barometre, Titreşim sensörü, X eksenli doğrusal titreşim motoru"
+        },
+        {
+          "key": "İşletim Sistemi",
+          "value": "Xiaomi HyperOS 2"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Cep Telefonu, SIM Çıkarma Aracı, Koruyucu Kılıf, Güvenlik Bilgileri, Hızlı Başlangıç Kılavuzu ve Garanti Kartı, Kurutucu"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 16,
+        "doluAlan": 16,
+        "yuzde": "100%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi 67W GaN Charger 2C1A",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-67w-gan-charger-2c1a/specs",
+      "category": "phone",
+      "extractedAt": "2025-10-12T20:29:46.609Z",
+      "features": {
+        "batarya": {
+          "kapasite": "",
+          "tip": "",
+          "sarj_gucu": "67W"
+        },
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "kamera": {
+          "ana_mp": "",
+          "on_kamera": ""
+        },
+        "islemci": {
+          "marka": "",
+          "model": ""
+        },
+        "bellek": {
+          "ram": "",
+          "depolama": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "bluetooth": "",
+          "nfc": "",
+          "g5": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ürün modeli",
+          "value": "A07ZMEU"
+        },
+        {
+          "key": "Bağlantı noktası türü",
+          "value": "Type-C x2 + Type-A x1"
+        },
+        {
+          "key": "Giriş parametreleri",
+          "value": "200-240 V~ 50 Hz 1,8 A"
+        },
+        {
+          "key": "Tek bağlantı noktalı çıkış (Type-C1/Type-C2)",
+          "value": "5 V⎓3 A 9 V⎓3 A 11 V⎓6,1 A 12 V⎓3 A 15 V⎓3 A 20 V⎓3,25 A"
+        },
+        {
+          "key": "Tek bağlantı noktalı çıkış (Type-A)",
+          "value": "5 V⎓3 A 9 V⎓2,5 A 10 V⎓2,25 A 12 V⎓1,87 A"
+        },
+        {
+          "key": "Çift bağlantı noktalı çıkış (Type-C1 + Type-C2)",
+          "value": "5 V⎓3 A 9 V⎓3 A 11 V⎓3 A 12 V⎓3 A 15 V⎓2 A 20 V⎓2,25 A"
+        },
+        {
+          "key": "Çift bağlantı noktalı çıkış (Type-C1 + Type-A)",
+          "value": "5 V⎓3 A 9 V⎓3 A 11 V⎓3 A 12 V⎓3 A 15 V⎓2 A 20 V⎓2,25 A"
+        },
+        {
+          "key": "Çift bağlantı noktalı çıkış (Type-A)",
+          "value": "5 V⎓2,4 A 9 V⎓2 A 12 V⎓1,5 A"
+        },
+        {
+          "key": "Eşzamanlı üç bağlantı noktalı çıkış (Type-C1)",
+          "value": "5 V⎓3 A 9 V⎓3 A 11 V⎓3 A 12 V⎓3 A 15 V⎓2 A 20 V⎓2,25 A"
+        },
+        {
+          "key": "Eşzamanlı üç bağlantı noktalı çıkış (Type-C2 + Type-A)",
+          "value": "5 V⎓2,4 A MAKS."
+        },
+        {
+          "key": "Eşzamanlı üç bağlantı noktalı çıkış (Type-C2 + Type-A)",
+          "value": "5 V⎓3 A MAKS."
+        },
+        {
+          "key": "Çalışma sıcaklığı",
+          "value": "0°C~40°C"
+        },
+        {
+          "key": "Ürün boyutları",
+          "value": "53 x 28 x 53,9 mm (katlanır pimler olmadan)"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Xiaomi 67W GaN Şarj Cihazı 2C1A x1, USB kablosu x1, Kullanım kılavuzu x1, Garanti bildirimi x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 16,
+        "doluAlan": 1,
+        "yuzde": "6%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi MIX Flip",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-mix-flip/specs",
+      "category": "phone",
+      "extractedAt": "2025-10-12T20:30:29.149Z",
+      "features": {
+        "batarya": {
+          "kapasite": "4780 mAh(typ)",
+          "tip": "",
+          "sarj_gucu": "67 W"
+        },
+        "ekran": {
+          "boyut": "6,86 inç (İç Ekran) | 4,01 inç (Dış Ekran)",
+          "cozunurluk": "2912 x 1224 (İç Ekran) | 1392 x 1208 (Dış Ekran)",
+          "panel_tipi": "CrystalRes 1 (İç Ekran) | Süper Akılı (Dış Ekran)"
+        },
+        "kamera": {
+          "ana_mp": "50 MP (Leica profesyonel optik lens)",
+          "on_kamera": "32 MP"
+        },
+        "islemci": {
+          "marka": "Snapdragon",
+          "model": "8 Gen 3 Mobile Platform"
+        },
+        "bellek": {
+          "ram": "12 GB",
+          "depolama": "512 GB"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi 7",
+          "bluetooth": "5.4",
+          "nfc": "Var",
+          "g5": "Var"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Telefoto kamera",
+          "value": "50 MP, OIS"
+        },
+        {
+          "key": "Şarj hızı",
+          "value": "67 W"
+        },
+        {
+          "key": "En yüksek parlaklık",
+          "value": "3000 nit"
+        },
+        {
+          "key": "İşlemci teknolojisi",
+          "value": "4 nm"
+        },
+        {
+          "key": "Yenileme hızı",
+          "value": "4-120 Hz uyarlanabilir"
+        },
+        {
+          "key": "Dokunmatik örnekleme hızı",
+          "value": "Maksimum 240 Hz"
+        },
+        {
+          "key": "Renk gamı",
+          "value": "DCI-P3"
+        },
+        {
+          "key": "Renk derinliği",
+          "value": "68 milyar renk"
+        },
+        {
+          "key": "Karartma",
+          "value": "2160 PWM'ye kadar (<60 nit), DC karartma (≥60 nit)"
+        },
+        {
+          "key": "Boyutlar",
+          "value": "Yükseklik: 167,5 mm (Açık Halde) | 85,54 mm (Katlı Halde), Genişlik: 74,02 mm, Açıkken derinlik: 7,6 mm (Taban) | 7,8 mm (Kapak), Katlı haldeki derinlik: 15,99 mm"
+        },
+        {
+          "key": "Ağırlık",
+          "value": "192 g"
+        },
+        {
+          "key": "İşletim sistemi",
+          "value": "Xiaomi HyperOS"
+        },
+        {
+          "key": "Depolama ve RAM",
+          "value": "12 GB, 512 GB, LPDDR5X 8533 MB/sn + Evrensel Flaş Depolama (UFS) 4.0"
+        },
+        {
+          "key": "İşlemci detayları",
+          "value": "Merkezi İşleme Birimi (CPU): 1x Cortex-X4, 3,3 GHz'ye kadar, 3x Cortex-A720, 3,2 GHz'ye kadar, 2x Cortex-A720, 3,0 GHz'ye kadar, 2x Cortex-A520, 2,3 GHz'ye kadar; Grafik İşleme Birimi (GPU): Qualcomm® Adreno™ GPU; Yapay Zeka: Qualcomm® Yapay Zeka Motoru"
+        },
+        {
+          "key": "Ekran özellikleri",
+          "value": "Karanlık mod, Otomatik parlaklık, Orijinal renk Pro, Uyarlanabilir renkler, Okuma modu, Pro HDR ekran, Yapay zeka destekli görüntü motoru desteği, HDR10+, Dolby Vision ®, TÜV Rheinland Düşük Mavi Işık (Donanım Çözümü) Sertifikası, TÜV Rheinland Titreşimsiz Sertifikası, TÜV Rheinland Sirkadiyen Ritim Dostu Sertifikası"
+        },
+        {
+          "key": "Dış ekran özellikleri",
+          "value": "Dış ekran temaları (Portreler, Karalamalar, Hayvanlar), Dinamik widget'lar, TÜV Rheinland Düşük Mavi Işık (Donanım Çözümü) Sertifikası, TÜV Rheinland Titreşimsiz Sertifikası, TÜV Rheinland Sirkadiyen Ritim Dostu Sertifikası"
+        },
+        {
+          "key": "Arka kamera özellikleri",
+          "value": "Leica profesyonel optik lens, Leica ana kamera, Leica hareketli telefoto kamera, İki Leica fotoğraf stili (Leica Authentic Görünümü, Leica Vibrant Görünümü), Leica filtreleri, Leica klasik deklanşör sesi, Leica filigranı, Ana lens sistemi (35 mm Belgesel lensi, 50 mm Girdap bokeh lensi, 75 mm Portre lensi ve 90 mm Yumuşak odak lensi), Xiaomi ProFocus (Hareket izleme odağı, göz takibi odağı ve hareket yakalama), Işık Patlaması, Gece modu (geniş açı/telefoto), Portre modu (Leica portre stili, Master portre stili), 20x'e kadar dijital yakınlaştırma, HDR, 50 MP modu (geniş açı/telefoto), Panorama, Ağır çekim, Uzun pozlama, Belgeler, Profesyonel mod, Yakalanan görüntü formatları: DNG, HEIF, JPEG, RAW modu, Film modu, MasterCinema, Dolby Vision ile HDR video kaydı, Sabit Çekim Yapın, Kısa video, Ağır çekim, Çift video, Hızlandırılmış video, Ultra Gece Videosu"
+        },
+        {
+          "key": "Arka kamera video kaydı",
+          "value": "24 fps'de 8K (7680x4320) video kaydı, 24 fps, 30 fps veya 60 fps'de 4K (3840x2160) video kaydı, 30 fps veya 60 fps'de 1080p (1920x1080) HD video kaydı, 30 fps'de 720p (1280x720) HD video kaydı, Ağır çekim video, Ana kamera: 720 p 120 fps, 240 fps, 480 fps, 960 fps, 1920 fps, 1080p 120 fps, 240 fps, 960 fps, Telefoto kamera: 720p 120 fps, 240 fps, 960 fps, 1080p 120 fps, 240 fps, 960 fps"
+        },
+        {
+          "key": "Ön kamera özellikleri",
+          "value": "32 MP ekran içi selfie kamerası, 32 MP, ƒ/2,0, 21 mm eş değer odak uzaklığı, 89,6˚ Görüş Alanı (FOV), Gece modu, HDR, Portre modu, Avuç içi deklanşör, Ses perdesi, Zamanlamalı seri çekim, Selfie zamanlayıcısı, Dolby Vision ile HDR video kaydı, Video teleprompter, Ağır çekim selfie, Hızlandırılmış selfie"
+        },
+        {
+          "key": "Ön kamera video kaydı",
+          "value": "30 fps veya 60 fps'de 4K (3840x2160) video kaydı, 30 fps veya 60 fps'de 1080p (1920x1080) HD video kaydı, 30 fps'de 720p (1280x720) HD video kaydı"
+        },
+        {
+          "key": "Yapay Zeka özellikleri",
+          "value": "Google ile Seçerek Arat ve Google Gemini, Yapay Zeka Destekli Çevirmen, Yapay Zeka Destekli Notlar, Yapay Zeka Destekli Kaydedici, Yapay Zeka Destekli Altyazılar, Yapay Zeka Destekli Film, Yapay Zeka Destekli Görüntü Düzenleme, Yapay Zeka Destekli Portre Modu"
+        },
+        {
+          "key": "Pil ve Şarj",
+          "value": "4780 mAh (tipik) pil, 67 W Ultra Hızlı Şarj, PD3.0, PD2.0 ve Mi-FC 2.0 desteği, USB Type-C şarj bağlantı noktası"
+        },
+        {
+          "key": "Güvenlik",
+          "value": "Kavisli yana monte parmak izi sensörü, Yapay zeka destekli yüzle kilit açma"
+        },
+        {
+          "key": "NFC",
+          "value": "Var (NFC işlevi bazı pazarlarda değişiklik gösterebilir)"
+        },
+        {
+          "key": "Ağ ve Bağlantı",
+          "value": "Çift SIM (nano SIM + nano SIM), 5G SA: n1/2/3/5/7/8/12/20/26/28/38/40/41/48/66/77/78/79, 5G NSA: n1/3/5/7/8/20/28/38/40/41/66/77/78/79, 4G: LTE FDD: B1/2/3/4/5/7/8/12/17/18/19/20/26/28/66, 4G: LTE TDD: B38/40/41/42/48, 3G: UMTS: B1/2/4/5/6/8/19, 2G: GSM: B2/3/5/8, 4x4 MIMO desteği, Wi-Fi 7 özelliği, Çift Bant Eşzamanlı, Çoklu Bağlantıyla Çalışma, 2x2 MIMO, MU-MIMO için 8x8 Ses, WiFi Direct Desteği, Bluetooth 5.4, Çift Bluetooth, SBC / AAC / AptX / AptX HD / AptX Adaptive / LDAC / LHDC5.0 / LC3 desteği"
+        },
+        {
+          "key": "Navigasyon ve Konumlandırma",
+          "value": "GPS | Glonass | Galileo | BeiDou, GPS: L1+L5, Galileo: E1+E5a, GLONASS: G1, Beidou｜QZSS: L1 + L5, NavIC: L5A, GPS ek konumlandırma, Elektronik pusula, Kablosuz ağ, Veri ağı, SAP"
+        },
+        {
+          "key": "Ses",
+          "value": "Desteklenen ses biçimleri: MP3, FLAC, APE, AAC, OGG, WAV, AMR, AWB, Yüksek Çözünürlüklü Ses ve Yüksek Çözünürlüklü Kablosuz Ses sertifikasyonu, Dolby Atmos®, Stereo hoparlörler"
+        },
+        {
+          "key": "Video",
+          "value": "Desteklenen video biçimleri: MP4, MKV, WEBM, 3GP, HDR10, HDR10+, Dolby Vision video içeriği oynatılırken HDR görüntülemeyi destekler"
+        },
+        {
+          "key": "Sensörler",
+          "value": "Yakınlık sensörü, Ortam ışığı sensörü, İvme Ölçer, Jiroskop, Elektronik pusula, Kızılötesi verici, Barometre, Titreşim sensörü, X eksenli doğrusal titreşim motoru, Yana monte parmak izi sensörü"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Xiaomi MIX Flip / Adaptör / USB C Tipi Kablo / SIM Çıkarma Aracı / Koruyucu Kılıf / Güvenlik Bilgileri / Hızlı Başlangıç Kılavuzu ve Garanti Kartı (Paketin içindekiler bölgelere göre farklılık gösterebilir)"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 16,
+        "doluAlan": 15,
+        "yuzde": "94%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Power Bank 10000mah (Integrated-Cable)",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-power-bank-10000mah-integrated-cable/specs",
+      "category": "phone",
+      "extractedAt": "2025-10-12T20:31:47.531Z",
+      "features": {
+        "batarya": {
+          "kapasite": "10000 mAh",
+          "tip": "Lityum iyon pil",
+          "sarj_gucu": "22,5 W MAX"
+        },
+        "ekran": {
+          "boyut": "",
+          "cozunurluk": "",
+          "panel_tipi": ""
+        },
+        "kamera": {
+          "ana_mp": "",
+          "on_kamera": ""
+        },
+        "islemci": {
+          "marka": "",
+          "model": ""
+        },
+        "bellek": {
+          "ram": "",
+          "depolama": ""
+        },
+        "baglanti": {
+          "wifi": "",
+          "bluetooth": "",
+          "nfc": "",
+          "g5": ""
+        },
+        "otherFeatures": [
+          {
+            "key": "Model",
+            "value": "P15ZM"
+          },
+          {
+            "key": "Çalışma sıcaklığı",
+            "value": "5°C ila 35°C"
+          },
+          {
+            "key": "Boyutlar",
+            "value": "105,2 x 26,9 x 65,2 mm"
+          },
+          {
+            "key": "Giriş parametreleri",
+            "value": "5 V ⎓ 3 A, 9 V ⎓ 2,5 A"
+          },
+          {
+            "key": "Çıkış parametreleri (USB-A)",
+            "value": "5 V⎓3 A 9 V⎓2,23 A 12 V⎓1,67 A 10 V⎓2,25 A MAX"
+          },
+          {
+            "key": "Çıkış parametreleri (USB-C)",
+            "value": "5 V⎓3 A 9 V⎓2,23 A 12 V⎓1,67 A 10 V⎓2,25 A MAX"
+          },
+          {
+            "key": "Çıkış parametreleri (USB-C kablo)",
+            "value": "5 V⎓3 A 9 V⎓2,23 A 12 V⎓1,67 A 10 V⎓2,25 A MAX"
+          },
+          {
+            "key": "Çıkış parametreleri (Birden fazla bağlantı noktası çıkışı)",
+            "value": "5 V⎓3 A"
+          },
+          {
+            "key": "Pil gücü",
+            "value": "37 Wh 3,7 V 10.000 mAh"
+          },
+          {
+            "key": "Giriş bağlantı noktası",
+            "value": "USB-C/USB-C kablo"
+          },
+          {
+            "key": "Çıkış bağlantı noktası",
+            "value": "USB-A/USB-C/USB-C kablo"
+          },
+          {
+            "key": "Nominal kapasite",
+            "value": "5500 mAh (5 V / 3 A)"
+          },
+          {
+            "key": "Şarj süresi (9 V / 2 A şarj cihazı, dahili kablo şarjı)",
+            "value": "Yaklaşık 2.75 saat"
+          },
+          {
+            "key": "Şarj süresi (9 V / 2 A şarj cihazı, USB-C bağlantı noktası şarjı)",
+            "value": "Yaklaşık 2.75 saat"
+          },
+          {
+            "key": "Paket içeriği",
+            "value": "Xiaomi Taşınabilir Şarj Cihazı 10000 mAh (Entegre Kablo) x1, Kullanım kılavuzu x1"
+          }
+        ]
+      },
+      "extractionQuality": {
+        "toplamAlan": 16,
+        "doluAlan": 3,
+        "yuzde": "19%",
+        "ekstraOzellikSayisi": 15
+      }
+    }
+  ]
+}

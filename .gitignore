@@ -1,0 +1,17 @@
+# .gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Veritabanı
+chromadb/
+*.db
+
+# macOS/Linux dosyaları
+.DS_Store

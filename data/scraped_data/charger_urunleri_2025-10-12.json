@@ -1,0 +1,842 @@
+{
+  "kategoriAnahtari": "charger",
+  "kategoriAdi": "Şarj Cihazları",
+  "cekilmeTarihi": "2025-10-12T21:43:06.905Z",
+  "toplamUrunSayisi": 15,
+  "urunler": [
+    {
+      "productName": "Redmi Watch 2 serisi/ Redmi Akıllı Bileklik Pro için Şarj Kablosu",
+      "productUrl": "https://www.mi.com/tr/product/charging-cable-for-redmi-watch-2-series/specs",
+      "category": "charger",
+      "extractedAt": "2025-10-12T21:22:47.811Z",
+      "features": {
+        "sarj": {
+          "guc": "",
+          "cikis_sayisi": "",
+          "hizli_sarj": ""
+        },
+        "portlar": {
+          "usb_a": "",
+          "usb_c": ""
+        },
+        "ozellikler": {
+          "gan": "",
+          "kablosuz_guc": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Model",
+          "value": "M2114ACD1"
+        },
+        {
+          "key": "Malzemeler",
+          "value": "TPE+PC"
+        },
+        {
+          "key": "Ürün boyutları",
+          "value": "16 x 7 x 10 mm"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Şarj kablosu x1, Kullanım kılavuzu x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 7,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Mi 20W Charger (Type-C)",
+      "productUrl": "https://www.mi.com/tr/product/mi-20w-charger-type-c/specs",
+      "category": "charger",
+      "extractedAt": "2025-10-12T21:23:16.774Z",
+      "features": {
+        "sarj": {
+          "guc": "20 W MAX",
+          "cikis_sayisi": "1",
+          "hizli_sarj": "Evet"
+        },
+        "portlar": {
+          "usb_a": "",
+          "usb_c": "Evet"
+        },
+        "ozellikler": {
+          "gan": "",
+          "kablosuz_guc": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Product model no.",
+          "value": "AD201"
+        },
+        {
+          "key": "Input parameters",
+          "value": "100–240 V, 50/60 Hz, 0.5 A"
+        },
+        {
+          "key": "Output parameters",
+          "value": "5 V 3 A, 9 V 2.22 A 12 V 1.67 A"
+        },
+        {
+          "key": "Operating temperature",
+          "value": "0°C to 40°C"
+        },
+        {
+          "key": "Product dimensions",
+          "value": "38 × 22.2 × 43 mm (excludes pin length)"
+        },
+        {
+          "key": "Standards implemented",
+          "value": "GB 17625.1-2012 GB 4943.1-2011 GB/T 9254-2008"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 7,
+        "doluAlan": 4,
+        "yuzde": "57%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Mi 20W Wireless Charging Stand (Universal 20W Fast Charge)",
+      "productUrl": "https://www.mi.com/tr/product/mi-20w-wireless-charging-stand/specs",
+      "category": "charger",
+      "extractedAt": "2025-10-12T21:23:48.557Z",
+      "features": {
+        "sarj": {
+          "guc": "20 W",
+          "cikis_sayisi": "1",
+          "hizli_sarj": "Universal 20W Fast Charge"
+        },
+        "portlar": {
+          "usb_a": "",
+          "usb_c": "1"
+        },
+        "ozellikler": {
+          "gan": "",
+          "kablosuz_guc": "20 W"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Model No",
+          "value": "WPC02ZM"
+        },
+        {
+          "key": "Giriş Bağlantı Noktası",
+          "value": "USB-C"
+        },
+        {
+          "key": "İletim Mesafesi",
+          "value": "≤4 mm"
+        },
+        {
+          "key": "Giriş Parametreleri",
+          "value": "5 V=2 A/9 V=1,6 /12 V–16 V– 1,7 A maks."
+        },
+        {
+          "key": "Çalışma Sıcaklığı",
+          "value": "0°C - 35°C"
+        },
+        {
+          "key": "Ürün Boyutları",
+          "value": "109,7 × 91 × 91 mm"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Mi 20W Wireless Charging Stand (Universal 20W Fast Charge) × 1, USB kablosu × 1, Kullanım kılavuzu × 1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 7,
+        "doluAlan": 5,
+        "yuzde": "71%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Mi 50W Power Bank 20000",
+      "productUrl": "https://www.mi.com/tr/product/mi-50w-power-bank-20000/specs",
+      "category": "charger",
+      "extractedAt": "2025-10-12T21:24:18.784Z",
+      "features": {
+        "sarj": {
+          "guc": "50 W",
+          "cikis_sayisi": "3",
+          "hizli_sarj": "Evet"
+        },
+        "portlar": {
+          "usb_a": "1",
+          "usb_c": "1"
+        },
+        "ozellikler": {
+          "gan": "",
+          "kablosuz_guc": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ürün model no.",
+          "value": "PB200SZM"
+        },
+        {
+          "key": "Pil tipi",
+          "value": "Lityum iyon polimer pil"
+        },
+        {
+          "key": "Pil gücü",
+          "value": "74 Wh 3,7 V 20.000 mAh"
+        },
+        {
+          "key": "Nominal kapasite",
+          "value": "12.000 mAh (5 V/4 A)"
+        },
+        {
+          "key": "Giriş bağlantı noktası",
+          "value": "Type-C"
+        },
+        {
+          "key": "Giriş parametreleri",
+          "value": "5 V⎓3 A 9 V⎓3 A 12 V⎓3 A 15 V⎓3 A 20 V⎓2,25 A"
+        },
+        {
+          "key": "Çıkış parametreleri (USB-A, tek bağlantı noktası)",
+          "value": "5 V⎓3 A 9 V⎓2,23 A 12 V⎓1,67 A 10 V⎓2,25 A"
+        },
+        {
+          "key": "Çıkış parametreleri (USB-A, iki bağlantı noktası)",
+          "value": "5 V⎓3 A"
+        },
+        {
+          "key": "Çıkış parametreleri (Type-C)",
+          "value": "5 V⎓3 A 9 V⎓3 A 10 V⎓5 A 12 V⎓3 A 15 V⎓3 A 20 V⎓2 A"
+        },
+        {
+          "key": "Çıkış parametreleri (Üç bağlantı noktası)",
+          "value": "5 V⎓4 A 9 V⎓3 A 10 V⎓5 A 12 V⎓3 A 15 V⎓3 A 20 V⎓2 A"
+        },
+        {
+          "key": "Çalışma sıcaklığı",
+          "value": "5°C ila 35°C"
+        },
+        {
+          "key": "Şarj süresi (5 V/2 A şarj cihazı)",
+          "value": "Yaklaşık 11 saat"
+        },
+        {
+          "key": "Şarj süresi (18 W şarj cihazı)",
+          "value": "Yaklaşık 6,5 saat"
+        },
+        {
+          "key": "Şarj süresi (45 W şarj cihazı, paketteki şarj kablosu)",
+          "value": "Yaklaşık 4,5 saat"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Mi 50W Taşınabilir Şarj Cihazı 20000 mAh x1, Şarj kablosu x1, Kullanım kılavuzu x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 7,
+        "doluAlan": 5,
+        "yuzde": "71%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Mi Braided USB Type-C Cable 100cm",
+      "productUrl": "https://www.mi.com/tr/product/mi-braided-usb-type-c-cable/specs",
+      "category": "charger",
+      "extractedAt": "2025-10-12T21:24:57.874Z",
+      "features": {
+        "sarj": {
+          "guc": "",
+          "cikis_sayisi": "",
+          "hizli_sarj": ""
+        },
+        "portlar": {
+          "usb_a": "",
+          "usb_c": "USB-C"
+        },
+        "ozellikler": {
+          "gan": "",
+          "kablosuz_guc": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Type",
+          "value": "USB-C"
+        },
+        {
+          "key": "Product color",
+          "value": "Black / Red"
+        },
+        {
+          "key": "Material",
+          "value": "TPE"
+        },
+        {
+          "key": "Standards",
+          "value": "YD/T 1591-2009"
+        },
+        {
+          "key": "Length",
+          "value": "30cm/100cm/200cm"
+        },
+        {
+          "key": "Package contents",
+          "value": "Cable x 1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 7,
+        "doluAlan": 1,
+        "yuzde": "14%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Mi Type-C - Lightning Kablosu 1 m",
+      "productUrl": "https://www.mi.com/tr/product/mi-type-c-to-lightning-cable-1m/specs",
+      "category": "charger",
+      "extractedAt": "2025-10-12T21:25:25.357Z",
+      "features": {
+        "sarj": {
+          "guc": "",
+          "cikis_sayisi": "",
+          "hizli_sarj": ""
+        },
+        "portlar": {
+          "usb_a": "",
+          "usb_c": "Type-C"
+        },
+        "ozellikler": {
+          "gan": "",
+          "kablosuz_guc": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ürün modeli",
+          "value": "CTL01ZMC"
+        },
+        {
+          "key": "Uygulanan standartlar",
+          "value": "YD/T 1591-2009"
+        },
+        {
+          "key": "Ürün malzemeleri",
+          "value": "TPE"
+        },
+        {
+          "key": "Kablo uzunluğu",
+          "value": "1 m"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Kablo x 1, Ambalaj × 1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 7,
+        "doluAlan": 1,
+        "yuzde": "14%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Mi USB Type-C Kablo 100 cm",
+      "productUrl": "https://www.mi.com/tr/product/mi-usb-type-c-cable-1m/specs",
+      "category": "charger",
+      "extractedAt": "2025-10-12T21:25:54.043Z",
+      "features": {
+        "sarj": {
+          "guc": "",
+          "cikis_sayisi": "",
+          "hizli_sarj": ""
+        },
+        "portlar": {
+          "usb_a": "",
+          "usb_c": "USB-C"
+        },
+        "ozellikler": {
+          "gan": "",
+          "kablosuz_guc": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Bağlantı noktası türü",
+          "value": "USB-C"
+        },
+        {
+          "key": "Ürün rengi",
+          "value": "Beyaz"
+        },
+        {
+          "key": "Ana malzeme",
+          "value": "TPE"
+        },
+        {
+          "key": "Uygulanan standart",
+          "value": "YD/T 1591-2009"
+        },
+        {
+          "key": "Kablo uzunluğu",
+          "value": "100 cm"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Kablo x 1, Ambalaj x 1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 7,
+        "doluAlan": 1,
+        "yuzde": "14%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi 10W Wireless Power Bank 10000",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-10w-wireless-power-bank-10000/specs",
+      "category": "charger",
+      "extractedAt": "2025-10-12T21:26:22.148Z",
+      "features": {
+        "sarj": {
+          "guc": "10W",
+          "cikis_sayisi": "2",
+          "hizli_sarj": "Evet"
+        },
+        "portlar": {
+          "usb_a": "5 V ⎓ 3 A, 9 V ⎓ 2,23 A, 12 V ⎓ 1,67 A, 10 V ⎓ 2,25 A",
+          "usb_c": "5 V ⎓ 3 A, 9 V ⎓ 2,23 A, 12 V ⎓ 1,67 A, 10 V ⎓ 2,25 A"
+        },
+        "ozellikler": {
+          "gan": "9800 mAh / 10000 mAh",
+          "kablosuz_guc": "10 W"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ürün modeli",
+          "value": "WPB15PDZM"
+        },
+        {
+          "key": "Pil kapasitesi (nominal/tipik)",
+          "value": "35,2 Wh / 36 Wh, 9800 mAh / 10000 mAh"
+        },
+        {
+          "key": "Giriş bağlantı noktası",
+          "value": "Type-C"
+        },
+        {
+          "key": "Giriş parametreleri",
+          "value": "5 V ⎓ 3 A, 9 V ⎓ 2,5 A"
+        },
+        {
+          "key": "Pil tipi",
+          "value": "Lityum iyon polimer pil"
+        },
+        {
+          "key": "Nominal kapasite",
+          "value": "5600 mAh (5 V / 3 A)"
+        },
+        {
+          "key": "Sensör mesafesi",
+          "value": "≤5 mm"
+        },
+        {
+          "key": "Ürün boyutları",
+          "value": "147,9 x 70,6 x 16,6 mm"
+        },
+        {
+          "key": "Çalışma sıcaklığı",
+          "value": "5°C – 35°C"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Xiaomi 10 W Kablosuz Taşınabilir Şarj Cihazı 10000 x1, Şarj kablosu ×1, Kullanım kılavuzu x 1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 7,
+        "doluAlan": 7,
+        "yuzde": "100%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi 22.5W Power Bank 10000",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-22-5w-power-bank-10000/specs",
+      "category": "charger",
+      "extractedAt": "2025-10-12T21:26:56.527Z",
+      "features": {
+        "sarj": {
+          "guc": "22.5W",
+          "cikis_sayisi": "3",
+          "hizli_sarj": "Evet"
+        },
+        "portlar": {
+          "usb_a": "Evet",
+          "usb_c": "Evet"
+        },
+        "ozellikler": {
+          "gan": "",
+          "kablosuz_guc": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Model",
+          "value": "PB100DPDZM"
+        },
+        {
+          "key": "Pil gücü",
+          "value": "37 Wh 3,7 V 10.000 mAh"
+        },
+        {
+          "key": "Giriş bağlantı noktası",
+          "value": "USB-C"
+        },
+        {
+          "key": "Giriş parametreleri",
+          "value": "5 V-3 A 9 V-2,5 A"
+        },
+        {
+          "key": "Ürün boyutları",
+          "value": "147,8 x 73,9 x 15,3 mm"
+        },
+        {
+          "key": "Sertifika standardı",
+          "value": "Q/320281DHR01"
+        },
+        {
+          "key": "Pil tipi",
+          "value": "Lityum iyon polimer pil"
+        },
+        {
+          "key": "Nominal kapasite",
+          "value": "5500 mAh (5 V/3 A)"
+        },
+        {
+          "key": "Çıkış bağlantı noktaları",
+          "value": "USB-A/USB-C"
+        },
+        {
+          "key": "Çıkış parametreleri (USB-A)",
+          "value": "5 V-3 A 9 V-2,23 A 12 V-167 A 10 V-2,25 A MAX"
+        },
+        {
+          "key": "Çıkış parametreleri (USB-C)",
+          "value": "5 V-3 A 9 V-2,23 A 12 V-1,67 A 10 V-225 A MAX"
+        },
+        {
+          "key": "Çıkış parametreleri (Üç bağlantı noktası)",
+          "value": "5 V-3 A"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 7,
+        "doluAlan": 5,
+        "yuzde": "71%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi 33W Taşınabilir Şarj Cihazı 10000mAh Cep Versiyonu Pro",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-33w-power-bank-10000mah-pocket-edition-pro/specs",
+      "category": "charger",
+      "extractedAt": "2025-10-12T21:27:32.170Z",
+      "features": {
+        "sarj": {
+          "guc": "33W",
+          "cikis_sayisi": "2",
+          "hizli_sarj": "Evet"
+        },
+        "portlar": {
+          "usb_a": "5 V⎓3 V, 9 V⎓2,23 A, 12 V⎓1,67 A, 10 V⎓2,25 A MAKS",
+          "usb_c": "5 V⎓3 V, 9 V⎓3 A, 12 V⎓2,25 A, 11 V⎓3 A MAKS"
+        },
+        "ozellikler": {
+          "gan": "",
+          "kablosuz_guc": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Model",
+          "value": "PB1030ZM"
+        },
+        {
+          "key": "Pil tipi",
+          "value": "Lityum iyon pil"
+        },
+        {
+          "key": "Pil gücü",
+          "value": "35,2 Wh/36 Wh 9800 mAh/10000 mAh"
+        },
+        {
+          "key": "Nominal kapasite",
+          "value": "5600 mAh (5 V / 3 A)"
+        },
+        {
+          "key": "Giriş bağlantı noktası",
+          "value": "Type-C"
+        },
+        {
+          "key": "Giriş parametreleri",
+          "value": "5 V⎓3 V, 9 V⎓2,5 A, 12 V⎓1,8 A"
+        },
+        {
+          "key": "Çalışma sıcaklığı",
+          "value": "5°C ila 35°C"
+        },
+        {
+          "key": "Ürün boyutları",
+          "value": "105 x 55,8 x 25,5 mm"
+        },
+        {
+          "key": "Şarj süresi (5 V/2 A)",
+          "value": "Yaklaşık 2,7 saat"
+        },
+        {
+          "key": "Şarj süresi (18 W ve üzeri)",
+          "value": "Yaklaşık 5,2 saat"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Xiaomi 33W Taşınabilir Şarj Cihazı 10000mAh Cep Versiyonu Pro, Şarj kablosu x1, Kullanım kılavuzu x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 7,
+        "doluAlan": 5,
+        "yuzde": "71%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi 50W Araç İçi Kablosuz Şarj Aleti",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-50w-wireless-car-charger/specs",
+      "category": "charger",
+      "extractedAt": "2025-10-12T21:28:14.140Z",
+      "features": {
+        "sarj": {
+          "guc": "50 W",
+          "cikis_sayisi": "1",
+          "hizli_sarj": "Evet"
+        },
+        "portlar": {
+          "usb_a": "",
+          "usb_c": ""
+        },
+        "ozellikler": {
+          "gan": "",
+          "kablosuz_guc": "50 W"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Giriş parametreleri",
+          "value": "12 V - 20 V 3,25 A MAKS."
+        },
+        {
+          "key": "Çıkış parametreleri",
+          "value": "50 W MAKS"
+        },
+        {
+          "key": "Endüksiyon mesafesi",
+          "value": "≤ 4 mm"
+        },
+        {
+          "key": "Çalışma sıcaklığı",
+          "value": "0°C - 35°C"
+        },
+        {
+          "key": "Ürün boyutları",
+          "value": "122,2 x 72,9 x 55,2 mm"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Xiaomi 50W Araç İçi Kablosuz Şarj Aleti x1, USB şarj kablosu x1, Kullanım kılavuzu x1, Araç içi şarj aleti x1, Hava çıkışı standı x1, Hava çıkışı standı 2 x1, Düz yapışkan taban x1, Hızlı başlangıç kılavuzu x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 7,
+        "doluAlan": 4,
+        "yuzde": "57%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi 67W Car Charger (USB-A + Type-C)",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-67w-car-charger-usb-a-type-c/specs",
+      "category": "charger",
+      "extractedAt": "2025-10-12T21:28:50.627Z",
+      "features": {
+        "sarj": {
+          "guc": "67W",
+          "cikis_sayisi": "2",
+          "hizli_sarj": "Evet"
+        },
+        "portlar": {
+          "usb_a": "5 V/2 A MAKS, 9 V/2 A MAKS",
+          "usb_c": "11 V/6,1 A MAKS, 20 V/2,5 A MAKS"
+        },
+        "ozellikler": {
+          "gan": "",
+          "kablosuz_guc": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ürün modeli",
+          "value": "CC07ZM"
+        },
+        {
+          "key": "Giriş parametreleri",
+          "value": "12 V/7,5 A"
+        },
+        {
+          "key": "Çalışma sıcaklığı",
+          "value": "0°C ila 30°C"
+        },
+        {
+          "key": "Ürün boyutları",
+          "value": "75,13 x 33,29 x 33,29 mm"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Xiaomi 67 W Araç Şarj Cihazı (USB-A + Type-C) x1, Type-C - Type-C şarj kablosu x1, Kullanım kılavuzu x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 7,
+        "doluAlan": 5,
+        "yuzde": "71%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi 67W Charging Combo (Type-A)",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-67w-charging-combo-type-a/specs",
+      "category": "charger",
+      "extractedAt": "2025-10-12T21:29:25.137Z",
+      "features": {
+        "sarj": {
+          "guc": "67W",
+          "cikis_sayisi": "1",
+          "hizli_sarj": "Evet"
+        },
+        "portlar": {
+          "usb_a": "1",
+          "usb_c": ""
+        },
+        "ozellikler": {
+          "gan": "",
+          "kablosuz_guc": ""
+        }
+      },
+      "otherFeatures": [],
+      "extractionQuality": {
+        "toplamAlan": 7,
+        "doluAlan": 4,
+        "yuzde": "57%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi 6A Type-A - Type-C Kablo",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-6a-type-a-to-type-c-cable/specs",
+      "category": "charger",
+      "extractedAt": "2025-10-12T21:29:50.145Z",
+      "features": {
+        "sarj": {
+          "guc": "6A",
+          "cikis_sayisi": "",
+          "hizli_sarj": ""
+        },
+        "portlar": {
+          "usb_a": "Type-A",
+          "usb_c": "Type-C"
+        },
+        "ozellikler": {
+          "gan": "",
+          "kablosuz_guc": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Malzeme",
+          "value": "TPE"
+        },
+        {
+          "key": "Renk",
+          "value": "Beyaz"
+        },
+        {
+          "key": "Uzunluk",
+          "value": "1 m"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Xiaomi 6A Type-A - Type-C Kablo x 1, CE broşürü x 1, Garanti bildirimi x 1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 7,
+        "doluAlan": 3,
+        "yuzde": "43%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Watch S1 Şarj İstasyonu",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-watch-s1-charging-dock/specs",
+      "category": "charger",
+      "extractedAt": "2025-10-12T21:30:20.989Z",
+      "features": {
+        "sarj": {
+          "guc": "",
+          "cikis_sayisi": "",
+          "hizli_sarj": ""
+        },
+        "portlar": {
+          "usb_a": "",
+          "usb_c": "1"
+        },
+        "ozellikler": {
+          "gan": "",
+          "kablosuz_guc": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Malzemeler",
+          "value": "PC"
+        },
+        {
+          "key": "Ürün boyutları",
+          "value": "46,6 x 46,6 x 9,8 mm"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Şarj istasyonu x1, Type-C şarj kablosu x1, Garanti kartı x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 7,
+        "doluAlan": 1,
+        "yuzde": "14%",
+        "ekstraOzellikSayisi": 0
+      }
+    }
+  ]
+}

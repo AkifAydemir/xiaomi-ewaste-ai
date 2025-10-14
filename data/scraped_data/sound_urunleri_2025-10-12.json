@@ -1,0 +1,520 @@
+{
+  "kategoriAnahtari": "sound",
+  "kategoriAdi": "Ses Sistemleri",
+  "cekilmeTarihi": "2025-10-12T21:43:06.896Z",
+  "toplamUrunSayisi": 6,
+  "urunler": [
+    {
+      "productName": "Mi 4K Laser Projector 150",
+      "productUrl": "https://www.mi.com/tr/product/mi-4k-laser-projector-150/specs",
+      "category": "sound",
+      "extractedAt": "2025-10-12T21:03:17.296Z",
+      "features": {
+        "ses": {
+          "guc": "",
+          "kanal": "",
+          "frekans": ""
+        },
+        "baglanti": {
+          "bluetooth": "",
+          "wifi": "Mi TV Wi-Fi modülü",
+          "hdmi": ""
+        },
+        "ozellikler": {
+          "dolby": "",
+          "dts": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ürün numarası",
+          "value": "MJJGTYDS03FM"
+        },
+        {
+          "key": "Ürün Boyutu",
+          "value": "410 mm x 291 mm x 88 mm (ana ünite)"
+        },
+        {
+          "key": "Ürün ağırlığı",
+          "value": "7,2 kg"
+        },
+        {
+          "key": "Ürün rengi",
+          "value": "siyah"
+        },
+        {
+          "key": "Lens odaklama",
+          "value": "Elektrikli odaklama"
+        },
+        {
+          "key": "Yamuk kenar düzeltme",
+          "value": "8 noktalı düzeltme"
+        },
+        {
+          "key": "Güç tüketimi",
+          "value": "<300 W (yüksek ışık modu)"
+        },
+        {
+          "key": "Güç girişi",
+          "value": "200-240 V~, 50/60 Hz"
+        },
+        {
+          "key": "Bekleme modunda güç tüketimi",
+          "value": "<0,5 W"
+        },
+        {
+          "key": "Görüntü teknolojisi",
+          "value": "0,47 inç DMD"
+        },
+        {
+          "key": "Işık kaynağı teknolojisi",
+          "value": "ALPD"
+        },
+        {
+          "key": "Standart çözünürlük",
+          "value": "4K (3840 x 2160)"
+        },
+        {
+          "key": "Yansıtma açısı oranı (TR)",
+          "value": "0,233"
+        },
+        {
+          "key": "Önerilen perde boyutu",
+          "value": "80 inç - 150 inç"
+        },
+        {
+          "key": "Parlaklık modu",
+          "value": "Film izleme, vurgulama"
+        },
+        {
+          "key": "CPU",
+          "value": "T962X-H"
+        },
+        {
+          "key": "RAM",
+          "value": "2 GB DDR3"
+        },
+        {
+          "key": "Dahili depolama alanı",
+          "value": "16 GB eMMC yüksek hızlı flash bellek"
+        },
+        {
+          "key": "İşletim sistemi",
+          "value": "Android TV (9.0)"
+        },
+        {
+          "key": "UYGULAMA",
+          "value": "Önceden yüklenmiş üçüncü taraf uygulamalar"
+        },
+        {
+          "key": "Dinamik görüntü",
+          "value": "HDR desteği"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Lazer Projektör x 1, Uzaktan Kumanda x 1, Güç kablosu x 1, Kullanım Kılavuzu × 1, Garanti Bildirimi × 1, Temizleme Bezi x 1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 1,
+        "yuzde": "13%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Mi Smart Projector 2",
+      "productUrl": "https://www.mi.com/tr/product/mi-smart-projector-2/specs",
+      "category": "sound",
+      "extractedAt": "2025-10-12T21:03:53.941Z",
+      "features": {
+        "ses": {
+          "guc": "2 x 5W",
+          "kanal": "",
+          "frekans": ""
+        },
+        "baglanti": {
+          "bluetooth": "Bluetooth 5.0/BLE",
+          "wifi": "Wi-Fi IEEE 802.11a/b/g/n 2.4GHz/5GHz",
+          "hdmi": ""
+        },
+        "ozellikler": {
+          "dolby": "Dolby Audio™",
+          "dts": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Product Dimensions",
+          "value": "115x150x150mm"
+        },
+        {
+          "key": "Net Weight",
+          "value": "1.3 kg"
+        },
+        {
+          "key": "Power Consumption",
+          "value": "Rated Power < 65W; Standby Power < 0.5W"
+        },
+        {
+          "key": "Rated Input",
+          "value": "External Adapter, 19V~3.42A"
+        },
+        {
+          "key": "Display Technology",
+          "value": "LED Light with DLP technology"
+        },
+        {
+          "key": "Brightness",
+          "value": "500ANSI lumens"
+        },
+        {
+          "key": "Standard Resolution",
+          "value": "1920×1080p"
+        },
+        {
+          "key": "Throw ratio",
+          "value": "1.2:1"
+        },
+        {
+          "key": "Screen Size",
+          "value": "60\" to 120\""
+        },
+        {
+          "key": "Lens Focus",
+          "value": "Auto Focus"
+        },
+        {
+          "key": "Keystone Correction",
+          "value": "Multi-angle auto-keystone correction"
+        },
+        {
+          "key": "Built-in Storage",
+          "value": "2GB DDR3/16GB eMMC"
+        },
+        {
+          "key": "Operating System",
+          "value": "Android TV™"
+        },
+        {
+          "key": "Noise Level",
+          "value": "≤ 28dB(A) at an ambient temperature of 25°C"
+        },
+        {
+          "key": "Storage Temperature/Humidity",
+          "value": "-20°C to 55°C/ ≤ 90%"
+        },
+        {
+          "key": "Operating Temperature/Humidity",
+          "value": "0°C to 40°C/ 20%–80%"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 4,
+        "yuzde": "50%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Akıllı Hoparlör (Kızılötesi Kontrol)",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-smart-speaker-ir-control/specs",
+      "category": "sound",
+      "extractedAt": "2025-10-12T21:04:24.116Z",
+      "features": {
+        "ses": {
+          "guc": "",
+          "kanal": "",
+          "frekans": ""
+        },
+        "baglanti": {
+          "bluetooth": "Bluetooth® 5.0",
+          "wifi": "802.11a/b/g/n/ac, 2,4 Ghz/5 GHz",
+          "hdmi": ""
+        },
+        "ozellikler": {
+          "dolby": "",
+          "dts": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Model numarası",
+          "value": "L05G"
+        },
+        {
+          "key": "Ürün ağırlığı",
+          "value": "628 g"
+        },
+        {
+          "key": "Boyutlar",
+          "value": "95 * 95 * 14 mm"
+        },
+        {
+          "key": "Düğmeler",
+          "value": "Oynat/Duraklat, Sesi Artır, Sesi Azalt, Sessiz"
+        },
+        {
+          "key": "Mikrofon Dizisi",
+          "value": "2 mikrofon, uzak alan sesli uyandırma desteği ile"
+        },
+        {
+          "key": "Hoparlör",
+          "value": "1,5 inç tam aralıklı hoparlör"
+        },
+        {
+          "key": "Hafif",
+          "value": "Tek Nokta LED Işık"
+        },
+        {
+          "key": "Kızılötesi uzaktan kumanda",
+          "value": "Xiaomi Akıllı Hoparlör (Kızılötesi Kontrol) cihazındaki kızılötesi kontrol işlevi yalnızca uyumlu cihazlarda desteklenmektedir. Şu modellerle test edilmiştir: Fanlar: CHANGHONG CFS-LD402RF, Midea FS40-13GR; Projektörler: Epson EMP-1710, HITACHI HCP-810X; Klima: MIJIA KFR-50GW/N1A1; TV ekranları: Mi LED TV 4S 65 inç, Mi TV P1 50 inç; LED: Panasonic HHXZ4034."
+        },
+        {
+          "key": "Güç Kaynağı",
+          "value": "12 V/1 A, DC girişi"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Hoparlör, Kullanım Kılavuzu, Adaptör"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 2,
+        "yuzde": "25%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Sound Outdoor",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-sound-outdoor/specs",
+      "category": "sound",
+      "extractedAt": "2025-10-12T21:04:57.836Z",
+      "features": {
+        "ses": {
+          "guc": "1 x 20 W, 1 x 10 W",
+          "kanal": "",
+          "frekans": "60 Hz ila 20 KHz"
+        },
+        "baglanti": {
+          "bluetooth": "5.4",
+          "wifi": "",
+          "hdmi": ""
+        },
+        "ozellikler": {
+          "dolby": "",
+          "dts": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Model",
+          "value": "MDZ-38-DB"
+        },
+        {
+          "key": "Renk",
+          "value": "Siyah/Mavi/Kırmızı/Altın/Yeşil"
+        },
+        {
+          "key": "Ürün Boyutları",
+          "value": "196,6 mm*68 mm*66 mm"
+        },
+        {
+          "key": "Net Ağırlık",
+          "value": "Yaklaşık 597 g"
+        },
+        {
+          "key": "Sinyal-gürültü oranı",
+          "value": "≥80 dB"
+        },
+        {
+          "key": "Pil",
+          "value": "Lityum iyon, 7,2V, 2600 mAh"
+        },
+        {
+          "key": "Pil Şarjı",
+          "value": "5 V 3 A, 2,5 saat"
+        },
+        {
+          "key": "İletim Mesafesi",
+          "value": "25 m"
+        },
+        {
+          "key": "Oynatma Süresi",
+          "value": "Yaklaşık 12 saat (%50 Ses seviyesinde)"
+        },
+        {
+          "key": "Su geçirmez",
+          "value": "IP67"
+        },
+        {
+          "key": "Stereo Eşleştirme (TWS)",
+          "value": "Var"
+        },
+        {
+          "key": "Çoklu Hoparlör Eşleştirme",
+          "value": "Var, ≤ 100 ünite"
+        },
+        {
+          "key": "Mikrofon",
+          "value": "Var"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Xiaomi Sound Outdoor x1, Şarj kablosu x1, Kullanım kılavuzu x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 3,
+        "yuzde": "38%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Sound Pocket",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-sound-pocket/specs",
+      "category": "sound",
+      "extractedAt": "2025-10-12T21:05:30.909Z",
+      "features": {
+        "ses": {
+          "guc": "5 W",
+          "kanal": "",
+          "frekans": "100 Hz ila 20 KHz"
+        },
+        "baglanti": {
+          "bluetooth": "5.4",
+          "wifi": "",
+          "hdmi": ""
+        },
+        "ozellikler": {
+          "dolby": "",
+          "dts": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Model",
+          "value": "MDZ-37-DB"
+        },
+        {
+          "key": "Renk",
+          "value": "Siyah/Mavi Gri/Pembe"
+        },
+        {
+          "key": "Ürün Boyutları",
+          "value": "90,8 mm*74,4 mm*42,6 mm"
+        },
+        {
+          "key": "Net Ağırlık",
+          "value": "Yaklaşık 200 g"
+        },
+        {
+          "key": "Sinyal-Gürültü Oranı",
+          "value": "≥70 dB"
+        },
+        {
+          "key": "Pil",
+          "value": "Lityum-iyon, 3,7 V, 1.000 mAh"
+        },
+        {
+          "key": "Pil Şarjı",
+          "value": "5 V 1 A, 3 saat"
+        },
+        {
+          "key": "İletim Mesafesi",
+          "value": "25 m"
+        },
+        {
+          "key": "Oynatma Süresi",
+          "value": "Yaklaşık 10 saat (%40 Ses seviyesinde)"
+        },
+        {
+          "key": "Su geçirmez",
+          "value": "IP67"
+        },
+        {
+          "key": "Stereo Eşleştirme (TWS)",
+          "value": "Var"
+        },
+        {
+          "key": "Mikrofon",
+          "value": "Var"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Xiaomi Sound Pocket x1, Şarj kablosu x1, Kullanım kılavuzu x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 3,
+        "yuzde": "38%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Soundbar 2.0ch",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-soundbar-2ch/specs",
+      "category": "sound",
+      "extractedAt": "2025-10-12T21:06:02.979Z",
+      "features": {
+        "ses": {
+          "guc": "2*12 W/2*15 W",
+          "kanal": "2",
+          "frekans": "70 Hz~20 KHz"
+        },
+        "baglanti": {
+          "bluetooth": "Bluetooth 5.3",
+          "wifi": "",
+          "hdmi": ""
+        },
+        "ozellikler": {
+          "dolby": "",
+          "dts": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Hoparlörler",
+          "value": "45 x 80 mm pist tipi tam aralıklı hoparlör x2"
+        },
+        {
+          "key": "3,5 mm AUX girişi",
+          "value": "Var"
+        },
+        {
+          "key": "SPDIF girişi",
+          "value": "Var"
+        },
+        {
+          "key": "Koaksiyel Giriş",
+          "value": "Var"
+        },
+        {
+          "key": "Optik giriş",
+          "value": "Var"
+        },
+        {
+          "key": "Giriş",
+          "value": "100-240 V~50/60 Hz"
+        },
+        {
+          "key": "Çalışma Tüketimi",
+          "value": "26 W"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Xiaomi Soundbar 2.0ch, Kullanım kılavuzu x1, SRDIF Kablosu x1, Vidalar x2, Genişletme tüpleri x2, EVA pedleri ×2"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 4,
+        "yuzde": "50%",
+        "ekstraOzellikSayisi": 0
+      }
+    }
+  ]
+}

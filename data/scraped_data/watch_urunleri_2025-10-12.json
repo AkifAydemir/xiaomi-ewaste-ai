@@ -1,0 +1,959 @@
+{
+  "kategoriAnahtari": "watch",
+  "kategoriAdi": "Akıllı Saatler",
+  "cekilmeTarihi": "2025-10-12T21:43:06.886Z",
+  "toplamUrunSayisi": 14,
+  "urunler": [
+    {
+      "productName": "",
+      "productUrl": "https://www.mi.com/tr/product/bundle/3223711470/specs",
+      "category": "watch",
+      "extractedAt": "2025-10-12T20:42:49.977Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "",
+          "sarj_suresi": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "tip": ""
+        },
+        "sensorler": {
+          "kalp_atisi": "",
+          "oksijen": ""
+        },
+        "koruma": {
+          "ip_sertifikası": "",
+          "dayaniklilik": ""
+        },
+        "otherFeatures": []
+      },
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "",
+      "productUrl": "https://www.mi.com/tr/product/bundle/3223711471/specs",
+      "category": "watch",
+      "extractedAt": "2025-10-12T20:43:12.811Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "",
+          "sarj_suresi": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "tip": ""
+        },
+        "sensorler": {
+          "kalp_atisi": "",
+          "oksijen": ""
+        },
+        "koruma": {
+          "ip_sertifikası": "",
+          "dayaniklilik": ""
+        },
+        "otherFeatures": []
+      },
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "",
+      "productUrl": "https://www.mi.com/tr/product/bundle/3223714741/specs",
+      "category": "watch",
+      "extractedAt": "2025-10-12T20:43:36.363Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "",
+          "sarj_suresi": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "tip": ""
+        },
+        "sensorler": {
+          "kalp_atisi": "",
+          "oksijen": ""
+        },
+        "koruma": {
+          "ip_sertifikası": "",
+          "dayaniklilik": ""
+        },
+        "otherFeatures": []
+      },
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "",
+      "productUrl": "https://www.mi.com/tr/product/bundle/3223714742/specs",
+      "category": "watch",
+      "extractedAt": "2025-10-12T20:43:59.928Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "",
+          "sarj_suresi": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "tip": ""
+        },
+        "sensorler": {
+          "kalp_atisi": "",
+          "oksijen": ""
+        },
+        "koruma": {
+          "ip_sertifikası": "",
+          "dayaniklilik": ""
+        },
+        "otherFeatures": []
+      },
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "",
+      "productUrl": "https://www.mi.com/tr/product/bundle/3223718172/specs",
+      "category": "watch",
+      "extractedAt": "2025-10-12T20:44:23.795Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "",
+          "sarj_suresi": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "tip": ""
+        },
+        "sensorler": {
+          "kalp_atisi": "",
+          "oksijen": ""
+        },
+        "koruma": {
+          "ip_sertifikası": "",
+          "dayaniklilik": ""
+        },
+        "otherFeatures": []
+      },
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "",
+      "productUrl": "https://www.mi.com/tr/product/bundle/3223718176/specs",
+      "category": "watch",
+      "extractedAt": "2025-10-12T20:44:46.161Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "",
+          "sarj_suresi": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "tip": ""
+        },
+        "sensorler": {
+          "kalp_atisi": "",
+          "oksijen": ""
+        },
+        "koruma": {
+          "ip_sertifikası": "",
+          "dayaniklilik": ""
+        },
+        "otherFeatures": []
+      },
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Redmi Watch 4",
+      "productUrl": "https://www.mi.com/tr/product/redmi-watch-4/specs",
+      "category": "watch",
+      "extractedAt": "2025-10-12T20:45:08.600Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "20 gün",
+          "sarj_suresi": ""
+        },
+        "ekran": {
+          "boyut": "1,97 inç",
+          "tip": "Kare AMOLED"
+        },
+        "sensorler": {
+          "kalp_atisi": "desteklenir",
+          "oksijen": "desteklenir"
+        },
+        "koruma": {
+          "ip_sertifikası": "5 ATM",
+          "dayaniklilik": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Boyutlar",
+          "value": "47,5 mm x 41,1 mm x 10,5 mm"
+        },
+        {
+          "key": "Ağırlık",
+          "value": "31,5 g"
+        },
+        {
+          "key": "Çerçeve",
+          "value": "Alüminyum alaşımdan"
+        },
+        {
+          "key": "Kayış",
+          "value": "TPU kayış (Obsidyen Siyahı ve Gümüş Grisi renkleri için)"
+        },
+        {
+          "key": "Kayış boyutu",
+          "value": "135 mm ~ 205 mm"
+        },
+        {
+          "key": "Sensörler",
+          "value": "Kalp atış hızı sensörü (kandaki oksijen sensörü dahil) | İvme ölçer | Jiroskop | Ortam ışığı sensörü | elektronik pusula"
+        },
+        {
+          "key": "Uydu konumlandırma sistemleri",
+          "value": "GPS | Galileo | Glonass | BeiDou | QZSS"
+        },
+        {
+          "key": "Pil kapasitesi",
+          "value": "470 mAh"
+        },
+        {
+          "key": "Ekran yenileme hızı",
+          "value": "60 Hz"
+        },
+        {
+          "key": "Ekran parlaklığı",
+          "value": "600 nit'e kadar"
+        },
+        {
+          "key": "Dahili GNSS",
+          "value": "desteklenir"
+        },
+        {
+          "key": "Hoparlör",
+          "value": "desteklenir"
+        },
+        {
+          "key": "Bluetooth araması",
+          "value": "desteklenir"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Redmi Watch 4 / Manyetik şarj kablosu / Kullanım Kılavuzu (garanti bildirimi dahil)"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 6,
+        "yuzde": "75%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Redmi Watch 5 Active",
+      "productUrl": "https://www.mi.com/tr/product/redmi-watch-5-active/specs",
+      "category": "watch",
+      "extractedAt": "2025-10-12T20:45:38.573Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "18 gün",
+          "sarj_suresi": ""
+        },
+        "ekran": {
+          "boyut": "2 inç",
+          "tip": "Kare LCD"
+        },
+        "sensorler": {
+          "kalp_atisi": "desteklenir",
+          "oksijen": "desteklenir"
+        },
+        "koruma": {
+          "ip_sertifikası": "5 ATM",
+          "dayaniklilik": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Boyutlar",
+          "value": "49,1 mm x 40,4 mm x 11,4 mm"
+        },
+        {
+          "key": "Ağırlık",
+          "value": "30,6 g"
+        },
+        {
+          "key": "Çerçeve",
+          "value": "Plastik (metal sprey kaplamalı)"
+        },
+        {
+          "key": "Kayış",
+          "value": "TPU kayış, boyutu: 135 mm-205 mm"
+        },
+        {
+          "key": "Bluetooth araması",
+          "value": "desteklenir"
+        },
+        {
+          "key": "Hoparlör",
+          "value": "desteklenir"
+        },
+        {
+          "key": "Kablosuz bağlantı",
+          "value": "Bluetooth® 5.3"
+        },
+        {
+          "key": "İşletim sistemi",
+          "value": "Xiaomi HyperOS"
+        },
+        {
+          "key": "Uyumluluk",
+          "value": "Android 8.0 veya iOS 12.0 ve üzeri sürümlerin yüklü olduğu akıllı telefonları destekler"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Redmi Watch 5 Active / Manyetik şarj kablosu / Kullanım kılavuzu (garanti bildirimi dahil)"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 6,
+        "yuzde": "75%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Redmi Watch 5 Lite",
+      "productUrl": "https://www.mi.com/tr/product/redmi-watch-5-lite/specs",
+      "category": "watch",
+      "extractedAt": "2025-10-12T20:46:06.817Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "18 gün",
+          "sarj_suresi": ""
+        },
+        "ekran": {
+          "boyut": "1,96 inç",
+          "tip": "Kare AMOLED"
+        },
+        "sensorler": {
+          "kalp_atisi": "desteklenir",
+          "oksijen": "desteklenir"
+        },
+        "koruma": {
+          "ip_sertifikası": "",
+          "dayaniklilik": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Boyutlar",
+          "value": "48,1 mm x 39,2 mm x 10,6 mm"
+        },
+        {
+          "key": "Ağırlık",
+          "value": "29,2 g (kutudan çıkan kayış olmadan)"
+        },
+        {
+          "key": "Çerçeve",
+          "value": "Plastik (NCVM)"
+        },
+        {
+          "key": "Kayış",
+          "value": "Siyah: TPU kayış, boyutu: 135 mm ~ 205 mm; Açık altın: TPU kayış, boyutu: 135 mm ~ 205 mm"
+        },
+        {
+          "key": "Sensörler",
+          "value": "Kalp atış hızı sensörü (kandaki oksijen sensörü ile) | İvme ölçer | Jiroskop"
+        },
+        {
+          "key": "Uydu konumlandırma sistemleri",
+          "value": "GPS | Galileo | Glonass | BeiDou | QZSS"
+        },
+        {
+          "key": "Pil Kapasitesi",
+          "value": "470mAh"
+        },
+        {
+          "key": "Ekran Çözünürlüğü",
+          "value": "410 x 502 | 332 PPI"
+        },
+        {
+          "key": "Dahili GNSS",
+          "value": "desteklenir"
+        },
+        {
+          "key": "Hoparlör",
+          "value": "desteklenir"
+        },
+        {
+          "key": "Bluetooth araması",
+          "value": "desteklenir"
+        },
+        {
+          "key": "Kablosuz bağlantı",
+          "value": "Bluetooth® 5.3"
+        },
+        {
+          "key": "İşletim Sistemi",
+          "value": "Xiaomi HyperOS"
+        },
+        {
+          "key": "Uyumluluk",
+          "value": "Yalnızca Android 8.0 veya iOS 12.0 ve üzeri sürümlerin yüklü olduğu akıllı telefonları destekler"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Redmi Watch 5 Lite / Manyetik şarj kablosu / Kullanım kılavuzu (garanti bildirimi dahil)"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 5,
+        "yuzde": "63%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Redmi Watch 5",
+      "productUrl": "https://www.mi.com/tr/product/redmi-watch-5/specs",
+      "category": "watch",
+      "extractedAt": "2025-10-12T20:46:45.267Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "24 gün",
+          "sarj_suresi": ""
+        },
+        "ekran": {
+          "boyut": "2,07 inç",
+          "tip": "Kare AMOLED"
+        },
+        "sensorler": {
+          "kalp_atisi": "Destekleniyor",
+          "oksijen": "Destekleniyor"
+        },
+        "koruma": {
+          "ip_sertifikası": "5 ATM",
+          "dayaniklilik": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Boyutlar",
+          "value": "47,5 mm x 41,1 mm x 11,3 mm"
+        },
+        {
+          "key": "Ağırlık",
+          "value": "Yaklaşık 33,5 g (kutudan çıkan kayış olmadan)"
+        },
+        {
+          "key": "Çerçeve",
+          "value": "Alüminyum alaşımdan çerçeve"
+        },
+        {
+          "key": "Kayış",
+          "value": "TPU kayış (Obsidyen Siyahı, Gümüş Grisi, Lavanta Moru)"
+        },
+        {
+          "key": "Kayış Boyutu",
+          "value": "Yaklaşık 135-205 mm"
+        },
+        {
+          "key": "Sensörler",
+          "value": "Kalp atış hızı sensörü (kandaki oksijen sensörü dahil) | İvme ölçer | Jiroskop | Ortam ışığı sensörü | Elektronik pusula"
+        },
+        {
+          "key": "Uydu konumlandırma sistemleri",
+          "value": "GPS | Galileo | Glonass | BeiDou | QZSS"
+        },
+        {
+          "key": "Pil Kapasitesi",
+          "value": "550 mAh"
+        },
+        {
+          "key": "Çözünürlük",
+          "value": "432 x 514 piksel, PPI 324"
+        },
+        {
+          "key": "Ekran-gövde oranı",
+          "value": "%82"
+        },
+        {
+          "key": "Yenileme hızı",
+          "value": "60 Hz"
+        },
+        {
+          "key": "Parlaklık",
+          "value": "HBM 1500 nit"
+        },
+        {
+          "key": "Dahili GNSS",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Hoparlör",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Mikrofon",
+          "value": "2 mikrofon"
+        },
+        {
+          "key": "Bluetooth ile arama",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Kablosuz bağlantı",
+          "value": "Bluetooth® 5.3"
+        },
+        {
+          "key": "Mevcut yerel depolama alanı",
+          "value": "164 MB"
+        },
+        {
+          "key": "İşletim sistemi",
+          "value": "Xiaomi HyperOS"
+        },
+        {
+          "key": "Uyumluluk",
+          "value": "Android 8.0 veya iOS 12.0 ve üzeri sürümlerin yüklü olduğu akıllı telefonları destekler."
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 6,
+        "yuzde": "75%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Watch 2 Pro",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-watch-2-pro/specs",
+      "category": "watch",
+      "extractedAt": "2025-10-12T20:47:19.822Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "LTE: 55 saate kadar, BT: 65 saate kadar",
+          "sarj_suresi": "Yaklaşık 45 dakika"
+        },
+        "ekran": {
+          "boyut": "1,43 inç",
+          "tip": "AMOLED"
+        },
+        "sensorler": {
+          "kalp_atisi": "Optik kalp atış hızı sensörü",
+          "oksijen": ""
+        },
+        "koruma": {
+          "ip_sertifikası": "",
+          "dayaniklilik": "5 ATM su geçirmezlik"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Çözünürlük",
+          "value": "466x466 piksel, 326 PPI"
+        },
+        {
+          "key": "Parlaklık",
+          "value": "600 nit'e kadar"
+        },
+        {
+          "key": "Boyutlar",
+          "value": "47,6mm*45,9mm*11,8mm"
+        },
+        {
+          "key": "Ağırlık",
+          "value": "54,5 g (kayışsız)"
+        },
+        {
+          "key": "Bileklik Kayışı Boyut",
+          "value": "135 mm - 205 mm"
+        },
+        {
+          "key": "Bileklik Kayışı Malzemesi",
+          "value": "Floroelastomer Kauçuk/Deri"
+        },
+        {
+          "key": "Bileklik Kayışı Renkleri",
+          "value": "Turuncu, Yeşil, Siyah Turuncu, Kahverengi"
+        },
+        {
+          "key": "Pil Kapasitesi",
+          "value": "495 mAh"
+        },
+        {
+          "key": "İşlemci",
+          "value": "Qualcomm Snapdragon® W5+ Gen 1 Platformu"
+        },
+        {
+          "key": "Depolama ve RAM",
+          "value": "2 GB+32 GB"
+        },
+        {
+          "key": "Network Bands",
+          "value": "4G / 3G / 3G: WCDMA Band 1,5,8"
+        },
+        {
+          "key": "Wireless Networks",
+          "value": "2.4GHz/5GHz Wi-Fi, Bluetooth® 5.2"
+        },
+        {
+          "key": "Uygulama",
+          "value": "Mi Fitness (uygulama sürümü 3.20.0i ve üzeri)"
+        },
+        {
+          "key": "Uyumluluk",
+          "value": "Yalnızca 21.30.12 ve üzeri GMS sürümüne sahip Android 8.0 ve üzeri akıllı telefonları destekler. Android (Go sürümü) desteklenmez"
+        },
+        {
+          "key": "Sensörler",
+          "value": "Optik kalp atış hızı sensörü, İvme ölçer sensörü, Jiroskop sensörü, Ortam ışığı sensörü, Elektronik pusula sensörü, Barometre sensörü, Biyoelektrik empedans analizi sensörü"
+        },
+        {
+          "key": "Navigasyon ve Konumlandırma",
+          "value": "Çift bant: L1+L5, GPS, Galileo, Glonass, BeiDou, QZSS"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Bileklik gövdesi x1, Bileklik kayışı x1, Özel şarj kablosu x1, Kullanım kılavuzu x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 6,
+        "yuzde": "75%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Watch 2",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-watch-2/specs",
+      "category": "watch",
+      "extractedAt": "2025-10-12T20:47:57.836Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "65 saate kadar",
+          "sarj_suresi": "Yaklaşık 45 dakika"
+        },
+        "ekran": {
+          "boyut": "1,43 inç",
+          "tip": "AMOLED"
+        },
+        "sensorler": {
+          "kalp_atisi": "Optik kalp atış hızı sensörü",
+          "oksijen": ""
+        },
+        "koruma": {
+          "ip_sertifikası": "5 ATM",
+          "dayaniklilik": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Çözünürlük",
+          "value": "466x 466 piksel, 326 PPI"
+        },
+        {
+          "key": "Parlaklık",
+          "value": "600 nit'e kadar"
+        },
+        {
+          "key": "Boyutlar",
+          "value": "47,5 mm*45,9 mm*11,8 mm"
+        },
+        {
+          "key": "Ağırlık",
+          "value": "36,8 g (kayışsız)"
+        },
+        {
+          "key": "Bileklik Kayışı Boyut",
+          "value": "140 mm - 210 mm"
+        },
+        {
+          "key": "Bileklik Kayışı Malzemesi",
+          "value": "TPU"
+        },
+        {
+          "key": "Pil Kapasitesi",
+          "value": "495 mAh"
+        },
+        {
+          "key": "İşlemci",
+          "value": "Qualcomm Snapdragon® W5+ Gen 1 Platformu"
+        },
+        {
+          "key": "Üretim İşlem Gücü",
+          "value": "4 nm"
+        },
+        {
+          "key": "Depolama ve RAM",
+          "value": "2 GB+32 GB"
+        },
+        {
+          "key": "Kablosuz Ağlar",
+          "value": "2,4 GHz/5 GHz Wi-Fi, Bluetooth® 5.2"
+        },
+        {
+          "key": "Sensörler",
+          "value": "Optik kalp atış hızı sensörü, İvme ölçer sensörü, Jiroskop sensörü, Ortam ışığı sensörü, Elektronik pusula sensörü, Barometre sensörü"
+        },
+        {
+          "key": "Navigasyon ve Konumlandırma",
+          "value": "Çift bant: L1+L5, GPS, Galileo, Glonass, BeiDou, QZSS"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Xiaomi Watch 2 / Manyetik şarj kablosu / Kullanım Kılavuzu (garanti bildirimi dahil)"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 6,
+        "yuzde": "75%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Watch S3",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-watch-s3/specs",
+      "category": "watch",
+      "extractedAt": "2025-10-12T20:48:31.729Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "Android sistemde tipik kullanım: 15 gün, iOS sistemde tipik kullanım: 14,5 gün, Her zaman açık ekran (AOD) kullanımı: 5 gün",
+          "sarj_suresi": ""
+        },
+        "ekran": {
+          "boyut": "1,43 inç",
+          "tip": "AMOLED"
+        },
+        "sensorler": {
+          "kalp_atisi": "Destekleniyor",
+          "oksijen": "Destekleniyor"
+        },
+        "koruma": {
+          "ip_sertifikası": "5 ATM",
+          "dayaniklilik": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ürün Modeli",
+          "value": "M2323W1"
+        },
+        {
+          "key": "Ürün Malzemesi",
+          "value": "Alüminyum alaşım çerçeve, paslanmaz çelik çerçeve, corning cam"
+        },
+        {
+          "key": "Kayış Malzemesi",
+          "value": "Floroelastomer kauçuk"
+        },
+        {
+          "key": "Ürün Boyutları",
+          "value": "47 mm x 47 mm x 12 mm"
+        },
+        {
+          "key": "Ürün Ağırlığı",
+          "value": "44 g (kayışsız)"
+        },
+        {
+          "key": "Ayarlanabilir Kayış Uzunluğu",
+          "value": "140 - 210 mm"
+        },
+        {
+          "key": "Ekran Çözünürlüğü",
+          "value": "466 × 466, 326 PPI"
+        },
+        {
+          "key": "Pil Kapasitesi",
+          "value": "486 mAh"
+        },
+        {
+          "key": "Pil Tipi",
+          "value": "Lityum iyon polimer pil"
+        },
+        {
+          "key": "Çalışma Sıcaklığı",
+          "value": "-10°C ila 45°C"
+        },
+        {
+          "key": "Sensörler",
+          "value": "Kalp atış hızı sensörü (kan oksijen sensörü ile), ivme ölçer, jiroskop, elektronik pusula, barometre sensörü, ortam ışığı sensörü, hall sensörü"
+        },
+        {
+          "key": "Şarj Bağlantı Noktası",
+          "value": "2 Pimli manyetik şarj standı"
+        },
+        {
+          "key": "Mikrofon",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Hoparlörler",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Sistem Dilleri",
+          "value": "İngilizce, Almanca, İtalyanca, Fransızca, İspanyolca, Felemenkçe, Portekizce, Türkçe, Arapça, Lehçe, Ukraynaca, Rumence, Çekçe, Slovakça, Yunanca, Macarca, İbranice, Rusça, Tayca, Vietnamca, Brezilya Portekizcesi, Endonezce, İsveççe, Fince, Norveççe, Danca, Japonca, Korece, Geleneksel Çince"
+        },
+        {
+          "key": "İşletim Sistemi",
+          "value": "Android 8.0 veya iOS 12.0 ve üzeri sürümler"
+        },
+        {
+          "key": "Uydu Konumlandırma Sistemleri",
+          "value": "BeiDou, GPS, GLONASS, Galileo, QZSS"
+        },
+        {
+          "key": "Kablosuz Bağlantı",
+          "value": "Bluetooth® 5.2"
+        },
+        {
+          "key": "NFC",
+          "value": "YOK"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Saat (çerçeve ve kayış dahil) x1, Şarj standı x1, Kullanım kılavuzu x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 6,
+        "yuzde": "75%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Watch S4",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-watch-s4/specs",
+      "category": "watch",
+      "extractedAt": "2025-10-12T20:49:24.568Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "15 gün",
+          "sarj_suresi": "",
+          "kapasite": "486 mAh"
+        },
+        "ekran": {
+          "boyut": "1,43 inç",
+          "tip": "AMOLED",
+          "cozunurluk": "466 x 466 piksel",
+          "ppi": "326",
+          "yenileme_hizi": "60 Hz",
+          "parlaklik": "1500 nit"
+        },
+        "sensorler": {
+          "kalp_atisi": "Destekleniyor",
+          "oksijen": "Destekleniyor"
+        },
+        "koruma": {
+          "ip_sertifikası": "5 ATM",
+          "dayaniklilik": "Su geçirmezlik derecesi: 50 metre derinliğe eş değer"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Boyutlar",
+          "value": "47,3 mm x 47,3 mm x 12,0 mm"
+        },
+        {
+          "key": "Ağırlık",
+          "value": "Yaklaşık 44,5 g (kutudan çıkan kayış olmadan)"
+        },
+        {
+          "key": "Çerçeve",
+          "value": "Alüminyum alaşımdan çerçeve"
+        },
+        {
+          "key": "Kayış",
+          "value": "Siyah: floroelastomer kauçuk kayış, Ayarlanabilir kayış uzunluğu: Yaklaşık 140-210 mm; Gümüş: floroelastomer kauçuk kayış, Ayarlanabilir kayış uzunluğu: Yaklaşık 140-210 mm; Gökkuşağı: floroelastomer kauçuk kayış + naylon kayış, Ayarlanabilir kayış uzunluğu: Yaklaşık 135-210 mm"
+        },
+        {
+          "key": "Sensörler",
+          "value": "Kalp atış hızı sensörü (kandaki oksijen sensörü dahil) | İvme ölçer | Jiroskop | Ortam ışığı sensörü | Elektronik pusula | Barometre sensörü | Hall sensörü"
+        },
+        {
+          "key": "Uydu konumlandırma sistemleri",
+          "value": "GPS | Galileo | Glonass | BeiDou | QZSS"
+        },
+        {
+          "key": "Dahili GNSS",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Hoparlör",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Mikrofon",
+          "value": "2 mikrofon"
+        },
+        {
+          "key": "NFC",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Bluetooth ile arama",
+          "value": "Destekleniyor"
+        },
+        {
+          "key": "Kablosuz bağlantı",
+          "value": "Bluetooth® 5.3"
+        },
+        {
+          "key": "İşletim sistemi",
+          "value": "Xiaomi HyperOS 2"
+        },
+        {
+          "key": "Uyumluluk",
+          "value": "Android 8.0 veya iOS 14.0 ve üzeri sürümlerin yüklü olduğu akıllı telefonları destekler."
+        },
+        {
+          "key": "Şarj bağlantı noktası",
+          "value": "2 Pimli manyetik şarj standı"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Xiaomi Watch S4 (çerçeve ve kayış dahil) / Manyetik şarj standı / Kullanım kılavuzu (garanti bildirimi dahil)"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 13,
+        "doluAlan": 12,
+        "yuzde": "92%",
+        "ekstraOzellikSayisi": 0
+      }
+    }
+  ]
+}

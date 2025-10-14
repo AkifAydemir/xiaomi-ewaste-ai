@@ -1,0 +1,1046 @@
+{
+  "kategoriAnahtari": "security",
+  "kategoriAdi": "Güvenlik Kameraları",
+  "cekilmeTarihi": "2025-10-12T21:43:06.900Z",
+  "toplamUrunSayisi": 19,
+  "urunler": [
+    {
+      "productName": "Mi 360 ° Ev Güvenlik kamerası 2K Pro",
+      "productUrl": "https://www.mi.com/tr/product/mi-360-home-security-camera-2k-pro/specs",
+      "category": "security",
+      "extractedAt": "2025-10-12T21:12:35.140Z",
+      "features": {
+        "kamera": {
+          "cozunurluk": "1296p",
+          "lens": "110°",
+          "gor_acisi": "110°"
+        },
+        "depolama": {
+          "cloud": "",
+          "sd_kart": "MicroSD kart (32 GB'ye kadar desteklenir)"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi IEEE 802.11a/b/g/n/ac 2,4 GHz/5 GHz"
+        },
+        "koruma": {
+          "ip_sertifikası": "",
+          "dayaniklilik": "-10°C ila 50°C"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ürün model no",
+          "value": "MJSXJ06CM"
+        },
+        {
+          "key": "Güç girişi",
+          "value": "5 V=2 A"
+        },
+        {
+          "key": "Ürün boyutları",
+          "value": "122 x 78 x 78 mm"
+        },
+        {
+          "key": "Video kodlama",
+          "value": "h.265"
+        },
+        {
+          "key": "Desteklenen sistemler",
+          "value": "Android 4.4 veya iOS 9.0 ve üzeri sürümler"
+        },
+        {
+          "key": "Bluetooth",
+          "value": "Bluetooth 4.2"
+        },
+        {
+          "key": "Standart uygulanmıştır",
+          "value": "Q31/0115000198C009-2018-01"
+        },
+        {
+          "key": "Ürünün net ağırlığı",
+          "value": "349 g"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 6,
+        "yuzde": "75%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Mi Dış Mekan Kablosuz Güvenlik Kamerası 1080p (Set Sürümü)",
+      "productUrl": "https://www.mi.com/tr/product/mi-wireless-outdoor-security-camera-1080p/specs",
+      "category": "security",
+      "extractedAt": "2025-10-12T21:13:02.575Z",
+      "features": {
+        "kamera": {
+          "cozunurluk": "1920×1080",
+          "lens": "130°",
+          "gor_acisi": "130°"
+        },
+        "depolama": {
+          "cloud": "destekli",
+          "sd_kart": "32 GB'ye kadar"
+        },
+        "baglanti": {
+          "wifi": "IEEE802.11b/g/n 2,4 GHz"
+        },
+        "koruma": {
+          "ip_sertifikası": "",
+          "dayaniklilik": "-20°C ila 50°C"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Nominal giriş",
+          "value": "5 V, 2 A"
+        },
+        {
+          "key": "Dış mekan kamerası boyutları",
+          "value": "52,7×122×102,6 mm"
+        },
+        {
+          "key": "Dış mekan kamerası net ağırlığı",
+          "value": "273 g"
+        },
+        {
+          "key": "Diyafram açıklığı",
+          "value": "F2,1"
+        },
+        {
+          "key": "Video kodlama",
+          "value": "H.265"
+        },
+        {
+          "key": "Kızılötesi ışıklar",
+          "value": "940 nm kızılötesi ışık × 8"
+        },
+        {
+          "key": "Pil kapasitesi",
+          "value": "5700 mAh"
+        },
+        {
+          "key": "Desteklenen sistemler",
+          "value": "Android 6.0 veya iOS 10 ve üzeri"
+        },
+        {
+          "key": "İç mekan alıcısı boyutları",
+          "value": "110×85×77,1 mm"
+        },
+        {
+          "key": "İç mekan alıcısı net ağırlığı",
+          "value": "88 g"
+        },
+        {
+          "key": "İç mekan alıcısı depolama alanı",
+          "value": "MicroSD kart (32 GB'ye kadar) / USB sürücüsü / bulut depolama alanı"
+        },
+        {
+          "key": "İç mekan alıcısı kablo bağlantısı",
+          "value": "RJ45 Ethernet Bağlantı Noktası"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 7,
+        "yuzde": "88%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Dış Mekân Kamerası AW200",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-outdoor-camera-aw200/specs",
+      "category": "security",
+      "extractedAt": "2025-10-12T21:13:33.954Z",
+      "features": {
+        "kamera": {
+          "cozunurluk": "1920x1080",
+          "lens": "F1.6",
+          "gor_acisi": "120°"
+        },
+        "depolama": {
+          "cloud": "",
+          "sd_kart": "Micro SD kart"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi IEEE 802.11b/g/n 2,4 GHz"
+        },
+        "koruma": {
+          "ip_sertifikası": "",
+          "dayaniklilik": "-20°C ila 50°C"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Nominal giriş",
+          "value": "5 V/1 A"
+        },
+        {
+          "key": "Video kodlama",
+          "value": "H.265"
+        },
+        {
+          "key": "Güç uzatma kabloları",
+          "value": "Kablo boyutu: 18  20  22  24"
+        },
+        {
+          "key": "İzin verilen maksimum uzunluk",
+          "value": "34 m  26 m  18 m  8 m"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 6,
+        "yuzde": "75%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Outdoor Camera AW300",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-outdoor-camera-aw300/specs",
+      "category": "security",
+      "extractedAt": "2025-10-12T21:14:02.956Z",
+      "features": {
+        "kamera": {
+          "cozunurluk": "2304x1296",
+          "lens": "F2.0",
+          "gor_acisi": "101,7°"
+        },
+        "depolama": {
+          "cloud": "Evet",
+          "sd_kart": "32 GB'den 256 GB'ye kadar"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi IEEE 802.11b/g/n 2,4 GHz"
+        },
+        "koruma": {
+          "ip_sertifikası": "",
+          "dayaniklilik": "-30°C ila 60°C"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Nominal Giriş",
+          "value": "12 V⎓1 A"
+        },
+        {
+          "key": "Ürün Boyutları",
+          "value": "173 x 70 x 75 mm"
+        },
+        {
+          "key": "Net Ağırlık",
+          "value": "249 g"
+        },
+        {
+          "key": "Video Codec",
+          "value": "H.265"
+        },
+        {
+          "key": "Gece Görüş Işığı",
+          "value": "850 nm IR lamba x2, LED spot lamba x2"
+        },
+        {
+          "key": "Kamera için Çalışma Sıcaklığı",
+          "value": "-30°C ila 60°C"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 7,
+        "yuzde": "88%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Outdoor Camera BW300",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-outdoor-camera-bw300/specs",
+      "category": "security",
+      "extractedAt": "2025-10-12T21:14:33.847Z",
+      "features": {
+        "kamera": {
+          "cozunurluk": "2K",
+          "lens": "",
+          "gor_acisi": "D130°"
+        },
+        "depolama": {
+          "cloud": "",
+          "sd_kart": ""
+        },
+        "baglanti": {
+          "wifi": ""
+        },
+        "koruma": {
+          "ip_sertifikası": "",
+          "dayaniklilik": ""
+        },
+        "batarya": {
+          "kapasite": "4900 mAh"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ürün Model Numarası",
+          "value": "BW300"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 9,
+        "doluAlan": 3,
+        "yuzde": "33%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Outdoor Camera CW300",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-outdoor-camera-cw300/specs",
+      "category": "security",
+      "extractedAt": "2025-10-12T21:15:05.160Z",
+      "features": {
+        "kamera": {
+          "cozunurluk": "2560 x 1440",
+          "lens": "",
+          "gor_acisi": ""
+        },
+        "depolama": {
+          "cloud": "Bulut depolama",
+          "sd_kart": "MicroSD kart (min. 8G, maks. 256G)"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi IEEE 802.11b/g/n 2,4 GHz"
+        },
+        "koruma": {
+          "ip_sertifikası": "",
+          "dayaniklilik": "Su geçirmez"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Nominal Giriş",
+          "value": "12 V⎓1 A"
+        },
+        {
+          "key": "Ürün Boyutları",
+          "value": "168 x 100 x 123 mm"
+        },
+        {
+          "key": "Video Kodlama",
+          "value": "H.265"
+        },
+        {
+          "key": "Gece Görüş Işığı",
+          "value": "850 nm kızılötesi ışıklar x2 Beyaz ışıklar x2"
+        },
+        {
+          "key": "Çalışma Sıcaklığı",
+          "value": "-30°C ila 60°C"
+        },
+        {
+          "key": "Uyumluluk",
+          "value": "Android 8.0 veya iOS 12.0 veya sonraki sürümleri"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 5,
+        "yuzde": "63%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Outdoor Camera CW400",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-outdoor-camera-cw400/specs",
+      "category": "security",
+      "extractedAt": "2025-10-12T21:15:46.659Z",
+      "features": {
+        "kamera": {
+          "cozunurluk": "2560 x 1440",
+          "lens": "F1.6",
+          "gor_acisi": "113°"
+        },
+        "depolama": {
+          "cloud": "",
+          "sd_kart": "MicroSD kart (256 GB'ye kadar desteklenir)"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi IEEE 802.11b/g/n 2,4 GHz"
+        },
+        "koruma": {
+          "ip_sertifikası": "IP66",
+          "dayaniklilik": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Video Kodlama",
+          "value": "H.265"
+        },
+        {
+          "key": "Nominal Giriş",
+          "value": "12 V/1 A"
+        },
+        {
+          "key": "Ürün Çalışma Sıcaklığı",
+          "value": "-30°C ila 60°C"
+        },
+        {
+          "key": "Adaptör Çalışma Sıcaklığı",
+          "value": "-30°C ila 45°C"
+        },
+        {
+          "key": "Uyumluluk",
+          "value": "Android 8.0 veya iOS 12.0 ve üzeri sürümler"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 6,
+        "yuzde": "75%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Dış Mekan Kamerası CW500 Dual",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-outdoor-camera-cw500-dual/specs",
+      "category": "security",
+      "extractedAt": "2025-10-12T21:16:17.880Z",
+      "features": {
+        "kamera": {
+          "cozunurluk": "2560 x 1440",
+          "lens": "F/1,6",
+          "gor_acisi": ""
+        },
+        "depolama": {
+          "cloud": "Xiaomi Cloud depolama",
+          "sd_kart": "MicroSD kart (16 GB ila 256 GB desteklenir)"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi IEEE 802.11 b/g/n/a/ac/ax 2,4 GHz/5 GHz"
+        },
+        "koruma": {
+          "ip_sertifikası": "IP66",
+          "dayaniklilik": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Video kodlama",
+          "value": "H.265"
+        },
+        {
+          "key": "Uyumluluk",
+          "value": "Android 8.0 veya iOS 12.0 ve üzeri sürümler"
+        },
+        {
+          "key": "Nominal giriş",
+          "value": "12 V/1 A"
+        },
+        {
+          "key": "Çalışma sıcaklığı (tam ünite)",
+          "value": "-30°C ila 60°C"
+        },
+        {
+          "key": "Çalışma sıcaklığı (adaptör)",
+          "value": "-30°C ila 45°C"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 6,
+        "yuzde": "75%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Dış Mekân Kamerası CW700S",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-outdoor-camera-cw700s/specs",
+      "category": "security",
+      "extractedAt": "2025-10-12T21:16:45.818Z",
+      "features": {
+        "kamera": {
+          "cozunurluk": "2560 x 1440",
+          "lens": "F/1,6",
+          "gor_acisi": ""
+        },
+        "depolama": {
+          "cloud": "Xiaomi Cloud depolama",
+          "sd_kart": "MicroSD kart (8 GB ila 256 GB)"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi IEEE 802.11 b/g/n 2,4 GHz"
+        },
+        "koruma": {
+          "ip_sertifikası": "IP66",
+          "dayaniklilik": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Video kodlama",
+          "value": "H.265"
+        },
+        {
+          "key": "Uyumluluk",
+          "value": "Android 8.0 veya iOS 12.0 ve üzeri sürümler"
+        },
+        {
+          "key": "Nominal giriş",
+          "value": "12 V/1 A"
+        },
+        {
+          "key": "Ürün çalışma sıcaklığı",
+          "value": "-30°C ila 60°C"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 6,
+        "yuzde": "75%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Dış Mekân Kamerası Güneş Paneli (BW Serisi)",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-outdoor-camera-solar-panel-bw-series/specs",
+      "category": "security",
+      "extractedAt": "2025-10-12T21:17:15.240Z",
+      "features": {
+        "kamera": {
+          "cozunurluk": "",
+          "lens": "",
+          "gor_acisi": ""
+        },
+        "depolama": {
+          "cloud": "",
+          "sd_kart": ""
+        },
+        "baglanti": {
+          "wifi": ""
+        },
+        "koruma": {
+          "ip_sertifikası": "IP66",
+          "dayaniklilik": "-20°C ila 55°C"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Maks. Çıkış Gücü",
+          "value": "5 W"
+        },
+        {
+          "key": "Açık Devre Voltajı",
+          "value": "6,8 V"
+        },
+        {
+          "key": "Kablo Uzunluğu",
+          "value": "3 ± 0.1 m"
+        },
+        {
+          "key": "Ürün Boyutu",
+          "value": "218 x 178 x 16 mm"
+        },
+        {
+          "key": "Ambalaj İçeriği",
+          "value": "Güneş panelleri x1, Kullanım kılavuzu x1, Vida x4, Dübelli vida x4, Güneş enerjisi braketi x1, Konumlandırma etiketi x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 2,
+        "yuzde": "25%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Smart Camera C200",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-smart-camera-c200/specs",
+      "category": "security",
+      "extractedAt": "2025-10-12T21:17:45.534Z",
+      "features": {
+        "kamera": {
+          "cozunurluk": "",
+          "lens": "",
+          "gor_acisi": ""
+        },
+        "depolama": {
+          "cloud": "",
+          "sd_kart": "MicroSD kart (256 GB'ye kadar)"
+        },
+        "baglanti": {
+          "wifi": ""
+        },
+        "koruma": {
+          "ip_sertifikası": "",
+          "dayaniklilik": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Model",
+          "value": "MJSXJ14CM"
+        },
+        {
+          "key": "Giriş",
+          "value": "5 V DC 2 A"
+        },
+        {
+          "key": "Çalışma Sıcaklığı",
+          "value": "-10℃~40℃"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 1,
+        "yuzde": "13%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Smart Camera C300 Dual",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-smart-camera-c300-dual/specs",
+      "category": "security",
+      "extractedAt": "2025-10-12T21:18:12.129Z",
+      "features": {
+        "kamera": {
+          "cozunurluk": "2304 x 1296",
+          "lens": "",
+          "gor_acisi": ""
+        },
+        "depolama": {
+          "cloud": "",
+          "sd_kart": "MicroSD card (16 GB to 256 GB)"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi IEEE 802.11 a/b/g/n/ac/ax 2.4 GHz/5GHz"
+        },
+        "koruma": {
+          "ip_sertifikası": "",
+          "dayaniklilik": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Rated Input",
+          "value": "5V⎓2A"
+        },
+        {
+          "key": "Net Weight",
+          "value": "Approx. 384g"
+        },
+        {
+          "key": "Item Dimensions",
+          "value": "78 x 78 x 126mm"
+        },
+        {
+          "key": "Video Codec",
+          "value": "H.265"
+        },
+        {
+          "key": "Operating Temperature",
+          "value": "-10°C to 40°C"
+        },
+        {
+          "key": "Wireless Connectivity",
+          "value": "Wi-Fi IEEE 802.11 a/b/g/n/ac/ax 2.4 GHz/5GHz, Bluetooth 5.3"
+        },
+        {
+          "key": "Compatible with",
+          "value": "Android 8.0 & iOS 12.0 or above"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 3,
+        "yuzde": "38%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Akıllı Kamera C300",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-smart-camera-c300/specs",
+      "category": "security",
+      "extractedAt": "2025-10-12T21:18:49.197Z",
+      "features": {
+        "kamera": {
+          "cozunurluk": "2304 x 1296",
+          "lens": "F1.4",
+          "gor_acisi": ""
+        },
+        "depolama": {
+          "cloud": "",
+          "sd_kart": "Micro SD kart (256 GB'ye kadar desteklenir)"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi IEEE 802.11b/g/n 2,4 GHz"
+        },
+        "koruma": {
+          "ip_sertifikası": "",
+          "dayaniklilik": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ürün model no.",
+          "value": "XMC01"
+        },
+        {
+          "key": "Ürün boyutları",
+          "value": "115 x 78 x 78 mm"
+        },
+        {
+          "key": "Uyumluluk",
+          "value": "Android 4.4 veya iOS 9.0 ve üzeri sürümler"
+        },
+        {
+          "key": "Ürünün net ağırlığı",
+          "value": "327g"
+        },
+        {
+          "key": "Güç girişi",
+          "value": "5 V=1 A"
+        },
+        {
+          "key": "Video kodlama",
+          "value": "H.265"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 4,
+        "yuzde": "50%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Akıllı Kamera C301",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-smart-camera-c301/specs",
+      "category": "security",
+      "extractedAt": "2025-10-12T21:19:20.867Z",
+      "features": {
+        "kamera": {
+          "cozunurluk": "2304 x 1296",
+          "lens": "",
+          "gor_acisi": ""
+        },
+        "depolama": {
+          "cloud": "Bulut depolama",
+          "sd_kart": "MicroSD kart (8 GB-256 GB desteklenir)"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi IEEE 802.11b/g/n 2,4 GHz"
+        },
+        "koruma": {
+          "ip_sertifikası": "",
+          "dayaniklilik": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Nominal Giriş",
+          "value": "5 V⎓1 A"
+        },
+        {
+          "key": "Ürün Boyutları",
+          "value": "78 x 76 x 115 mm"
+        },
+        {
+          "key": "Video Codec",
+          "value": "H.265"
+        },
+        {
+          "key": "Çalışma Sıcaklığı",
+          "value": "-10℃～45℃"
+        },
+        {
+          "key": "Uyumluluk",
+          "value": "Android 8.0, iOS 12.0 veya sonraki sürümleri"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 4,
+        "yuzde": "50%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Smart Camera C400",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-smart-camera-c400/specs",
+      "category": "security",
+      "extractedAt": "2025-10-12T21:19:50.676Z",
+      "features": {
+        "kamera": {
+          "cozunurluk": "2560 x 1440",
+          "lens": "",
+          "gor_acisi": ""
+        },
+        "depolama": {
+          "cloud": "",
+          "sd_kart": "microSD kart (256 GB'ye kadar)"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi IEEE 802.11a/b/g/n 2,4 / 5 GHz"
+        },
+        "koruma": {
+          "ip_sertifikası": "",
+          "dayaniklilik": "Çalışma Sıcaklığı: -10℃ - 40℃"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Model",
+          "value": "MJSXJ11CM"
+        },
+        {
+          "key": "Net Ağırlık",
+          "value": "Yaklaşık 318g"
+        },
+        {
+          "key": "Giriş",
+          "value": "5 V⎓2 A"
+        },
+        {
+          "key": "Ürün Boyutları",
+          "value": "119 x 78 x 78 mm"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Xiaomi Akıllı Kamera C400 x1, Kullanım kılavuzu x1, Güç kablosu x1, Duvara montaj aksesuarları paketi x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 4,
+        "yuzde": "50%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Akıllı Kamera C500 Dual",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-smart-camera-c500-dual/specs",
+      "category": "security",
+      "extractedAt": "2025-10-12T21:20:22.059Z",
+      "features": {
+        "kamera": {
+          "cozunurluk": "2560 x 1440",
+          "lens": "",
+          "gor_acisi": ""
+        },
+        "depolama": {
+          "cloud": "bulut depolama",
+          "sd_kart": "MicroSD kart (16 GB-256 GB desteklenir)"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi IEEE 802.11 a/b/g/n/ac/ax 2,4GHz/5 GHz"
+        },
+        "koruma": {
+          "ip_sertifikası": "",
+          "dayaniklilik": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Nominal giriş",
+          "value": "5 V⎓2 A"
+        },
+        {
+          "key": "Net ağırlık",
+          "value": "Yaklaşık 305 g"
+        },
+        {
+          "key": "Ürün boyutları",
+          "value": "78 x 77 x 128 mm"
+        },
+        {
+          "key": "Video kodlama",
+          "value": "H.265"
+        },
+        {
+          "key": "Bluetooth",
+          "value": "Bluetooth 5.3"
+        },
+        {
+          "key": "Uyumluluk",
+          "value": "Android 8.0 veya iOS 12.0 ve üzeri sürümler"
+        },
+        {
+          "key": "NAS ağa bağlı depolama",
+          "value": "desteklenir"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 4,
+        "yuzde": "50%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Akıllı Kamera C500 Pro",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-smart-camera-c500-pro/specs",
+      "category": "security",
+      "extractedAt": "2025-10-12T21:20:59.743Z",
+      "features": {
+        "kamera": {
+          "cozunurluk": "2960 x 1666",
+          "lens": "",
+          "gor_acisi": ""
+        },
+        "depolama": {
+          "cloud": "",
+          "sd_kart": "MicroSD kart (8 GB-256 GB)"
+        },
+        "baglanti": {
+          "wifi": "2,4 GHz/5 GHz, Bluetooth 5.2, Wi-Fi IEEE 802.11a/b/g/n"
+        },
+        "koruma": {
+          "ip_sertifikası": "",
+          "dayaniklilik": "-10°C ila 45°C"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ürün Modeli",
+          "value": "MJSXJ16CM"
+        },
+        {
+          "key": "Ürün Boyutları",
+          "value": "78 x 78 x 124 mm"
+        },
+        {
+          "key": "Ürünün Net Ağırlığı",
+          "value": "301 g"
+        },
+        {
+          "key": "Güç Girişi",
+          "value": "5 V⎓2 A"
+        },
+        {
+          "key": "Video Kodlama",
+          "value": "H.265"
+        },
+        {
+          "key": "Wi-Fi Maksimum Çıkış Gücü",
+          "value": "2400–2483,5 MHz: < 20 dBm; 5150–5350 MHz: < 23 dBm; 5470–5725 MHz: < 23 dBm; 5725–5850 MHz: < 14 dBm"
+        },
+        {
+          "key": "Bluetooth Maksimum Çıkış Gücü",
+          "value": "2402–2480 MHz: < 10 dBm"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Ana ünite x1, Kullanım kılavuzu x1, Güç kablosu x1, Duvara montaj aksesuar paketi x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 4,
+        "yuzde": "50%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Akıllı Kamera C700",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-smart-camera-c700/specs",
+      "category": "security",
+      "extractedAt": "2025-10-12T21:21:38.320Z",
+      "features": {
+        "kamera": {
+          "cozunurluk": "3840 x 2160",
+          "lens": "",
+          "gor_acisi": ""
+        },
+        "depolama": {
+          "cloud": "",
+          "sd_kart": "MicroSD kart (8-256 GB)"
+        },
+        "baglanti": {
+          "wifi": "Wi-Fi IEEE 802.11 a/b/g/n/ac/ax 2,4 GHz/5 GHz"
+        },
+        "koruma": {
+          "ip_sertifikası": "",
+          "dayaniklilik": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Nominal giriş",
+          "value": "5 V⎓2 A"
+        },
+        {
+          "key": "Net Ağırlık",
+          "value": "Yaklaşık 362 g"
+        },
+        {
+          "key": "Ürün Boyutları",
+          "value": "82 x 82 x 130 mm"
+        },
+        {
+          "key": "Video Codec",
+          "value": "H.265"
+        },
+        {
+          "key": "Çalışma Sıcaklığı",
+          "value": "-10°C - 40°C"
+        },
+        {
+          "key": "Bluetooth",
+          "value": "Bluetooth 5.3"
+        },
+        {
+          "key": "Uyumluluk",
+          "value": "Android 8.0, iOS 12.0 veya sonraki sürümleri"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 8,
+        "doluAlan": 3,
+        "yuzde": "38%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Solar Outdoor Camera BW400 Pro Set",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-solar-outdoor-camera-bw-400-pro-set/specs",
+      "category": "security",
+      "extractedAt": "2025-10-12T21:22:14.018Z",
+      "features": {
+        "kamera": {
+          "cozunurluk": "2,5K",
+          "lens": "",
+          "gor_acisi": "132°"
+        },
+        "depolama": {
+          "cloud": "",
+          "sd_kart": ""
+        },
+        "baglanti": {
+          "wifi": ""
+        },
+        "koruma": {
+          "ip_sertifikası": "",
+          "dayaniklilik": ""
+        },
+        "batarya": {
+          "kapasite": "10000 mAh"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ürün Modeli",
+          "value": "BW400 Pro"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Ana ünite x1, Kullanım kılavuzu x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 9,
+        "doluAlan": 3,
+        "yuzde": "33%",
+        "ekstraOzellikSayisi": 0
+      }
+    }
+  ]
+}

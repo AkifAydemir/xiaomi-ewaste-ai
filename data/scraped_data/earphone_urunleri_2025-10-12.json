@@ -1,0 +1,967 @@
+{
+  "kategoriAnahtari": "earphone",
+  "kategoriAdi": "Kulaklıklar",
+  "cekilmeTarihi": "2025-10-12T21:43:06.892Z",
+  "toplamUrunSayisi": 11,
+  "urunler": [
+    {
+      "productName": "Redmi Buds 5 Pro",
+      "productUrl": "https://www.mi.com/tr/product/redmi-buds-5-pro/specs",
+      "category": "earphone",
+      "extractedAt": "2025-10-12T20:56:19.906Z",
+      "features": {
+        "batarya": {
+          "kulaklik": "54 mAh",
+          "kutu": "480 mAh",
+          "kullanim_suresi": ""
+        },
+        "ses": {
+          "driver_boyutu": "",
+          "anc": "",
+          "codec": ""
+        },
+        "baglanti": {
+          "bluetooth": "Bluetooth® Düşük Enerji / HFP / A2DP / AVRCP",
+          "bluetooth_versiyon": "Bluetooth 5.3"
+        },
+        "koruma": {
+          "ip_sertifikası": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Model",
+          "value": "M2317E1"
+        },
+        {
+          "key": "Renk",
+          "value": "Gece Yarısı Siyahı, Ay Işığı Beyazı, Gece Moru"
+        },
+        {
+          "key": "Tek kulaklığın ağırlığı",
+          "value": "5,1 g (±0,2 g)"
+        },
+        {
+          "key": "Tek kulaklığın boyutu",
+          "value": "6,5 x 6,5 x 29,7 mm"
+        },
+        {
+          "key": "Şarj kutusunun ağırlığı",
+          "value": "32,6 g（±1 g）"
+        },
+        {
+          "key": "Şarj kutusunun boyutları",
+          "value": "61 mm x 46,8 mm x 25 mm"
+        },
+        {
+          "key": "Toplam ağırlık",
+          "value": "42,8 g（±1 g）"
+        },
+        {
+          "key": "Şarj bağlantı noktası",
+          "value": "Type-C"
+        },
+        {
+          "key": "Kulaklık giriş parametreleri",
+          "value": "5 V ⎓ 160 mA MAKS"
+        },
+        {
+          "key": "Şarj kutusu giriş parametreleri",
+          "value": "5 V ⎓ 700 mA MAKS"
+        },
+        {
+          "key": "Şarj kutusu çıkış parametreleri",
+          "value": "5 V ⎓ 320 mA MAKS"
+        },
+        {
+          "key": "İletişim aralığı",
+          "value": "10 m (engelsiz açık alan)"
+        },
+        {
+          "key": "Hoparlör empedansı",
+          "value": "16 Ω"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 9,
+        "doluAlan": 4,
+        "yuzde": "44%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Redmi Buds 5",
+      "productUrl": "https://www.mi.com/tr/product/redmi-buds-5/specs",
+      "category": "earphone",
+      "extractedAt": "2025-10-12T20:56:51.464Z",
+      "features": {
+        "batarya": {
+          "kulaklik": "54 mAh",
+          "kutu": "480 mAh",
+          "kullanim_suresi": ""
+        },
+        "ses": {
+          "driver_boyutu": "",
+          "anc": "",
+          "codec": ""
+        },
+        "baglanti": {
+          "bluetooth": "Bluetooth® 5.3",
+          "bluetooth_versiyon": "5.3"
+        },
+        "koruma": {
+          "ip_sertifikası": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Model",
+          "value": "M2316E1"
+        },
+        {
+          "key": "Renk",
+          "value": "Siyah, Beyaz, Gökyüzü Mavisi"
+        },
+        {
+          "key": "Tek bir kulaklığın ağırlığı",
+          "value": "5,3 g"
+        },
+        {
+          "key": "Tek kulaklığın boyutu",
+          "value": "29,5 x 21,4 x 23,5 mm"
+        },
+        {
+          "key": "Şarj kutusunun ağırlığı",
+          "value": "31,4 g"
+        },
+        {
+          "key": "Şarj kutusunun boyutları",
+          "value": "61 x 50 x 24,6 mm"
+        },
+        {
+          "key": "Toplam ağırlık",
+          "value": "42 g"
+        },
+        {
+          "key": "Şarj bağlantı noktası",
+          "value": "Type-C"
+        },
+        {
+          "key": "Kulaklık giriş parametreleri",
+          "value": "5 V - 150 mA"
+        },
+        {
+          "key": "Şarj kutusu giriş parametreleri",
+          "value": "5 V - 500 mA"
+        },
+        {
+          "key": "Şarj kutusu çıkış parametreleri",
+          "value": "5 V - 320 mA"
+        },
+        {
+          "key": "Bluetooth protokolleri",
+          "value": "HSP, HFP, A2DP, AVRCP"
+        },
+        {
+          "key": "İletişim aralığı",
+          "value": "10 m (engelsiz açık alan)"
+        },
+        {
+          "key": "Hoparlör empedansı",
+          "value": "32 Ω"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 9,
+        "doluAlan": 4,
+        "yuzde": "44%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Redmi Buds 6 Active",
+      "productUrl": "https://www.mi.com/tr/product/redmi-buds-6-active/specs",
+      "category": "earphone",
+      "extractedAt": "2025-10-12T20:57:20.785Z",
+      "features": {
+        "batarya": {
+          "kulaklik": "37mAh",
+          "kutu": "475mAh",
+          "kullanim_suresi": "36 saat"
+        },
+        "ses": {
+          "driver_boyutu": "",
+          "anc": "",
+          "codec": ""
+        },
+        "baglanti": {
+          "bluetooth": "",
+          "bluetooth_versiyon": "Bluetooth® 5.4"
+        },
+        "koruma": {
+          "ip_sertifikası": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Model",
+          "value": "M2344E1"
+        },
+        {
+          "key": "Renk",
+          "value": "Siyah, Beyaz, Mavi, Pembe"
+        },
+        {
+          "key": "Tek kulaklığın ağırlığı",
+          "value": "4 g"
+        },
+        {
+          "key": "Toplam ağırlık",
+          "value": "36 g"
+        },
+        {
+          "key": "Tek kulaklığın boyutu",
+          "value": "32 x 17,8 x 18,5 mm"
+        },
+        {
+          "key": "Şarj kutusunun boyutları",
+          "value": "49 x 48,6 x 23 mm"
+        },
+        {
+          "key": "Kulaklıklar şarj süresi",
+          "value": "90 dakika"
+        },
+        {
+          "key": "Şarj kutusu şarj süresi",
+          "value": "120 dakika"
+        },
+        {
+          "key": "Şarj bağlantı noktası",
+          "value": "USB Type-C"
+        },
+        {
+          "key": "Kulaklık giriş parametreleri",
+          "value": "5V ⎓ 50 mA MAKS（tek kulaklık）"
+        },
+        {
+          "key": "Tek şarjla pil ömrü",
+          "value": "6 saat"
+        },
+        {
+          "key": "Şarj kutusunun pil ömrü",
+          "value": "30 saat"
+        },
+        {
+          "key": "İletişim aralığı",
+          "value": "10 m (engelsiz açık alan)"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 9,
+        "doluAlan": 4,
+        "yuzde": "44%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Redmi Buds 6 Lite",
+      "productUrl": "https://www.mi.com/tr/product/redmi-buds-6-lite/specs",
+      "category": "earphone",
+      "extractedAt": "2025-10-12T20:57:52.002Z",
+      "features": {
+        "batarya": {
+          "kulaklik": "45 mAh",
+          "kutu": "480 mAh",
+          "kullanim_suresi": "7 saat (kulaklık), 38 saat (şarj kutusu)"
+        },
+        "ses": {
+          "driver_boyutu": "",
+          "anc": "",
+          "codec": "AAC"
+        },
+        "baglanti": {
+          "bluetooth": "Bluetooth® 5.3",
+          "bluetooth_versiyon": "5.3"
+        },
+        "koruma": {
+          "ip_sertifikası": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Renk",
+          "value": "Mavi, Beyaz, Siyah"
+        },
+        {
+          "key": "Frekans tepkisi aralığı",
+          "value": "20 Hz - 20 kHz"
+        },
+        {
+          "key": "Tek bir kulaklığın ağırlığı",
+          "value": "4,2 g（±0,2 g）"
+        },
+        {
+          "key": "Tek bir kulaklığın boyutları",
+          "value": "31 mm * 21,4 mm * 23,45 mm"
+        },
+        {
+          "key": "Şarj kutusunun ağırlığı",
+          "value": "38,5 g（±1 g）"
+        },
+        {
+          "key": "Şarj kutusunun boyutları",
+          "value": "57 mm * 55,95 mm * 26,85 mm"
+        },
+        {
+          "key": "Toplam ağırlık",
+          "value": "47 g（±1 g）"
+        },
+        {
+          "key": "Şarj bağlantı noktası",
+          "value": "Type-C"
+        },
+        {
+          "key": "Kulaklık giriş parametreleri",
+          "value": "5 V ⎓ 100 mA"
+        },
+        {
+          "key": "Şarj kutusu giriş parametreleri",
+          "value": "5 V ⎓ 500 mA MAKS"
+        },
+        {
+          "key": "Şarj kutusu çıkış parametreleri",
+          "value": "5 V ⎓ 200 mA MAKS"
+        },
+        {
+          "key": "Bluetooth protokolleri",
+          "value": "Bluetooth® Düşük Enerji / HFP / A2DP / AVRCP"
+        },
+        {
+          "key": "İletişim aralığı",
+          "value": "10 m (engelsiz açık alan)"
+        },
+        {
+          "key": "Hoparlör empedansı",
+          "value": "32 Ω"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 9,
+        "doluAlan": 6,
+        "yuzde": "67%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Redmi Buds 6 Play",
+      "productUrl": "https://www.mi.com/tr/product/redmi-buds-6-play/specs",
+      "category": "earphone",
+      "extractedAt": "2025-10-12T20:58:31.069Z",
+      "features": {
+        "batarya": {
+          "kulaklik": "57 mAh",
+          "kutu": "600 mAh",
+          "kullanim_suresi": "7,5 saat"
+        },
+        "ses": {
+          "driver_boyutu": "",
+          "anc": "",
+          "codec": ""
+        },
+        "baglanti": {
+          "bluetooth": "Bluetooth® 5.4",
+          "bluetooth_versiyon": "5.4"
+        },
+        "koruma": {
+          "ip_sertifikası": ""
+        },
+        "otherFeatures": [
+          {
+            "key": "Model",
+            "value": "M2420E1"
+          },
+          {
+            "key": "Renk",
+            "value": "Siyah, Beyaz"
+          },
+          {
+            "key": "Frekans tepkisi aralığı",
+            "value": "20 Hz~20 KHz"
+          },
+          {
+            "key": "Tek kulaklığın ağırlığı",
+            "value": "3,6 g"
+          },
+          {
+            "key": "Tek bir kulaklığın boyutları",
+            "value": "Uzunluk 20,6*Genişlik 14,5*Yükseklik 22 mm"
+          },
+          {
+            "key": "Şarj kutusunun ağırlığı",
+            "value": "32,8 g"
+          },
+          {
+            "key": "Şarj kutusunun boyutları",
+            "value": "Uzunluk 53,9*Genişlik 53,9*Yükseklik 27,4 mm"
+          },
+          {
+            "key": "Toplam ağırlık",
+            "value": "40,0 g"
+          },
+          {
+            "key": "Şarj bağlantı noktası",
+            "value": "TYPE-C"
+          },
+          {
+            "key": "Kulaklık giriş parametreleri",
+            "value": "5 V 170 mA"
+          },
+          {
+            "key": "Şarj kutusu giriş parametreleri",
+            "value": "5 V 800 mA"
+          },
+          {
+            "key": "Şarj kutusu çıkış parametreleri",
+            "value": "5 V 340 mA"
+          },
+          {
+            "key": "Şarj kutusunun pil ömrü",
+            "value": "36 saat"
+          },
+          {
+            "key": "Bluetooth protokolleri",
+            "value": "Bluetooth® Düşük Enerji / HFP / A2DP / AVRCP"
+          },
+          {
+            "key": "İletişim aralığı",
+            "value": "10 m (engelsiz açık alan)"
+          },
+          {
+            "key": "Hoparlör empedansı",
+            "value": "16 Ω Nominal güç 5 mw Maksimum güç 10 mw"
+          },
+          {
+            "key": "Paket İçeriği",
+            "value": "Redmi Buds 6 Play ×1, Şarj kutusu x 1, Kullanım kılavuzu x1, Küçük kulaklık ucu x1, Büyük kulaklık ucu x1"
+          }
+        ]
+      },
+      "extractionQuality": {
+        "toplamAlan": 9,
+        "doluAlan": 5,
+        "yuzde": "56%",
+        "ekstraOzellikSayisi": 17
+      }
+    },
+    {
+      "productName": "Redmi Buds 6 Pro",
+      "productUrl": "https://www.mi.com/tr/product/redmi-buds-6-pro/specs",
+      "category": "earphone",
+      "extractedAt": "2025-10-12T20:59:09.623Z",
+      "features": {
+        "batarya": {
+          "kulaklik": "54 mAh",
+          "kutu": "480 mAh",
+          "kullanim_suresi": ""
+        },
+        "ses": {
+          "driver_boyutu": "",
+          "anc": "",
+          "codec": ""
+        },
+        "baglanti": {
+          "bluetooth": "",
+          "bluetooth_versiyon": "Bluetooth® 5.3"
+        },
+        "koruma": {
+          "ip_sertifikası": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Model",
+          "value": "M2430E1"
+        },
+        {
+          "key": "Renk",
+          "value": "Uzay Siyahı, Buzul Beyazı, Lavanta Moru"
+        },
+        {
+          "key": "Tek kulaklığın boyutları",
+          "value": "30,6 mm*21,4 mm*24,5 mm"
+        },
+        {
+          "key": "Şarj kutusunun boyutları",
+          "value": "61,05*48,28*25,17 mm"
+        },
+        {
+          "key": "Tek kulaklığın ağırlığı",
+          "value": "Yaklaşık 5,2 g"
+        },
+        {
+          "key": "Şarj kutusunun ağırlığı",
+          "value": "Yaklaşık 36,1 g"
+        },
+        {
+          "key": "Toplam ağırlık",
+          "value": "Yaklaşık 46,5 g"
+        },
+        {
+          "key": "Şarj bağlantı noktası",
+          "value": "Type-C"
+        },
+        {
+          "key": "Kulaklık giriş parametreleri",
+          "value": "5 V⎓160 mA MAKS"
+        },
+        {
+          "key": "Şarj kutusu giriş parametreleri",
+          "value": "5 V⎓700 mA MAKS"
+        },
+        {
+          "key": "Şarj kutusu çıkış parametreleri",
+          "value": "5 V⎓320 mA MAKS"
+        },
+        {
+          "key": "Bluetooth protokolleri",
+          "value": "Bluetooth® Düşük Enerji / HFP / A2DP / AVRCP"
+        },
+        {
+          "key": "İletişim aralığı",
+          "value": "10 m (engelsiz açık alan)"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 9,
+        "doluAlan": 3,
+        "yuzde": "33%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Redmi Buds 6",
+      "productUrl": "https://www.mi.com/tr/product/redmi-buds-6/specs",
+      "category": "earphone",
+      "extractedAt": "2025-10-12T20:59:47.231Z",
+      "features": {
+        "batarya": {
+          "kulaklik": "54mAH",
+          "kutu": "475mAH",
+          "kullanim_suresi": ""
+        },
+        "ses": {
+          "driver_boyutu": "",
+          "anc": "",
+          "codec": ""
+        },
+        "baglanti": {
+          "bluetooth": "Bluetooth® Düşük Enerji / HFP / A2DP / AVRCP",
+          "bluetooth_versiyon": "5.4"
+        },
+        "koruma": {
+          "ip_sertifikası": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Model",
+          "value": "M2429E1"
+        },
+        {
+          "key": "Renk",
+          "value": "Gece Siyahı, Bulut Beyazı, Mercan Yeşili"
+        },
+        {
+          "key": "Tek kulaklığın boyutları",
+          "value": "31,13 mm*21,34 mm*23,5 mm"
+        },
+        {
+          "key": "Şarj kutusunun boyutları",
+          "value": "61,01 mm*51,71 mm*24,80 mm"
+        },
+        {
+          "key": "Tek kulaklığın ağırlığı",
+          "value": "5,0 g"
+        },
+        {
+          "key": "Toplam ağırlık",
+          "value": "43,2 g"
+        },
+        {
+          "key": "Şarj bağlantı noktası",
+          "value": "USB-C"
+        },
+        {
+          "key": "Kulaklık giriş parametreleri",
+          "value": "5 V 150 mA"
+        },
+        {
+          "key": "Şarj kutusu giriş parametreleri",
+          "value": "5 V 500 mA"
+        },
+        {
+          "key": "Şarj kutusu çıkış parametreleri",
+          "value": "5 V 300 mA"
+        },
+        {
+          "key": "İletişim aralığı",
+          "value": "10 m (engelsiz açık alan)"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Redmi Buds 6 x2, Şarj kutusu x1, Type-C şarj kablosu x1, Kullanım kılavuzu x1, Küçük kulaklık ucu x2, Büyük kulaklık ucu x2, Yepyeni pil gösterge ışığı şeridi"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 9,
+        "doluAlan": 4,
+        "yuzde": "44%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Buds 5 Pro",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-buds-5-pro/specs",
+      "category": "earphone",
+      "extractedAt": "2025-10-12T21:00:34.781Z",
+      "features": {
+        "batarya": {
+          "kulaklik": "53 mAh",
+          "kutu": "570 mAh",
+          "kullanim_suresi": ""
+        },
+        "ses": {
+          "driver_boyutu": "",
+          "anc": "",
+          "codec": ""
+        },
+        "baglanti": {
+          "bluetooth": "Bluetooth® Düşük Enerji / HFP / A2DP / AVRCP",
+          "bluetooth_versiyon": "5.4"
+        },
+        "koruma": {
+          "ip_sertifikası": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Model",
+          "value": "M2437E1"
+        },
+        {
+          "key": "Renk",
+          "value": "Titan Grisi, Seramik Beyazı, Şeffaf Siyah"
+        },
+        {
+          "key": "Tek kulaklığın boyutları",
+          "value": "25,78 mm * 31,39 mm * 21,24 mm (M boy kulaklık uçları)"
+        },
+        {
+          "key": "Şarj kutusunun boyutları",
+          "value": "60,5 mm * 48,45 mm * 26,79 mm"
+        },
+        {
+          "key": "Tek kulaklığın ağırlığı",
+          "value": "5,6 g (±0,1 g)"
+        },
+        {
+          "key": "Şarj kutusunun ağırlığı",
+          "value": "41,8 g (±0,5 g)"
+        },
+        {
+          "key": "Toplam ağırlık",
+          "value": "53 g (±1 g)"
+        },
+        {
+          "key": "Şarj bağlantı noktası",
+          "value": "Type-C"
+        },
+        {
+          "key": "Kulaklık giriş parametreleri",
+          "value": "5 V⎓270 mA"
+        },
+        {
+          "key": "Şarj kutusu giriş parametreleri",
+          "value": "5 V⎓2000 mA"
+        },
+        {
+          "key": "Şarj kutusu çıkış parametreleri",
+          "value": "5 V ⎓ 540 mA"
+        },
+        {
+          "key": "İletişim aralığı",
+          "value": "10 m (engelsiz açık alan)"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Xiaomi Buds 5 Pro x1, Şarj kutusu x1, Type-C şarj kablosu x1, Kullanım kılavuzu x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 9,
+        "doluAlan": 4,
+        "yuzde": "44%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Buds 5",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-buds-5/specs",
+      "category": "earphone",
+      "extractedAt": "2025-10-12T21:01:27.273Z",
+      "features": {
+        "batarya": {
+          "kulaklik": "35mAh",
+          "kutu": "480mAh",
+          "kullanim_suresi": ""
+        },
+        "ses": {
+          "driver_boyutu": "",
+          "anc": "",
+          "codec": ""
+        },
+        "baglanti": {
+          "bluetooth": "",
+          "bluetooth_versiyon": "5.4"
+        },
+        "koruma": {
+          "ip_sertifikası": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Model",
+          "value": "M2341E1"
+        },
+        {
+          "key": "Colour",
+          "value": "Graphite Black, Ceramic White, Titan Gray"
+        },
+        {
+          "key": "Frequency response range",
+          "value": "16Hz-40kHz"
+        },
+        {
+          "key": "Dimensions of a single earbud",
+          "value": "30mm*20.16mm*17.18mm"
+        },
+        {
+          "key": "Dimensions of charging case",
+          "value": "53.9mm*53.2mm*24.5mm"
+        },
+        {
+          "key": "Weight of a single earbud",
+          "value": "4.2g (±0.2g)"
+        },
+        {
+          "key": "Weight of charging case",
+          "value": "36.6g (±1g)"
+        },
+        {
+          "key": "Total weight",
+          "value": "45g (±1g)"
+        },
+        {
+          "key": "Charging port",
+          "value": "Type-C"
+        },
+        {
+          "key": "Earbud input parameters",
+          "value": "5V ⎓ 100mA"
+        },
+        {
+          "key": "Charging case input parameters",
+          "value": "5V ⎓ 1200mA"
+        },
+        {
+          "key": "Charging case output parameters",
+          "value": "5V ⎓ 200mA"
+        },
+        {
+          "key": "Bluetooth protocols",
+          "value": "Bluetooth® Low Energy / HFP / A2DP / AVRCP"
+        },
+        {
+          "key": "Communication range",
+          "value": "10m (open space free of obstacles)"
+        },
+        {
+          "key": "Package Contents",
+          "value": "Xiaomi Buds 5 x 1, Charging case x 1, Type-C Charging cable x 1, User manual x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 9,
+        "doluAlan": 3,
+        "yuzde": "33%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi OpenWear Stereo",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-openwear-stereo/specs",
+      "category": "earphone",
+      "extractedAt": "2025-10-12T21:02:09.960Z",
+      "features": {
+        "batarya": {
+          "kulaklik": "60 mAh",
+          "kutu": "788 mAh",
+          "kullanim_suresi": "7,5 saat"
+        },
+        "ses": {
+          "driver_boyutu": "",
+          "anc": "",
+          "codec": ""
+        },
+        "baglanti": {
+          "bluetooth": "Bluetooth® 5.3",
+          "bluetooth_versiyon": "5.3"
+        },
+        "koruma": {
+          "ip_sertifikası": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Form",
+          "value": "OpenWear Stereo"
+        },
+        {
+          "key": "Model",
+          "value": "M2319E1"
+        },
+        {
+          "key": "Renk",
+          "value": "Kozmik Gri, Kum Beji"
+        },
+        {
+          "key": "Frekans tepkisi aralığı",
+          "value": "20-40 kHz"
+        },
+        {
+          "key": "Tek bir kulaklığın ağırlığı",
+          "value": "9,6 g（±0,2 g）"
+        },
+        {
+          "key": "Tek bir kulaklığın boyutları",
+          "value": "54,24 mm * 39,3 mm * 13,79 mm"
+        },
+        {
+          "key": "Şarj kutusunun ağırlığı",
+          "value": "68,78 g（±1 g）"
+        },
+        {
+          "key": "Şarj kutusunun boyutları",
+          "value": "105,8 mm * 55,4 mm * 26,1 mm"
+        },
+        {
+          "key": "Toplam ağırlık",
+          "value": "88 g（±1 g）"
+        },
+        {
+          "key": "Şarj bağlantı noktası",
+          "value": "Type-C"
+        },
+        {
+          "key": "Kulaklık giriş parametreleri",
+          "value": "5V ⎓ 130 mA"
+        },
+        {
+          "key": "Şarj kutusu giriş parametreleri",
+          "value": "5V ⎓ 1 A"
+        },
+        {
+          "key": "Şarj kutusu çıkış parametreleri",
+          "value": "5V ⎓ 260 mA"
+        },
+        {
+          "key": "Şarj kutusunun pil ömrü",
+          "value": "38,5 saat"
+        },
+        {
+          "key": "Bluetooth protokolleri",
+          "value": "Bluetooth® Düşük Enerji / HFP / A2DP / AVRCP"
+        },
+        {
+          "key": "İletişim aralığı",
+          "value": "10 m (engelsiz açık alan)"
+        },
+        {
+          "key": "Hoparlör empedansı",
+          "value": "16 Ω"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Xiaomi OpenWear Stereo x 1, Şarj kutusu x 1, Type-C şarj kablosu x1, Kullanım kılavuzu x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 9,
+        "doluAlan": 5,
+        "yuzde": "56%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Type C Earphones",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-type-c-earphones/specs",
+      "category": "earphone",
+      "extractedAt": "2025-10-12T21:02:48.649Z",
+      "features": {
+        "batarya": {
+          "kulaklik": "",
+          "kutu": "",
+          "kullanim_suresi": ""
+        },
+        "ses": {
+          "driver_boyutu": "",
+          "anc": "",
+          "codec": ""
+        },
+        "baglanti": {
+          "bluetooth": "No",
+          "bluetooth_versiyon": "No"
+        },
+        "koruma": {
+          "ip_sertifikası": ""
+        },
+        "otherFeatures": [
+          {
+            "key": "Ürün türü",
+            "value": "Kulak içi"
+          },
+          {
+            "key": "Renk",
+            "value": "Siyah, Beyaz"
+          },
+          {
+            "key": "Kulaklıkların ağırlığı",
+            "value": "13,5 g"
+          },
+          {
+            "key": "Kablo malzemesi",
+            "value": "TPE"
+          },
+          {
+            "key": "Kablo uzunluğu",
+            "value": "1,25 m"
+          },
+          {
+            "key": "Hoparlörün hassasiyeti",
+            "value": "3 mW 1000 Hz'de ≥108 dB SPL"
+          },
+          {
+            "key": "Hoparlör empedansı",
+            "value": "32 Ω"
+          }
+        ]
+      },
+      "extractionQuality": {
+        "toplamAlan": 9,
+        "doluAlan": 2,
+        "yuzde": "22%",
+        "ekstraOzellikSayisi": 7
+      }
+    }
+  ]
+}

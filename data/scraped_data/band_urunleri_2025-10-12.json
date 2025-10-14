@@ -1,0 +1,704 @@
+{
+  "kategoriAnahtari": "band",
+  "kategoriAdi": "Akıllı Bileklikler",
+  "cekilmeTarihi": "2025-10-12T21:43:06.889Z",
+  "toplamUrunSayisi": 11,
+  "urunler": [
+    {
+      "productName": "",
+      "productUrl": "https://www.mi.com/tr/product/bundle/3223712722/specs",
+      "category": "band",
+      "extractedAt": "2025-10-12T20:50:19.356Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "tip": ""
+        },
+        "sensorler": {
+          "kalp_atisi": ""
+        },
+        "koruma": {
+          "ip_sertifikası": ""
+        },
+        "otherFeatures": []
+      },
+      "extractionQuality": {
+        "toplamAlan": 5,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "",
+      "productUrl": "https://www.mi.com/tr/product/bundle/3223712723/specs",
+      "category": "band",
+      "extractedAt": "2025-10-12T20:50:44.606Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "tip": ""
+        },
+        "sensorler": {
+          "kalp_atisi": ""
+        },
+        "koruma": {
+          "ip_sertifikası": ""
+        },
+        "otherFeatures": [
+          {
+            "key": "web sitemizin temel işlevlerini sürdürmek",
+            "value": "web sitemizi, çevrimiçi ürün ve hizmetlerimizi iyileştirmemize yardımcı olmak için web sitesi performansını tespit etmek ve kişiselleştirilmiş içerik ile özel reklamlar sunarak deneyiminizi geliştirmek üzere birinci ve üçüncü taraf tanımlama bilgileri kullanabilir."
+          },
+          {
+            "key": "Tercihlerinizi yönetmek için bir seçenek belirleyin",
+            "value": "Tanımlama Bilgileri Ayarlarına gidin. \"Daha Fazla Bilgi\""
+          },
+          {
+            "key": "Tanımlama Bilgisi Ayarları",
+            "value": "Tanımlama Bilgisi Ayarları Tümünü Kabul Et Tümünü Reddet"
+          }
+        ]
+      },
+      "extractionQuality": {
+        "toplamAlan": 5,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 3
+      }
+    },
+    {
+      "productName": "",
+      "productUrl": "https://www.mi.com/tr/product/bundle/3223712724/specs",
+      "category": "band",
+      "extractedAt": "2025-10-12T20:51:15.861Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "tip": ""
+        },
+        "sensorler": {
+          "kalp_atisi": ""
+        },
+        "koruma": {
+          "ip_sertifikası": ""
+        },
+        "otherFeatures": []
+      },
+      "extractionQuality": {
+        "toplamAlan": 5,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "",
+      "productUrl": "https://www.mi.com/tr/product/bundle/3223712725/specs",
+      "category": "band",
+      "extractedAt": "2025-10-12T20:51:40.438Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "tip": ""
+        },
+        "sensorler": {
+          "kalp_atisi": ""
+        },
+        "koruma": {
+          "ip_sertifikası": ""
+        },
+        "otherFeatures": []
+      },
+      "extractionQuality": {
+        "toplamAlan": 5,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "",
+      "productUrl": "https://www.mi.com/tr/product/bundle/3223712726/specs",
+      "category": "band",
+      "extractedAt": "2025-10-12T20:52:02.499Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "tip": ""
+        },
+        "sensorler": {
+          "kalp_atisi": ""
+        },
+        "koruma": {
+          "ip_sertifikası": ""
+        },
+        "otherFeatures": []
+      },
+      "extractionQuality": {
+        "toplamAlan": 5,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "",
+      "productUrl": "https://www.mi.com/tr/product/bundle/3223718173/specs",
+      "category": "band",
+      "extractedAt": "2025-10-12T20:52:25.097Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "tip": ""
+        },
+        "sensorler": {
+          "kalp_atisi": ""
+        },
+        "koruma": {
+          "ip_sertifikası": ""
+        },
+        "otherFeatures": []
+      },
+      "extractionQuality": {
+        "toplamAlan": 5,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Smart Band 8 Pro",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-smart-band-8-pro/specs",
+      "category": "band",
+      "extractedAt": "2025-10-12T20:52:49.693Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "",
+          "kapasite": "289mAh",
+          "tip": "Lityum iyon polimer pil"
+        },
+        "ekran": {
+          "boyut": "1.74 inç",
+          "tip": "AMOLED renkli kare ekran",
+          "cozunurluk": "336 x 480, 336 PPI",
+          "parlaklik": "maksimum 600 nit"
+        },
+        "sensorler": {
+          "kalp_atisi": "Optik kalp atış hızı ve nabız oksimetresi",
+          "ivme_olcer": "İvme ölçer",
+          "jiroskop": "Jiroskop",
+          "ortam_isigi": "Ortam ışığı sensörü"
+        },
+        "koruma": {
+          "ip_sertifikası": "5ATM"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Ürün Modeli",
+          "value": "M2333B1"
+        },
+        {
+          "key": "Net Ağırlık",
+          "value": "Yaklaşık 22,5 g (kayışsız ağırlık)"
+        },
+        {
+          "key": "Boyutlar",
+          "value": "46 x 33,35 x 9,99 mm (kalp atış hızı sensörü hariç)"
+        },
+        {
+          "key": "Kapak Malzemesi",
+          "value": "GG3 güçlendirilmiş cam"
+        },
+        {
+          "key": "Yüzey Malzemesi",
+          "value": "Yüksek mukavemetli fiber polimer + NCVM"
+        },
+        {
+          "key": "Veri Bağlantısı",
+          "value": "GNSS, Bluetooth® 5.3 desteği"
+        },
+        {
+          "key": "Dokunsal Motor",
+          "value": "Rotor motoru"
+        },
+        {
+          "key": "Şarj Süresi",
+          "value": "Yaklaşık 80 dk."
+        },
+        {
+          "key": "Uyumlu Bilek Çevresi Ölçüleri",
+          "value": "135 - 205 mm"
+        },
+        {
+          "key": "Kayış Malzemesi",
+          "value": "TPU"
+        },
+        {
+          "key": "İşletim Sistemi",
+          "value": "Android 8.0 veya iOS 12.0 ve üzeri sürümler"
+        },
+        {
+          "key": "Uyumlu Uygulamalar",
+          "value": "Mi Fitness uygulaması"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 12,
+        "doluAlan": 11,
+        "yuzde": "92%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Smart Band 9 Active",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-smart-band-9-active/specs",
+      "category": "band",
+      "extractedAt": "2025-10-12T20:53:24.528Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "18 güne kadar",
+          "kapasite": "300 mAh",
+          "sarj_suresi": "120 dakikadan az"
+        },
+        "ekran": {
+          "boyut": "1.47 inç",
+          "tip": "TFT",
+          "cozunurluk": "172 x 320 piksel, 247 PPI",
+          "malzeme": "Güçlendirilmiş cam kapak"
+        },
+        "sensorler": {
+          "kalp_atisi": "PPG sensörü",
+          "ivme_olcer": "İvme ölçer",
+          "motor": "ERM"
+        },
+        "koruma": {
+          "ip_sertifikası": "5 ATM"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Boyutlar",
+          "value": "45,9 x 26,94 x 9,99 mm"
+        },
+        {
+          "key": "Ağırlık",
+          "value": "16,5 g (kayışsız)"
+        },
+        {
+          "key": "Bileklik Kayışı",
+          "value": "Ayarlanabilir uzunluk: 135-215 mm, Malzeme: TPU, Renk: Siyah, Bej Beyaz, Pembe"
+        },
+        {
+          "key": "Bileklik kadranları",
+          "value": "100'den fazla"
+        },
+        {
+          "key": "Fitness",
+          "value": "50 fitness modu"
+        },
+        {
+          "key": "Sağlık",
+          "value": "SpO₂ izleme, Uyku izleme, Kadın sağlığı yönetimi, Stres ölçümü"
+        },
+        {
+          "key": "Uygulama",
+          "value": "Mi Fitness"
+        },
+        {
+          "key": "Bluetooth",
+          "value": "Bluetooth® 5.3 BLE"
+        },
+        {
+          "key": "Uyumluluk",
+          "value": "Android 8.0/iOS 14.0 ve üzeri sürümlerin yüklü olduğu akıllı telefonları destekler"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Bileklik gövdesi x1, Bileklik kayışı x1, Özel şarj kablosu x1, Kullanım kılavuzu x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 11,
+        "doluAlan": 11,
+        "yuzde": "100%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Smart Band 9 Pro",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-smart-band-9-pro/specs",
+      "category": "band",
+      "extractedAt": "2025-10-12T20:54:02.477Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "",
+          "kapasite": "350 mAh",
+          "sarj_suresi": "Yaklaşık 75 dk"
+        },
+        "ekran": {
+          "boyut": "1.74 inç",
+          "tip": "AMOLED Dokunmatik Ekran",
+          "cozunurluk": "336 x 480 piksel",
+          "parlaklik": "Otomatik parlaklık ayarıyla maksimum 1200 nit"
+        },
+        "sensorler": {
+          "kalp_atisi": "Optik kalp atış hızı ve nabız oksimetresi",
+          "ivme_olcer": "İvme Ölçer",
+          "jiroskop": "Jiroskop",
+          "elektronik_pusula": "Elektronik pusula",
+          "ortam_isigi": "Ortam ışığı sensörü"
+        },
+        "koruma": {
+          "ip_sertifikası": "5 ATM"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Boyutlar",
+          "value": "43,27 x 32,49 x 10,8 mm (kalp atış hızı sensörü hariç)"
+        },
+        {
+          "key": "Net Ağırlık",
+          "value": "Yaklaşık 24,5 g (kayışsız ağırlık)"
+        },
+        {
+          "key": "Renk",
+          "value": "Obsidyen Siyahı, Pembe Altın, Ay Işığı Grisi"
+        },
+        {
+          "key": "Kapak Malzemesi",
+          "value": "2.5D güçlendirilmiş cam"
+        },
+        {
+          "key": "Yüzey Malzemesi",
+          "value": "Alüminyum alaşımlı çerçeve ve yüksek mukavemetli fiber polimer"
+        },
+        {
+          "key": "Veri Bağlantısı",
+          "value": "GNSS, Bluetooth® 5.4 desteği"
+        },
+        {
+          "key": "Dokunsal Motor",
+          "value": "Doğrusal motor"
+        },
+        {
+          "key": "Uyumlu Bilek Çevresi Ölçüleri",
+          "value": "135-205 mm"
+        },
+        {
+          "key": "Bileklik Kayışı Malzemesi",
+          "value": "TPU"
+        },
+        {
+          "key": "İşletim Sistemi",
+          "value": "Android 8.0 veya iOS 12.0 ve üzeri sürümler"
+        },
+        {
+          "key": "Uyumlu Uygulamalar",
+          "value": "Mi Fitness uygulaması"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Taç x1, Kayış x1, Şarj kablosu x1, Kullanım kılavuzu x1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 13,
+        "doluAlan": 12,
+        "yuzde": "92%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Smart Band 9 Straps",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-smart-band-9-straps/specs",
+      "category": "band",
+      "extractedAt": "2025-10-12T20:54:56.702Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": ""
+        },
+        "ekran": {
+          "boyut": "",
+          "tip": ""
+        },
+        "sensorler": {
+          "kalp_atisi": ""
+        },
+        "koruma": {
+          "ip_sertifikası": ""
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Uyumlu modeller",
+          "value": "Xiaomi Akıllı Bileklik 8, Xiaomi Akıllı Bileklik 9"
+        },
+        {
+          "key": "Uygun bilek çevresi",
+          "value": "135–215 mm"
+        },
+        {
+          "key": "Kayış malzemesi",
+          "value": "Naylon"
+        },
+        {
+          "key": "Renk",
+          "value": "Gündoğumu Turuncusu"
+        },
+        {
+          "key": "Paket içeriği",
+          "value": "Xiaomi Örgülü Kayış × 1, Kullanım kılavuzu × 1"
+        },
+        {
+          "key": "Kayış malzemesi (Manyetik Kayış)",
+          "value": "Kona Deri (Silikon Deri)"
+        },
+        {
+          "key": "Renk (Manyetik Kayış)",
+          "value": "Haki Kahverengi"
+        },
+        {
+          "key": "Paket içeriği (Manyetik Kayış)",
+          "value": "Xiaomi Manyetik Kayış × 1, Kullanım kılavuzu × 1"
+        },
+        {
+          "key": "Uygun bilek çevresi (Manyetik Kayış)",
+          "value": "140–190 mm"
+        },
+        {
+          "key": "Kayış malzemesi (Cuban Zincir Kayışı)",
+          "value": "Paslanmaz Çelik"
+        },
+        {
+          "key": "Renk (Cuban Zincir Kayışı)",
+          "value": "Gümüş"
+        },
+        {
+          "key": "Paket içeriği (Cuban Zincir Kayışı)",
+          "value": "Xiaomi Cuban Zincir kayışı × 1, Kullanım kılavuzu × 1"
+        },
+        {
+          "key": "Uygun bilek çevresi (Cuban Zincir Kayışı)",
+          "value": "140–200 mm"
+        },
+        {
+          "key": "Kayış malzemesi (Asimetrik Metal Kayış)",
+          "value": "Paslanmaz Çelik"
+        },
+        {
+          "key": "Renk (Asimetrik Metal Kayış)",
+          "value": "Grafit Grisi"
+        },
+        {
+          "key": "Paket içeriği (Asimetrik Metal Kayış)",
+          "value": "Xiaomi Asimetrik Metal Kayış × 1, Kullanım kılavuzu × 1"
+        },
+        {
+          "key": "Uygun bilek çevresi (Asimetrik Metal Kayış)",
+          "value": "135–195 mm"
+        },
+        {
+          "key": "Toka malzemesi (Deri Kayış)",
+          "value": "Paslanmaz Çelik"
+        },
+        {
+          "key": "Kayış malzemesi (Deri Kayış)",
+          "value": "Dana derisi"
+        },
+        {
+          "key": "Renk (Deri Kayış)",
+          "value": "Seramik Beyazı"
+        },
+        {
+          "key": "Paket içeriği (Deri Kayış)",
+          "value": "Xiaomi Deri Kayış × 1, Kullanım kılavuzu × 1"
+        },
+        {
+          "key": "Uygun bilek çevresi (Deri Kayış)",
+          "value": "135–210 mm"
+        },
+        {
+          "key": "Toka malzemesi (Çift Tonlu Deri Kayış)",
+          "value": "Paslanmaz Çelik"
+        },
+        {
+          "key": "Kayış malzemesi (Çift Tonlu Deri Kayış)",
+          "value": "Dana Derisi, PU (iç)"
+        },
+        {
+          "key": "Renk (Çift Tonlu Deri Kayış)",
+          "value": "Beyaz ve Turuncu"
+        },
+        {
+          "key": "Paket içeriği (Çift Tonlu Deri Kayış)",
+          "value": "Xiaomi Çift Tonlu Deri Kayış × 1, Kullanım kılavuzu × 1"
+        },
+        {
+          "key": "Uygun bilek çevresi (Çift Tonlu Deri Kayış)",
+          "value": "140–180 mm"
+        },
+        {
+          "key": "Toka malzemesi (Zincir Kayışı)",
+          "value": "Paslanmaz Çelik"
+        },
+        {
+          "key": "Kayış malzemesi (Zincir Kayışı)",
+          "value": "Dana Derisi, Paslanmaz Çelik"
+        },
+        {
+          "key": "Renk (Zincir Kayışı)",
+          "value": "Mistik Gül"
+        },
+        {
+          "key": "Paket içeriği (Zincir Kayışı)",
+          "value": "Xiaomi Zincir Kayışı × 1, Kullanım kılavuzu × 1"
+        },
+        {
+          "key": "Uygun bilek çevresi (Zincir Kayışı)",
+          "value": "135–200 mm"
+        },
+        {
+          "key": "Kolye malzemesi (Akıllı Bileklik Kolye)",
+          "value": "Paslanmaz Çelik"
+        },
+        {
+          "key": "Paket içeriği (Akıllı Bileklik Kolye)",
+          "value": "Xiaomi Akıllı Bileklik Kolye × 1, Kullanım kılavuzu × 1"
+        },
+        {
+          "key": "Uyumlu model (Koşu Klipsi)",
+          "value": "Xiaomi Akıllı Bileklik 9"
+        },
+        {
+          "key": "Malzeme (Koşu Klipsi)",
+          "value": "PC, TPU"
+        },
+        {
+          "key": "Kullanılabileceği senaryolar (Koşu Klipsi)",
+          "value": "Koşu, Bisiklet"
+        },
+        {
+          "key": "Desteklenen veri öğeleri (Koşu Klipsi)",
+          "value": "Adım sayısı, adım, kadans (SPM), tempo, mesafe, kadans-tempo oranı, yer temas süresi, uçuş süresi, uçuş oranı, içe basma ve dışa basma, ayak vuruş modeli, darbe kuvveti, kadans (RPM)"
+        },
+        {
+          "key": "Paket içeriği (Koşu Klipsi)",
+          "value": "Koşu Klipsi × 1, Kullanım kılavuzu × 1"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 5,
+        "doluAlan": 0,
+        "yuzde": "0%",
+        "ekstraOzellikSayisi": 0
+      }
+    },
+    {
+      "productName": "Xiaomi Smart Band 9",
+      "productUrl": "https://www.mi.com/tr/product/xiaomi-smart-band-9/specs",
+      "category": "band",
+      "extractedAt": "2025-10-12T20:55:44.628Z",
+      "features": {
+        "batarya": {
+          "kullanim_suresi": "21 güne kadar",
+          "kapasite": "233 mAh"
+        },
+        "ekran": {
+          "boyut": "1,62 inç",
+          "tip": "AMOLED Dokunmatik Ekran"
+        },
+        "sensorler": {
+          "kalp_atisi": "Optik kalp atış hızı sensörü"
+        },
+        "koruma": {
+          "ip_sertifikası": "5 ATM"
+        }
+      },
+      "otherFeatures": [
+        {
+          "key": "Boyutlar",
+          "value": "46,53 x 21,63 x 10,95 mm"
+        },
+        {
+          "key": "Ağırlık",
+          "value": "15,8 g (kayışsız)"
+        },
+        {
+          "key": "Bileklik Kayışı Boyut",
+          "value": "135–210 mm"
+        },
+        {
+          "key": "Bileklik Kayışı Malzemesi",
+          "value": "TPU"
+        },
+        {
+          "key": "Bileklik Kayışı Renkleri",
+          "value": "Gece Siyahı | Buz Gümüşü | Mistik Pembe | Kutup Mavisi"
+        },
+        {
+          "key": "Ekran Çözünürlük",
+          "value": "192 x 490 piksel"
+        },
+        {
+          "key": "Ekran Parlaklık",
+          "value": "1200 nit'e kadar, ayarlanabilir"
+        },
+        {
+          "key": "Şarj Tipi",
+          "value": "Manyetik şarj özelliği"
+        },
+        {
+          "key": "Şarj Süresi",
+          "value": "Yaklaşık 1 saat"
+        },
+        {
+          "key": "Diğer Sensörler",
+          "value": "İvme ölçer sensörü/Jiroskop sensörü/Ortam ışığı sensörü"
+        },
+        {
+          "key": "Motor",
+          "value": "Doğrusal motor"
+        },
+        {
+          "key": "Uygulama",
+          "value": "Mi Fitness"
+        },
+        {
+          "key": "Uyumluluk",
+          "value": "Android 8.0 veya iOS 12.0 ve üzeri sürümlerin yüklü olduğu akıllı telefonları destekler"
+        },
+        {
+          "key": "Paket İçeriği",
+          "value": "Xiaomi Akıllı Bileklik 9/Manyetik şarj kablosu/Kullanım kılavuzu"
+        }
+      ],
+      "extractionQuality": {
+        "toplamAlan": 6,
+        "doluAlan": 6,
+        "yuzde": "100%",
+        "ekstraOzellikSayisi": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xiaomi E-Atık AI Analiz Sistemi</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🔋 Xiaomi E-Atık AI Analiz Sistemi</h1>
+            <p>Xiaomi cihazları için 3 perspektifli kapsamlı geri dönüşüm analizi</p>
+            <a href="/logout" class="logout-btn">Çıkış Yap</a>
+        </header>
+        
+        <div class="main-tabs">
+            <button class="main-tab active" data-main-tab="analyze">Ürün Analizi</button>
+            <button class="main-tab" data-main-tab="chatbot">Chatbot (Soru-Cevap)</button>
+        </div>
+
+        <div id="main-analyze" class="main-content active">
+            <div class="search-section">
+                <select id="productSelect">
+                    <option value="" disabled selected>Lütfen analiz edilecek ürünü seçin...</option>
+                </select>
+                <button id="analyzeBtn">Analiz Et</button>
+            </div>
+            
+            <div id="loading" class="loading hidden">
+                <div class="spinner"></div>
+                <p>Yapay Zeka ile analiz ediliyor...</p>
+            </div>
+            
+            <div id="error" class="error hidden"></div>
+            
+            <div id="results" class="results hidden">
+                
+                                <div id="content-individual" class="content-panel active">
+                                    </div>
+                            </div>
+        </div>
+        
+        <div id="main-chatbot" class="main-content">
+            <div class="chat-area">
+                <div id="chatMessages" class="chat-messages">
+                    <div class="bot-message">Merhaba! Xiaomi e-atık ve geri dönüşüm hakkında ne sormak istersiniz?</div>
+                </div>
+                <div class="chat-input-area">
+                    <input type="text" id="chatInput" placeholder="Sorunuzu buraya yazın..." autocomplete="off">
+                    <button id="chatSendBtn">Gönder</button>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <script src="/static/app.js"></script>
+</body>
+</html>
