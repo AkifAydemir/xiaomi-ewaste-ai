@@ -4,6 +4,8 @@ Türkçe e-atık araştırma demosu: ürün kataloğu, yerel geri dönüşüm ka
 anahtar sözcük tabanlı bilgi getirme ve OpenRouter üzerinden yanıt üretimi.
 Xiaomi ile bağlantılı veya Xiaomi tarafından onaylanmış bir ürün değildir.
 
+![Tek renk ailesindeki güncel arayüzde yerel kaynak araması; model çağrısı yapılmaz ve örnek kayıtlar doğrulanmamıştır](docs/assets/ewaste-palette-20261010.jpg)
+
 ## Yerelde çalıştırma
 
 ### Anahtarsız ilk demo
