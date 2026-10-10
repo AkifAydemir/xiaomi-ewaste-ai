@@ -1,6 +1,8 @@
 # Verification — 2026-10-10
 
-- 12 standard-library unittest cases passed on Windows / Python 3.13.
+- Latest icon update: 13 standard-library unittest cases passed in the local
+  virtual environment on Windows / Python 3.13. The added case verifies the
+  favicon link on both pages and the served SVG response.
 - Actual local dataset parsing, multi-token search, no-match/filter handling,
   stable product IDs, authentication, JSON validation, body size, security
   headers and loopback-only demo bypass covered.
@@ -10,7 +12,7 @@
 - Repeated scraped product snapshots deduplicated by category/name; 127 catalog
   entries loaded. Names with + suffixes retain distinct stable hashed IDs.
   The numeric count is data-revision-specific.
-- Fresh virtual environment installed from requirements.txt; all 12 tests passed
+- Earlier fresh virtual environment check installed requirements.txt; the then-current 12 tests passed
   there as well. No preinstalled embedding or vector-database package required.
 
 Not verified: real OpenRouter request, answer factuality, Render deployment,

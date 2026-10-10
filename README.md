@@ -33,7 +33,7 @@ akışında birleştirmektir.
 
 **Neden bu yöntem?** Yerel sözcük araması ilk denemeyi API anahtarı, model
 indirme veya ücretli çağrı olmadan tekrarlanabilir kılar. Buna karşılık arama
-kalitesi veri sözcüklerine bağlıdır. [12 regresyon testi](tests/test_app.py);
+kalitesi veri sözcüklerine bağlıdır. [13 regresyon testi](tests/test_app.py);
 ürün kimliklerini, oturum/girdi sözleşmelerini, loopback demo sınırını ve
 anahtarsız yolda ağ çağrısı yapılmamasını denetler. Bunlar yanıtların bilimsel
 doğruluğunu veya üretim güvenliğini kanıtlamaz.

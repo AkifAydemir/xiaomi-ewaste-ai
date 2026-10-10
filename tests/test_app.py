@@ -36,6 +36,17 @@ class ApplicationTests(unittest.TestCase):
             self.assertEqual(response.status_code, 200)
             self.assertIn(b"fetch('/api/login'", response.data)
 
+    def test_favicon_is_served_and_linked(self):
+        with self.client.session_transaction() as session:
+            session['logged_in'] = True
+        for path in ('/login', '/'):
+            with self.client.get(path, follow_redirects=True) as response:
+                self.assertIn(b'href="/static/favicon.svg"', response.data)
+        with self.client.get('/static/favicon.svg') as response:
+            self.assertEqual(response.status_code, 200)
+            self.assertIn(b'<svg', response.data)
+            self.assertIn('image/svg+xml', response.content_type)
+
     def test_authenticated_validation_and_success(self):
         from unittest.mock import Mock
         engine = Mock()
