@@ -1,59 +1,56 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="tr">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Xiaomi E-Atık AI Analiz Sistemi</title>
-    <link rel="stylesheet" href="/static/styles.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>E-atık Araştırma Atölyesi</title>
+  <link rel="stylesheet" href="/static/styles.css">
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>🔋 Xiaomi E-Atık AI Analiz Sistemi</h1>
-            <p>Xiaomi cihazları için 3 perspektifli kapsamlı geri dönüşüm analizi</p>
-            <a href="/logout" class="logout-btn">Çıkış Yap</a>
-        </header>
-        
-        <div class="main-tabs">
-            <button class="main-tab active" data-main-tab="analyze">Ürün Analizi</button>
-            <button class="main-tab" data-main-tab="chatbot">Chatbot (Soru-Cevap)</button>
-        </div>
-
-        <div id="main-analyze" class="main-content active">
-            <div class="search-section">
-                <select id="productSelect">
-                    <option value="" disabled selected>Lütfen analiz edilecek ürünü seçin...</option>
-                </select>
-                <button id="analyzeBtn">Analiz Et</button>
-            </div>
-            
-            <div id="loading" class="loading hidden">
-                <div class="spinner"></div>
-                <p>Yapay Zeka ile analiz ediliyor...</p>
-            </div>
-            
-            <div id="error" class="error hidden"></div>
-            
-            <div id="results" class="results hidden">
-                
-                                <div id="content-individual" class="content-panel active">
-                                    </div>
-                            </div>
-        </div>
-        
-        <div id="main-chatbot" class="main-content">
-            <div class="chat-area">
-                <div id="chatMessages" class="chat-messages">
-                    <div class="bot-message">Merhaba! Xiaomi e-atık ve geri dönüşüm hakkında ne sormak istersiniz?</div>
-                </div>
-                <div class="chat-input-area">
-                    <input type="text" id="chatInput" placeholder="Sorunuzu buraya yazın..." autocomplete="off">
-                    <button id="chatSendBtn">Gönder</button>
-                </div>
-            </div>
-        </div>
-
-    </div>
-    <script src="/static/app.js"></script>
+  <main class="container">
+    <header>
+      <p class="eyebrow">BAĞIMSIZ ARAŞTIRMA PROJESİ</p>
+      <h1>E-atık Araştırma Atölyesi</h1>
+      <p>Ürün kataloğundan başlayın, geri dönüşüm kayıtlarını inceleyin.</p>
+      <a href="/logout" class="logout-btn">Çıkış Yap</a>
+    </header>
+    <section class="intro" aria-label="Kullanım bilgisi">
+      <p id="serviceStatus" role="status">Servis durumu kontrol ediliyor…</p>
+      <p>1. Ürün seçin · 2. Kayıtları inceleyin · 3. Kaynağı doğrulayın</p>
+      <small>Deneysel demo. Xiaomi ile bağlantılı değildir. Örnek kayıtlar doğrulanmış güvenlik, mevzuat veya söküm talimatı değildir.</small>
+    </section>
+    <div class="main-tabs" role="tablist" aria-label="Araştırma yöntemi">
+      <button id="tab-analyze" class="main-tab active" data-main-tab="analyze" role="tab" aria-selected="true" aria-controls="main-analyze">Ürün Kataloğu</button>
+      <button id="tab-chatbot" class="main-tab" data-main-tab="chatbot" role="tab" aria-selected="false" aria-controls="main-chatbot">Kaynaklara Sor</button>
+    </div>
+    <section id="main-analyze" class="main-content active" role="tabpanel" aria-labelledby="tab-analyze">
+      <div class="search-section">
+        <label class="visually-hidden" for="productSelect">Araştırılacak ürün</label>
+        <select id="productSelect"><option value="" disabled selected>Bir ürün seçin…</option></select>
+        <button id="analyzeBtn" disabled>Kayıtları İncele</button>
+        <button id="retryBtn" class="secondary">Yenile</button>
+      </div>
+      <div id="loading" class="loading hidden" role="status">Kaynaklar inceleniyor…</div>
+      <div id="error" class="error hidden" role="alert"></div>
+      <section id="results" class="results hidden" aria-label="Araştırma sonucu" aria-live="polite">
+        <h2>Araştırma sonucu</h2>
+        <p class="source-note">Yerel kayıt kaynağı: data/recycling_dataset.txt · Örnek veri, bağımsız doğrulama gerekli.</p>
+        <div id="content-individual" class="content-panel active"></div>
+      </section>
+    </section>
+    <section id="main-chatbot" class="main-content" role="tabpanel" aria-labelledby="tab-chatbot">
+      <div class="chat-area">
+        <div id="chatMessages" class="chat-messages" role="log" aria-live="polite">
+          <div class="bot-message">Yerel kaynak araması için “battery”, “phone” veya “cathode” deneyin. Kayıtlar İngilizcedir; eşleşme bulunamadığında bunu açıkça belirtiriz.</div>
+        </div>
+        <div class="chat-input-area">
+          <label class="visually-hidden" for="chatInput">Araştırma sorusu</label>
+          <input id="chatInput" placeholder="Örneğin: phone battery" maxlength="2000" autocomplete="off">
+          <button id="chatSendBtn">Araştır</button>
+        </div>
+      </div>
+    </section>
+  </main>
+  <script src="/static/app.js"></script>
 </body>
 </html>

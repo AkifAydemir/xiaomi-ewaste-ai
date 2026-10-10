@@ -9,3 +9,11 @@ services:
         value: 3.11.7
       - key: OPENROUTER_API_KEY
         sync: false
+      - key: SECRET_KEY
+        generateValue: true
+      - key: APP_USERNAME
+        value: demo
+      - key: APP_PASSWORD
+        sync: false
+      - key: COOKIE_SECURE
+        value: true

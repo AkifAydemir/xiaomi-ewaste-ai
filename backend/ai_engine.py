@@ -3,10 +3,10 @@
 import requests
 import json
 import os
-import uuid 
 from backend.config import Config
 from backend.vector_db import VectorDatabase 
 import re 
+import hashlib
 
 # DÜZELTİLMİŞ YOL TANIMI: data/scraped_data klasörünü bulur
 SCRAPED_DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data', 'scraped_data')
@@ -14,9 +14,6 @@ SCRAPED_DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'dat
 class AIEngine:
     def __init__(self):
         # API anahtarının mevcut olduğundan emin ol
-        if not Config.OPENROUTER_API_KEY:
-             raise ValueError("API Key is missing. Please set OPENROUTER_API_KEY in backend/config.py")
-
         self.vector_db = VectorDatabase() 
         self.api_key = Config.OPENROUTER_API_KEY
         
@@ -39,7 +36,7 @@ class AIEngine:
             return {}
 
         try:
-            for filename in os.listdir(SCRAPED_DATA_DIR):
+            for filename in sorted(os.listdir(SCRAPED_DATA_DIR)):
                 if filename.endswith('.json') and not filename.startswith('all_products'):
                     filepath = os.path.join(SCRAPED_DATA_DIR, filename)
                     total_files_read += 1
@@ -58,14 +55,15 @@ class AIEngine:
                                 continue
 
                             safe_name = re.sub(r'[^\w\s-]', '', product_name).strip().replace(' ', '_')
-                            unique_key = f"{category}_{safe_name}"
+                            identity = hashlib.sha256(f'{category}\0{product_name}'.encode('utf-8')).hexdigest()[:16]
+                            unique_key = f"{category}_{safe_name}_{identity}"
                             
                             if unique_key in data:
-                                unique_key = f"{unique_key}_{str(uuid.uuid4())[:8]}"
+                                continue  # Same category/name appears in repeated scrape snapshots.
 
                             data[unique_key] = product
             
-            print(f"✅ {total_files_read} dosya okundu. {total_products_checked} ürün kaydı incelendi. {len(data)} benzersiz ürün yüklendi.")
+            print(f"Loaded {len(data)} products from {total_files_read} files.")
             return data
             
         except Exception as e:
@@ -85,6 +83,17 @@ class AIEngine:
         products.sort(key=lambda x: x['name'])
         return products
 
+    def _source_result(self, query, field):
+        records = self.vector_db.search(query, n_results=5)['metadatas'][0]
+        sources = [{'component': record['component'], 'perspective': record['perspective'],
+                    'text': record['output'], 'source': 'data/recycling_dataset.txt',
+                    'verified': False} for record in records]
+        text = ('Yerel kaynak araması — model çağrısı yapılmadı. Kayıtlar doğrulanmamış örnek veridir.\n\n'
+                + '\n\n'.join(record['component'] + '\n' + record['output'] for record in records))
+        if not records:
+            text += 'Eşleşen kayıt bulunamadı. Telefon için phone, batarya için battery veya cathode aramayı deneyin.'
+        return {'success': True, field: text, 'mode': 'local_sources', 'sources': sources}
+
     # ----------------------------------------------------------------------
     # 1. XIAOMI'YE ÖZGÜ ÜRÜN ANALİZ METODU (ULTRA-VERİ ODAKLI PROMPT)
     # ----------------------------------------------------------------------
@@ -101,6 +110,8 @@ class AIEngine:
 
         product_name = device_data.get('productName', 'Seçilen Cihaz')
         product_category = device_data.get('category', 'Genel Cihaz') 
+        if not self.api_key:
+            return self._source_result(f'{product_name} {product_category}', 'analysis')
 
         # 1. Kategori bazlı sorgu oluştur (Dataset'i arama komutu)
         user_query = f"{product_category.upper()} cihazlarının (Örn: {product_name}) e-atık geri dönüşüm analizi"
@@ -192,7 +203,7 @@ class AIEngine:
                 return {"success": False, "error": "API'dan geçerli bir cevap alınamadı."}
 
         except requests.exceptions.HTTPError as e:
-            error_message = f"HTTP Hatası ({e.response.status_code}): {e.response.text}"
+            error_message = f"Model servisi isteği reddetti ({e.response.status_code}). Sunucu ayarlarını kontrol edin."
             return {"success": False, "error": error_message}
         except Exception as e:
             return {"success": False, "error": f"OpenRouter API Hatası: {str(e)}"}
@@ -223,7 +234,7 @@ class AIEngine:
                 return {"success": False, "error": "API'dan geçerli bir cevap alınamadı."}
 
         except requests.exceptions.HTTPError as e:
-            error_message = f"HTTP Hatası ({e.response.status_code}): {e.response.text}"
+            error_message = f"Model servisi isteği reddetti ({e.response.status_code}). Sunucu ayarlarını kontrol edin."
             return {"success": False, "error": error_message}
         except Exception as e:
             return {"success": False, "error": f"Chatbot OpenRouter API Hatası: {str(e)}"}
@@ -231,6 +242,8 @@ class AIEngine:
     def answer_query(self, user_query):
         """Kullanıcı sorgusuna RAG kullanarak cevap verir."""
         
+        if not self.api_key:
+            return self._source_result(user_query, 'response')
         # 1. Vektör veritabanından ilgili bağlamı çek
         results_all = self.vector_db.search(user_query, perspective=None, n_results=5)
         context = "Relevant E-Waste Database Information:\n\n"
